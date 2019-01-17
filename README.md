@@ -20,4 +20,4 @@ https://jekyllrb.com/docs/installation/windows/
 * ```bundle install```
 * ```bundle update```
 * Add ```require 'em/pure_ruby``` to head of ```C:\Ruby25-x64\lib\ruby\gems\2.5.0\gems\eventmachine-1.2.5-x64-mingw32\lib\eventmachine.rb```
-* ```bundle exec jekyll serve --livereload```
+* ```bundle exec jekyll serve``` Can't uses --livereload as it errors so use F5 to refresh browser
