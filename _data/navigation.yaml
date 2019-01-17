@@ -46,6 +46,14 @@
     pages:
     - name: User Requirements
       url: "/fundamentals/coga/requirements"
+    - name: Design Themes
+      url: "/fundamentals/coga/themes"
+    - name: Design Techniques
+      url: "/fundamentals/coga/techniques"
+    - name: Gap Analysis
+      url: "/fundamentals/coga/gap"
+    - name: User Research
+      url: "/fundamentals/coga/research"
   - name: Older Users and Accessibility
     url: "/older-users/"
     pages:

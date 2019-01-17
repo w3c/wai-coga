@@ -26,7 +26,7 @@ doc-note-message-md: |
 People with Cognitive and Learning Disabilities can experience a wide range of barriers to using technology.
 Designing products that avoid such barriers requires careful attention content as well as technical accessibility.
 
-This page provides a introduces Cognitive and Learning Disabilities .
+This page introduces Cognitive and Learning Disabilities.
 
 {::nomarkdown}
 {% include box.html type="end" %}
