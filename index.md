@@ -8,11 +8,14 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   Purpose: Orientation and show visitors to the resources they will find useful for their task in hand
+
   Outline:
+  
   - Short outline of Coga
   - What are W3C WAI & Coga TF doing) - link to TF page
   - Where coga resources fit in other W3C activities, esp. WCGA & Personalization
   - Task based signposting to appropriate resources
+
   Primary audience: Someone who wants to learn about coga in general or in order to perform a task.
 ---
 
