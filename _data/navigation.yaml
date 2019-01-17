@@ -43,6 +43,9 @@
       url: "/people-use-web/tools-techniques/"
   - name: Cognitive Disabilities
     url: /fundamentals/coga/
+    pages:
+    - name: User Requirements
+      url: "/fundamentals/coga/requirements"
   - name: Older Users and Accessibility
     url: "/older-users/"
     pages:
