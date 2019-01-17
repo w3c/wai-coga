@@ -13,12 +13,12 @@ doc-note-message-md: |
 
   **Outline:**
   
-    - Introduction to scope
+    - Introduction
     - Relationship to WCGA, UAAG & Personalization
     - Link to Themes
     - Link to Personas
     - Link to Testing guide
-    - Themes
+    - Themes - Interective content using TF voted format with tweaks 
       -  Title
       -  Description
       -  Methods
