@@ -7,9 +7,9 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Introduce coga, user requirements and how technology can support them
+  **Purpose:** Introduce cognitive and learning disbailities, user requirements and how technology can support them
 
-  **Primary audience:** Someone new to coga and wanting understand the issues and scope.
+  **Primary audience:** Someone new to coga and wanting understand issues with using technology.
 
   **Outline:**
   

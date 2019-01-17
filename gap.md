@@ -13,9 +13,9 @@ doc-note-message-md: |
 
   **Outline:**
   
-  - Introduce  where technology & techniques fall short of user requirements
-  - Pointer to Gap Analysis docs
-  - Pointer to Issue Papers
+  - Introduce where technology & techniques fall short of user requirements
+  - Pointer to Gap Analysis TR
+  - Pointer to Issue Papers on git hub (or move to WAI) 
   
 ---
 

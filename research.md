@@ -13,7 +13,7 @@ doc-note-message-md: |
 
   **Outline:**
   
-    - Overview of coga research
+    - Overview of coga research by the Coga TF
     - Pointer to Research TR
   
 ---
