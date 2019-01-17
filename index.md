@@ -5,6 +5,9 @@ github:
   repository: w3c/wai-coga
 layout: default
 feedbackmail: wai@w3.org
+doc-note-type: draft
+doc-note-message-md: >
+  This is a draft.
 ---
 
 <style>
@@ -48,7 +51,7 @@ This page provides a guide to the W3C WAI resources on ensuring accessibility fo
 {::options toc_levels="2" /}
 
 - This text will be replaced by the TOC.
-  {:toc}
+{:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
