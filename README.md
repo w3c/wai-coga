@@ -16,7 +16,8 @@ https://jekyllrb.com/docs/installation/windows/
 * ``` jekyll -v``` to test all OK
 * cd to ```wai-coga```
 * ``` jekyll -v``` if error then delete ```gemfile.lock```
-* Add ```require 'em/pure_ruby``` to head of ```C:\Ruby24-x64\lib\ruby\gems\2.4.0\gems\eventmachine-1.2.5-x64-mingw32\lib\eventmachine.rb```
+* Ensure gemfile has ```gem 'wdm', '>= 0.1.0' if Gem.win_platform?```
 * ```bundle install```
 * ```bundle update```
-* ```bundle exec jekyll serve```  --livereload errored for me
+* Add ```require 'em/pure_ruby``` to head of ```C:\Ruby25-x64\lib\ruby\gems\2.5.0\gems\eventmachine-1.2.5-x64-mingw32\lib\eventmachine.rb```
+* ```bundle exec jekyll serve --livereload```
