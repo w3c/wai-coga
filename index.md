@@ -60,11 +60,12 @@ Select the guides from below according to what you want to do:
         aria-expanded="false"
         data-toggle="collapse"
         data-target="#include" >
-        <span class="word-show"><svg
+        <span class="word-show">
+         <svg
             aria-hidden="true"
             class="i-chevron-right">
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-right"
+              xlink:href="{{ "/content-images/wai-coga/icons.svg#icon-chevron-right" | relative_url }}"
             ></use>
           </svg>
           Show</span
@@ -74,7 +75,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-down"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-down"
+              xlink:href="{{ "/content-images/wai-coga/icons.svg#icon-chevron-down" | relative_url }}"
             ></use>
           </svg>
           Hide</span
@@ -127,7 +128,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-right"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-right"
+              xlink:href="./icons.svg#icon-chevron-right"
             ></use>
           </svg>
           Show</span
@@ -137,7 +138,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-down"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-down"
+              xlink:href="./icons.svg#icon-chevron-down"
             ></use>
           </svg>
           Hide</span
@@ -174,7 +175,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-right"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-right"
+              xlink:href="./icons.svg#icon-chevron-right"
             ></use>
           </svg>
           Show</span
@@ -184,7 +185,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-down"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-down"
+              xlink:href="./icons.svg#icon-chevron-down"
             ></use>
           </svg>
           Hide</span
@@ -222,7 +223,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-right"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-right"
+              xlink:href="./icons.svg#icon-chevron-right"
             ></use>
           </svg>
           Show</span
@@ -232,7 +233,7 @@ Select the guides from below according to what you want to do:
             class="i-chevron-down"
           >
             <use
-              xlink:href="./all_files/icons.svg#icon-chevron-down"
+              xlink:href="./icons.svg#icon-chevron-down"
             ></use>
           </svg>
           Hide</span
