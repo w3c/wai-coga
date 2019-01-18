@@ -1,6 +1,6 @@
 ---
-title: Coga Task Force Work Statement
-permalink: /fundamentals/coga/work-statement
+title: Coga Task Force Information
+permalink: /fundamentals/coga/taskforce
 github:
   repository: w3c/wai-coga
 layout: default
@@ -13,13 +13,12 @@ doc-note-message-md: |
 
   **Outline:**
   
-  * Like the [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement)
+  * 2 pages similar to [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) & [Personalisation Work Statement](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) - menu doesn't seem correct for these pages
   * To replace [Old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
   * Link & text on [https://www.w3.org/WAI/GL/task-forces/](https://www.w3.org/WAI/GL/task-forces/) & [https://www.w3.org/WAI/GL/](https://www.w3.org/WAI/GL/)
   * Link and text on [https://www.w3.org/WAI/APA/task-forces/](https://www.w3.org/WAI/APA/task-forces/) & [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
   * Note: Actual page needs to appear in 2 URLs - one per WG https://www.w3.org/WAI/AG/task-forces/coga/work-statement & https://www.w3.org/WAI/APA/task-forces/coga/work-statement
   
 ---
-
 
 Lorum ipsem blah blah

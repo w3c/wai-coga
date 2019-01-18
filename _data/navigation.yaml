@@ -1,7 +1,9 @@
 - name: Accessibility Fundamentals
   pages:
-  - name: don’t click this
+  - name:  
     url: 'javascript:void();'
+  - name: ~Design Notes~
+    url: /fundamentals/coga/design-notes
   - name: Cognitive Disabilities
     url: /fundamentals/coga/
     pages:
@@ -15,6 +17,6 @@
       url: "/fundamentals/coga/gap"
     - name: User Research
       url: "/fundamentals/coga/research"
-  - name: TF Work Statement
-    url: /fundamentals/coga/work-statement
+  - name: Task Force Information
+    url: /fundamentals/coga/taskforce
 
