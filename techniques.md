@@ -56,32 +56,7 @@ This interactive page introduces the Design Techniques.
 
 We've organised the design guide technquies into Themes and Methods.
 
-## Theme 3: Use clear and understandable content and text
-
-{% include excol.html type="start" %}
-
-### Use clear words
-
-{% include excol.html type="middle" %}
-
-- Use common and clear words. Look at the most common 1500 words or phrases. These are the terms that people with severe language impairments are most likely to know.
-- Remove unnecessary words
-- Do not invent new words or give words new meanings in your application. Do not expect people to learn new meanings for words just to use your content. If you must make a new terms make sure the user has access to an explanation within one click or event.
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Do not use double negatives or clauses inside clauses
-
-{% include excol.html type="middle" %}
-
-- Use a simple sentence structure. Do not use a double negative to express a positive. Do not use clauses inside clauses that can be confusing.
-- For example, more people will understand “You must get the agency’s approval before we can answer your claim”: rather than “No approval of any claims can be achieved without the agency’s approval”.
-
-{% include excol.html type="end" %}
-
-## Theme 7: Provide help and support
+## Theme: Provide help and support
 
 Users with cognitive impairments may need different levels and forms of help, depending on their circumstances.<br />
 
@@ -129,3 +104,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include excol.html type="middle" %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {% include excol.html type="end" %}
+
+## Theme: Use clear and understandable content and text
+
+{% include excol.html type="start" %}
+
+### Use clear words
+
+{% include excol.html type="middle" %}
+
+- Use common and clear words. Look at the most common 1500 words or phrases. These are the terms that people with severe language impairments are most likely to know.
+- Remove unnecessary words
+- Do not invent new words or give words new meanings in your application. Do not expect people to learn new meanings for words just to use your content. If you must make a new terms make sure the user has access to an explanation within one click or event.
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### Do not use double negatives or clauses inside clauses
+
+{% include excol.html type="middle" %}
+
+- Use a simple sentence structure. Do not use a double negative to express a positive. Do not use clauses inside clauses that can be confusing.
+- For example, more people will understand “You must get the agency’s approval before we can answer your claim”: rather than “No approval of any claims can be achieved without the agency’s approval”.
+
+{% include excol.html type="end" %}
+
