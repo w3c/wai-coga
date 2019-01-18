@@ -7,7 +7,7 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Design notes - Will not become a WAI page.
+  **Purpose:** Design notes - *Will not become a WAI page*
 
   **Primary audience:** People working on the WAI coga pages
 
@@ -63,15 +63,15 @@ doc-note-message-md: |
 
   ## Editoral process
   * Source in GitHub repository - wai-coga
-    * TF will provide updates via a coga-fiendly contribution channel
-      * Could be google docs
-    * Editor (Steve) will take input from TF and merge into source
-      * Use feature branch and PR
-      * Commit to master causes push to github.io
-      * Provide previews for TF review
-      * Local dev & view available
-    * Publish to live - ping Yatil and manual process
-      * TF to decide cadence
+  * TF will provide updates via a coga-fiendly contribution channel
+    * Could be google docs
+  * Editor (Steve) will take input from TF and merge into source
+    * Use feature branch and PR
+    * Commit to master causes push to w3c.github.io
+    * Provide previews for TF review
+    * Local dev & view available
+  * Publish to live - ping Yatil and manual process
+    * TF to decide cadence
 
 ---
 
