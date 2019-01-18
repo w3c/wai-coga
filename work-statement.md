@@ -15,7 +15,7 @@ doc-note-message-md: |
   
   * Like the [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement)
   * To replace [Old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
-  * Link & text on [https://www.w3.org/WAI/GL/task-forces/](https://www.w3.org/WAI/GL/task-forces/() & [https://www.w3.org/WAI/GL/](https://www.w3.org/WAI/GL/)
+  * Link & text on [https://www.w3.org/WAI/GL/task-forces/](https://www.w3.org/WAI/GL/task-forces/) & [https://www.w3.org/WAI/GL/](https://www.w3.org/WAI/GL/)
   * Link and text on [https://www.w3.org/WAI/APA/task-forces/](https://www.w3.org/WAI/APA/task-forces/) & [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
   * Note: Actual page needs to appear in 2 URLs - one per WG https://www.w3.org/WAI/AG/task-forces/coga/work-statement & https://www.w3.org/WAI/APA/task-forces/coga/work-statement
   
