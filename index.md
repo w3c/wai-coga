@@ -52,6 +52,8 @@ W3C’s Web Accessibility Initiative (WAI) maintains a number for resources that
 
 ## Find Resources for Cognitive and Learning Disability {#finder}
 
+{% include excol.html type="all" %}
+
 Select the guides from below according to what you want to do:
 
 {% include excol.html type="start" %}
