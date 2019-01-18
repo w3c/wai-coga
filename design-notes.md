@@ -11,50 +11,44 @@ doc-note-message-md: |
 
   **Primary audience:** People working on the WAI coga pages
 
+  <!-- Full design https://www.w3.org/Team/wiki/COGA_Plan/Design -->
+
   ## Primary Stakeholders
   ### Creators & Consultants
-
   * Understand broad user requirements
   * Meet SCs required for desired conformance
   * Learn techniques and best practices
   * Able to evaluate and remediate short comings
 
   ### Standard Makers
-
   * Gain detailed understanding of user requirements, both specific and commonalities
   * Identify techniques and technologies that support users as well as gaps that need to be filled
   * Be confident that existing and newly developed standard clauses successfully meet coga user requirements 
 
   ### Researchers
-
   * Gain an overview of current corpus
   * Identify opportunities for further research
   * Confident of evidence base for stated requirements and approaches
 
   ### Coga TF
-
   * Review current resources
   * Ensure needs and barriers are accurately identified and addressed
   * Keep resources current 
 
   ## Secondary Stakeholders
   ### Policy Makers
-
   * Confident in understanding key user requirements
   * Ensure Policy is representative and fit for purpose
 
   ### Procurers
-
   * Know what to put in contracts to ensure inclusive and legal
 
   ### Evaluators
-
   * Know what to test and how best to do so.
   * Ensure reports are accurate and informative
   * Design enhanced evaluations
 
   ### Practitioners and End Users
-
   * Be confident needs are accurately recorded and encourage new solutions
   * Find techniques and tools they can use
  
