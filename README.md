@@ -8,7 +8,7 @@ Live: not yet
 
 https://jekyllrb.com/docs/installation/windows/
 
-* Install the recommended [https://rubyinstaller.org/downloads/ Ruby+DevKit 2.5]
+* Install the recommended [ Ruby+DevKit 2.5](https://rubyinstaller.org/downloads/)
 * Open a new cmd window
 * ```gem install jekyll bundler```
 * cd to ...\\```wai-coga```
