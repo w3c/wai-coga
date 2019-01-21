@@ -11,7 +11,7 @@ https://jekyllrb.com/docs/installation/windows/
 * Install the recommended [https://rubyinstaller.org/downloads/ Ruby+DevKit 2.5]
 * Open a new cmd window
 * ```gem install jekyll bundler```
-* cd to ...\```wai-coga```
+* cd to ...\\```wai-coga```
 * ```bundle lock --add-platform=x64-mingw32```
 * Ensure gemfile has ```gem 'wdm', '>= 0.1.0' if Gem.win_platform?``` to stop file system polling
 * ```bundle install```
