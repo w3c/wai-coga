@@ -16,4 +16,4 @@ https://jekyllrb.com/docs/installation/windows/
 * Ensure gemfile has ```gem 'wdm', '>= 0.1.0' if Gem.win_platform?``` to stop file system polling
 * ```bundle install```
 * ```bundle update```
-* ```bundle exec jekyll serve``` Can't use `--livereload` a of rub 2.5 due to bug #1. Use F5 to refresh browser
+* ```bundle exec jekyll serve``` Can't use `--livereload` with Ruby 2.5 due to bug #1. Use F5 to refresh browser
