@@ -21,6 +21,8 @@ exclude:
   - "Gemfile.lock"
   - "README.md"
   - "w3c.json"
+  - "package.json"
+  - "package-lock.json"
 
 # Build settings
 markdown: kramdown
