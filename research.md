@@ -11,13 +11,15 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
 
-  **Route:* Accessibility Fundamentals / Cognitive Disabilities / Research
+  **Path:* Accessibility Fundamentals / Cognitive Disabilities / Research
 
   **Outline:**
   
     - Overview of coga research by the Coga TF
     - Pointer to Research TR
     - Pointer to Issue Papers on GitHub
+    
+  [See plan](./plan)
   
 ---
 

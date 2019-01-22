@@ -11,7 +11,7 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting specific techniques that address coga requirements.
 
-  **Route:* Accessibility Fundamentals / Cognitive Disabilities / Techniques
+  **Path:* Accessibility Fundamentals / Cognitive Disabilities / Techniques
 
   **Outline:**
   
@@ -28,6 +28,8 @@ doc-note-message-md: |
          -   Relevant WCAG 2.0 SCs and Techniques
          -   Relevant Personalization verbs and Techniques
          -   Details
+
+  [See plan](./plan)
 
 ---
 ## Theme: Provide help and support

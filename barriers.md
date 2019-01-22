@@ -17,7 +17,9 @@ doc-note-message-md: |
   
   - Introduce where technology & techniques fall short of user requirements
   - Pointer to Gap Analysis TR
-  
+
+  [See plan](./plan)
+
 ---
 
 Lorum ipsem blah blah

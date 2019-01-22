@@ -13,11 +13,13 @@ doc-note-message-md: |
 
   **Outline:**
 
-  ** Route:** Accessibility Fundamentals / Cognitive Disabilities / About
+  **Path:** Accessibility Fundamentals / Cognitive Disabilities / About
   
   - Introduction 
   - Further reading
-  
+
+  [See plan](./plan)
+
 ---
 # Cognitive and Learning Disabilities
 

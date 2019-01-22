@@ -11,14 +11,16 @@ doc-note-message-md: |
 
   **Primary audience:** Someone who wants to learn about coga in general or in order to perform a task.
 
-  ** Route:** Accessibility Fundamentals / Cognitive Disabilities /
+  **Path:** Accessibility Fundamentals / Cognitive Disabilities /
 
   **Outline:**
   
   - Task based signposting to appropriate resources
   - What are W3C WAI & Coga TF doing) - link to TF page
   - Where coga resources fit in other W3C activities, esp. WCGA & Personalization
-  
+ 
+  [See plan](./plan)
+
 ---
 ## Find Resources for Cognitive and Learning Disability {#finder}
 

@@ -17,7 +17,9 @@ doc-note-message-md: |
   * To replace [Old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
   * Add text & link to [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
   * Add text & link to [https://www.w3.org/WAI/APA/task-forces](https://www.w3.org/WAI/APA/task-forces)
-  
+
+  [See plan](./plan)
+
 ---
 
 Lorum ipsem blah blah
