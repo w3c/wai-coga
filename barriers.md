@@ -11,6 +11,8 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting to learning about technical barriers that are not yet addressed.
 
+  **Route:* Accessibility Fundamentals / Cognitive Disabilities / User Barriers
+
   **Outline:**
   
   - Introduce where technology & techniques fall short of user requirements

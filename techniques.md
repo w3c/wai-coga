@@ -11,6 +11,8 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting specific techniques that address coga requirements.
 
+  **Route:* Accessibility Fundamentals / Cognitive Disabilities / Techniques
+
   **Outline:**
   
     - Introduction

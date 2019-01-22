@@ -12,6 +12,8 @@ doc-note-message-md: |
   **Primary audience:** Someone new to coga and wanting understand the general issues user face.
 
   **Outline:**
+
+  ** Route:** Accessibility Fundamentals / Cognitive Disabilities / About
   
   - Introduction 
   - Further reading
