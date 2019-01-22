@@ -1,15 +1,20 @@
 - name: Coga Draft Pages
   pages:
   - name: Guide to Resources
-    url: /coga-draft/
+    url: "/coga-draft/"
   - name: About Coga
     url: "/coga-draft/about"
   - name: Developer Resources
     url: "/coga-draft/resources"
-  - name: Design Techniques
+  - name: Design Guide
     url: "/coga-draft/guide"
   - name: Gap Analysis
     url: "/coga-draft/gapanalysis"
   - name: Research Findings
     url: "/coga-draft/research"
-
+- name: Coga Plan
+  pages:
+  - name: Coga Reasource Plan
+    url: "/coga-draft/plan/"
+  - name: Taskforce Page
+    url: "/coga-draft/taskforce"

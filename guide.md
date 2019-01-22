@@ -17,17 +17,14 @@ doc-note-message-md: |
   
     - Introduction
     - Relationship to WCGA, UAAG & Personalization
-    - Link to Themes
-    - Link to Personas
-    - Link to Testing guide
     - Themes - Interective content using TF voted format with tweaks [Themes list](https://w3c.github.io/wai-coga/fundamentals/coga/design-notes#design-guide-themes-and-methods)
       -  Title
       -  Description
       -  Methods
          -   Title
-         -   Relevant WCAG 2.0 SCs and Techniques
-         -   Relevant Personalization verbs and Techniques
-         -   Details
+         -   Links to Relevant WCAG 2.0 SCs and Techniques
+         -   Links to Relevant Personalization verbs and Techniques
+         -   Details or Links to Design Guide TR section
 
   [See plan](./plan)
 

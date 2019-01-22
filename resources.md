@@ -9,15 +9,15 @@ doc-note-type: draft
 doc-note-message-md: |
   **Purpose:** Provide info on user needs, barriers, personas, testing.
 
-  **Primary audience:** Someone wanting to learning how to be coga inclusive 
+  **Primary audience:** Someone wanting to learning how to develop coga inclusive
 
-  **Path:** Accessibility Fundamentals / Cognitive Disabilities / Developer Resources
+  **Path:** TBD
 
   **Outline:**
   
-  - Outline bariaers
-  - Pointer to Personas
-  - Pointer to Tetsing notes
+  - Outline barriers
+  - Pointer to Personas - or add new personas into the WAI site
+  - Pointer to Testing - or add new info into the WAI site
 
   [See plan](./plan)
 

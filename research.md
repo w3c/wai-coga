@@ -16,8 +16,8 @@ doc-note-message-md: |
   **Outline:**
   
     - Overview of coga research by the Coga TF
-    - Pointer to Research TR
-    - Pointer to Issue Papers on GitHub
+    - Move content over from Research TR
+    - Move content over from Issue Papers on GitHub
     
   [See plan](./plan)
 

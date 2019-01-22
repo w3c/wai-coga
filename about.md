@@ -35,5 +35,5 @@ It should be noted that by addressing barriers to accessibility for users with c
 
 <figure>
   <img alt="" src="{{ "/content-images/wai-coga/a11yux.png" | relative_url }}">
-  <figcaption>Diagram showing how a11y overlaps UX</figcaption>
+  <figcaption>Diagram showing how a11y overlaps with UX</figcaption>
 </figure>

@@ -1,6 +1,6 @@
 ---
 title: Coga Task Force Information
-permalink: /coga-draft/plan/taskforce
+permalink: /coga-draft/taskforce
 github:
   repository: w3c/wai-coga
 layout: default

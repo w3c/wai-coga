@@ -1,6 +1,6 @@
 ---
 title: Coga Plan
-permalink: /coga-draft/plan
+permalink: /coga-draft/plan/
 github:
   repository: w3c/wai-coga
 layout: default
@@ -58,7 +58,10 @@ feedbackmail: wai@w3.org
 
 ## Resources and their links
 
-<img alt="Picture of pages and their relationships" src="https://www.w3.org/Team/wiki/images/5/5d/Coga.svg" />
+<figure>
+  <figcaption>Existing coga resources and how they relate</figcaption>
+  <img alt="Picture of pages and their relationships" src="https://www.w3.org/Team/wiki/images/5/5d/Coga.svg" />
+</figure>
 
 ## Editoral process
 
