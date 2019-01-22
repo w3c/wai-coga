@@ -3,8 +3,9 @@ title: Design Guide
 permalink: /coga-draft/guide
 github:
   repository: w3c/wai-coga
-layout: default
+layout: cogadesign
 feedbackmail: wai@w3.org
+inline_css: ".leftcol.leftcol main { grid-column-start: 2;   }"
 doc-note-type: draft
 doc-note-message-md: |
   **Purpose:** Provide detailed techniques and best practices to address requirements
@@ -102,4 +103,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - For example, more people will understand “You must get the agency’s approval before we can answer your claim”: rather than “No approval of any claims can be achieved without the agency’s approval”.
 
 {% include excol.html type="end" %}
-
