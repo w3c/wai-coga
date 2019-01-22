@@ -1,6 +1,6 @@
 ---
-title: User Barriers and Gap Analysis
-permalink: /coga-draft/barriers
+title: Gap Analysis of user Barriers
+permalink: /coga-draft/gapanalysis
 github:
   repository: w3c/wai-coga
 layout: default
@@ -11,7 +11,7 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting to learning about technical barriers that are not yet addressed.
 
-  **Route:* Accessibility Fundamentals / Cognitive Disabilities / User Barriers
+  **Path:** Accessibility Fundamentals / Cognitive Disabilities / Gap Analysis
 
   **Outline:**
   

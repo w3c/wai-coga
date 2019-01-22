@@ -11,7 +11,7 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
 
-  **Path:* Accessibility Fundamentals / Cognitive Disabilities / Research
+  **Path:** Accessibility Fundamentals / Cognitive Disabilities / Research
 
   **Outline:**
   
@@ -20,7 +20,7 @@ doc-note-message-md: |
     - Pointer to Issue Papers on GitHub
     
   [See plan](./plan)
-  
+
 ---
 
 {::nomarkdown}

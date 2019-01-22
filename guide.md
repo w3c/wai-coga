@@ -1,6 +1,6 @@
 ---
-title: Design Techniques
-permalink: /coga-draft/techniques
+title: Design Guide
+permalink: /coga-draft/guide
 github:
   repository: w3c/wai-coga
 layout: default
@@ -11,7 +11,7 @@ doc-note-message-md: |
 
   **Primary audience:** Someone wanting specific techniques that address coga requirements.
 
-  **Path:* Accessibility Fundamentals / Cognitive Disabilities / Techniques
+  **Path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
 
   **Outline:**
   

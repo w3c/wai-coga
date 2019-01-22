@@ -2,12 +2,14 @@
   pages:
   - name: Guide to Resources
     url: /coga-draft/
-  - name: About Cognitive
+  - name: About Coga
     url: "/coga-draft/about"
+  - name: Developer Resources
+    url: "/coga-draft/resources"
   - name: Design Techniques
-    url: "/coga-draft/techniques"
-  - name: User Barriers
-    url: "/coga-draft/barriers"
+    url: "/coga-draft/guide"
+  - name: Gap Analysis
+    url: "/coga-draft/gapanalysis"
   - name: Research Findings
     url: "/coga-draft/research"
 
