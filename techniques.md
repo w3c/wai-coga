@@ -28,34 +28,6 @@ doc-note-message-md: |
          -   Details
 
 ---
-
-{::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
-{:/}
-
-These design techniques are organised into Methods to improve cognitive accessibility.
-
-This interactive page introduces the Design Techniques.
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
-{:/}
-
-{::options toc_levels="2" /}
-
-- This text will be replaced by the TOC.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-We've organised the design guide technquies into Themes and Methods.
-
 ## Theme: Provide help and support
 
 Users with cognitive impairments may need different levels and forms of help, depending on their circumstances.<br />

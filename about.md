@@ -13,35 +13,23 @@ doc-note-message-md: |
 
   **Outline:**
   
-  - Perhaps useparts of the [New intro for Gapanalysys](https://docs.google.com/document/d/1StcdCLBUebaSWF7f4DfJtqliQisKyC_5OoNAxqxOc0I/edit#)
+  - Introduction 
   - Further reading
   
 ---
+# Cognitive and Learning Disabilities
 
-{::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
-{:/}
+Cognitive and learning disabilities include long-term and and sometimes permanent difficulties relating to cognitive functions, such as:
 
-People with Cognitive and Learning Disabilities can experience a wide range of barriers to using technology.
-Designing products that avoid such barriers requires careful attention content as well as technical accessibility.
+- perception, memory and attention 
+- learning and orientation 
+- visual, verbal and numerical thinking
 
-This page introduces Cognitive and Learning Disabilities.
+These are usually hidden difficulties and may be age related. The terminology and definitions used for cognitive disabilities varies between countries and users are less likely to have a formal diagnosis of a disability than individuals with physical and sensory difficulties.  Cognitive disabilities may include intellectual impairments affecting comprehension alongside written and spoken expression. People may also experience a  co-occurrence of difficulties such as dyspraxia / developmental coordination difficulties and ADHD should also be taken into account. 
 
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
+It should be noted that by addressing barriers to accessibility for users with cognitive and learning disabilities, improvements to digital technologies can be achieved and there is the potential to improve user experience for everyone.
 
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
-{:/}
-
-{::options toc_levels="2" /}
-
-- This text will be replaced by the TOC.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-Lorum ipsem blah blah
+<figure>
+  <img alt="" src="{{ "/content-images/wai-coga/a11yux.png" | relative_url }}">
+  <figcaption>Diagram showing how a11y overlaps UX</figcaption>
+</figure>

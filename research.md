@@ -7,15 +7,15 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** TF research in to user requirements with a Gap Analysis of the barriers faced.
+  **Purpose:** Coga TF research in to user requirements Issues Papers on specific barriers faced.
 
-  **Primary audience:** Someone wanting to understand the barriers faced by useser when using technology.
+  **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
 
   **Outline:**
   
     - Overview of coga research by the Coga TF
     - Pointer to Research TR
-    - Pointer to Gap Analysis TR and Issue Papers on GitHub
+    - Pointer to Issue Papers on GitHub
   
 ---
 
