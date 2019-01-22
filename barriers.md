@@ -1,6 +1,6 @@
 ---
-title: Gap Analysis
-permalink: /fundamentals/coga/gap
+title: User Barriers
+permalink: /coga-draft/barriers
 github:
   repository: w3c/wai-coga
 layout: default

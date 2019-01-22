@@ -1,20 +1,21 @@
 ---
-title: User Research
-permalink: /fundamentals/coga/research
+title: Research Findings
+permalink: /coga-draft/research
 github:
   repository: w3c/wai-coga
 layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Outline and signpost TF research in to coga requirements.
+  **Purpose:** TF research in to user requirements with a Gap Analysis of the barriers faced.
 
-  **Primary audience:** Someone wanting to understand state of research into coga.
+  **Primary audience:** Someone wanting to understand the barriers faced by useser when using technology.
 
   **Outline:**
   
     - Overview of coga research by the Coga TF
     - Pointer to Research TR
+    - Pointer to Gap Analysis TR and Issue Papers on GitHub
   
 ---
 

@@ -1,22 +1,13 @@
-- name: Accessibility Fundamentals
+- name: Coga Draft Pages
   pages:
-  - name:  
-    url: 'javascript:void();'
-  - name: ~Design Notes~
-    url: /fundamentals/coga/design-notes
-  - name: Cognitive Disabilities
-    url: /fundamentals/coga/
-    pages:
-    - name: User Requirements
-      url: "/fundamentals/coga/requirements"
-    - name: Design Themes
-      url: "/fundamentals/coga/themes"
-    - name: Design Techniques
-      url: "/fundamentals/coga/techniques"
-    - name: Gap Analysis
-      url: "/fundamentals/coga/gap"
-    - name: User Research
-      url: "/fundamentals/coga/research"
-  - name: Task Force Information
-    url: /fundamentals/coga/taskforce
+  - name: Guide to Resources
+    url: /coga-draft/
+  - name: About Cognitive
+    url: "/coga-draft/about"
+  - name: Design Techniques
+    url: "/coga-draft/techniques"
+  - name: User Barriers
+    url: "/coga-draft/barriers"
+  - name: Research Findings
+    url: "/coga-draft/research"
 

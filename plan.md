@@ -1,6 +1,6 @@
 ---
-title: ~Design Notes~
-permalink: /fundamentals/coga/design-notes
+title: Coga Plan
+permalink: /coga-draft/plan
 github:
   repository: w3c/wai-coga
 layout: default

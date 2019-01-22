@@ -1,20 +1,19 @@
 ---
-title: User Requirements
-permalink: /fundamentals/coga/requirements
+title: About Cognitive and Learning Disabilities
+permalink: /coga-draft/about
 github:
   repository: w3c/wai-coga
 layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Introduce cognitive and learning disbailities, user requirements and how technology can support them
+  **Purpose:** Introduce cognitive and learning disabilities
 
-  **Primary audience:** Someone new to coga and wanting understand issues with using technology.
+  **Primary audience:** Someone new to coga and wanting understand the general issues user face.
 
   **Outline:**
   
-  - [Abi's new description](https://docs.google.com/document/d/1StcdCLBUebaSWF7f4DfJtqliQisKyC_5OoNAxqxOc0I/edit#)
-  - Example requirements, barriers and techniques that address them
+  - Perhaps useparts of the [New intro for Gapanalysys](https://docs.google.com/document/d/1StcdCLBUebaSWF7f4DfJtqliQisKyC_5OoNAxqxOc0I/edit#)
   - Further reading
   
 ---

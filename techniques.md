@@ -1,6 +1,6 @@
 ---
 title: Design Techniques
-permalink: /fundamentals/coga/techniques
+permalink: /coga-draft/techniques
 github:
   repository: w3c/wai-coga
 layout: default

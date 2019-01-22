@@ -1,6 +1,6 @@
 ---
 title: Coga Task Force Information
-permalink: /fundamentals/coga/taskforce
+permalink: /coga-draft/plan/taskforce
 github:
   repository: w3c/wai-coga
 layout: default
@@ -13,11 +13,10 @@ doc-note-message-md: |
 
   **Outline:**
   
-  * 2 pages similar to [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) & [Personalisation Work Statement](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) - menu doesn't seem correct for these pages
+  * Add 2 pages similar to those for [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization) & [Personalisation Work Statement](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) - menu doesn't seem correct for these pages
   * To replace [Old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
-  * Link & text on [https://www.w3.org/WAI/GL/task-forces/](https://www.w3.org/WAI/GL/task-forces/) & [https://www.w3.org/WAI/GL/](https://www.w3.org/WAI/GL/)
-  * Link and text on [https://www.w3.org/WAI/APA/task-forces/](https://www.w3.org/WAI/APA/task-forces/) & [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
-  * Note: Actual page needs to appear in 2 URLs - one per WG https://www.w3.org/WAI/AG/task-forces/coga/work-statement & https://www.w3.org/WAI/APA/task-forces/coga/work-statement
+  * Add text & link to [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
+  * Add text & link to [https://www.w3.org/WAI/APA/task-forces](https://www.w3.org/WAI/APA/task-forces)
   
 ---
 
