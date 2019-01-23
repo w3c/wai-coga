@@ -42,6 +42,7 @@ Moving to the WAI Web site offers the following opportunities
 - Flexibility to provide better formats. For example can be interactive so easier to navigate and read
 - Links can enhance the user experience without cuaing a jump between the very different web and TR document formats
 - More control over editoral process including review access and publishing cadence
+- Can 'dog food' coga and personalisation
 
 ## Primary Stakeholders
 
