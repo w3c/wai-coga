@@ -4,7 +4,7 @@
   "description": "Cognitive and Learning Disabilities Accessibility pages on WAI website",
   "scripts": {
     "install": "echo gem install jekyll bundle && bundle install && bundle update",
-    "start": "bundle exec jekyll serve"
+    "start": "start /B bundle exec jekyll serve"
   },
   "repository": {
     "type": "git",
