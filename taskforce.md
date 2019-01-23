@@ -7,14 +7,14 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Provide information about the Coga Task Force.
+  **Purpose:** Provide information about the Coga Task Force. To replace the [old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
 
-  **Primary audience:** Someone wanting info on the TF.
+  **Primary audience:** Someone wanting info about the TF, including how to participate.
 
   **Outline:**
   
-  * Add 2 pages similar to those for [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization) & [Personalisation Work Statement](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) - menu doesn't seem correct for these pages
-  * To replace [Old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
+  * Add 2 pages; https://www.w3.org/WAI/APA/task-forces/coga and https://www.w3.org/WAI/APA/task-forces/coga/work-staement
+  * Similar to those for [Personalisation TF](https://www.w3.org/WAI/APA/task-forces/personalization) & [Personalisation Work Statement](https://www.w3.org/WAI/APA/task-forces/personalization/work-statement) but content based on old page
   * Add text & link to [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
   * Add text & link to [https://www.w3.org/WAI/APA/task-forces](https://www.w3.org/WAI/APA/task-forces)
 

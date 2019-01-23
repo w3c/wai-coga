@@ -1,6 +1,6 @@
-- name: Coga Draft Pages
+- name: Coga Pages
   pages:
-  - name: Guide to Resources
+  - name: Overview
     url: "/coga-draft/"
   - name: About Coga
     url: "/coga-draft/about"
@@ -14,7 +14,7 @@
     url: "/coga-draft/research"
 - name: Coga Plan
   pages:
-  - name: Coga Reasource Plan
+  - name: Full Plan
     url: "/coga-draft/plan/"
   - name: Taskforce Page
     url: "/coga-draft/taskforce"

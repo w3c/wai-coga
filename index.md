@@ -1,5 +1,5 @@
 ---
-title: Guide to Cognitive and Learning Disabilities
+title: Overview of Cognitive and Learning Disability Resources
 permalink: /coga-draft/
 github:
   repository: w3c/wai-coga
@@ -7,7 +7,7 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Orientation and show visitors to the resources they will find useful for their task in hand.
+  **Purpose:** A interactive overview with links to the various coga resources.
 
   **Primary audience:** Someone who wants to learn about coga in general or in order to perform a task.
 
@@ -15,9 +15,9 @@ doc-note-message-md: |
 
   **Outline:**
   
-  - Interactive task-based signposting to appropriate resources
-  - W3C WAI activity in Coga and Personalization with links
-  - Where coga resources fit in other W3C activities, esp. WCGA & Personalization
+  - Interactive signposting to appropriate resources
+  - Activity of Coga TF
+  - Where coga resources fit in other W3C WAI activities, esp. WCGA & Personalization
  
   [See plan](./plan)
 
@@ -71,4 +71,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## W3C WAI Coga Activity {#intro}
 
-W3C’s Web Accessibility Initiative (WAI) maintains a number for resources that support web accessibility for people with Cognitive and Learning Disabilities. This work is carried out by members of the **Accessibility Guidelines** and **Education and Outreach Working Groups** through the specialist activities of the **Cognitive Accessibility and Learning Disabilities** and **Personalization** task forces
+W3C’s Web Accessibility Initiative (WAI) maintains a number for resources that directly support web accessibility for people with Cognitive and Learning Disabilities. In addition, other standards are reviewed to ensure they also provide suitable support and do not present barriers. This work is carried out by members of the **[Accessible Platform Architectures (APA)](https://www.w3.org/WAI/APA/)** working group through the specialist activities of the **[Cognitive Accessibility and Learning Disabilities](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)** and **[Personalization Accessibility](https://www.w3.org/WAI/APA/task-forces/personalization/)** task forces.
