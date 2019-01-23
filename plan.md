@@ -91,45 +91,45 @@ Moving to the WAI Web site offers the following opportunities
 
 ### [Overview]({{ "/coga-draft/" | relative_url }})
 
-- **Work to complete*- (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** New content. Integrate into WAI
+- **Estimated effort** medium
+- **Priority** high
 
 ### [About]({{ "/coga-draft/about" | relative_url }})
 
-- **Work to complete** (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** Find or create content. Integrate into WAI
+- **Estimated effort** medium
+- **Priority** low
 
 ### [Developer Resources]({{ "/coga-draft/resources" | relative_url }})
 
-- **Work to complete** (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** Copy content from Content Usable and more. Integrate into WAI.
+- **Estimated effort** medium
+- **Priority** high
 
 ### [Design Guide]({{ "/coga-draft/guide" | relative_url }})
 
-- **Work to complete** (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** Clean up Design Guide. Create interactive access with links (or move all TR content). Integrate into WAI
+- **Estimated effort** large (x-large)
+- **Priority** high
 
 ### [Gap Analysis]({{ "/coga-draft/gapanalysis" | relative_url }})
 
-- **Work to complete** (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** Clean Up and move content from Gap Analysis. For WCAG. Integrate into WAI
+- **Estimated effort** large
+- **Priority** high
 
 ### [Research Findings]({{ "/coga-draft/research" | relative_url }})
 
-- **Work to complete** (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** Clean up and copy content from User Reseach and Issue Papers. Integrate into WAI
+- **Estimated effort** x-large
+- **Priority** medium
 
 ### Personas
 
-- **Work to complete** (eg. light edits, complete rewrite, etc.)
-- **Estimated effort** (little, medium, large, x-large) 4-5 scale
-- **Priority** (low, medium, high) 3-level scale
+- **Work to complete** Move to existing WAI page, replacing current personas
+- **Estimated effort** medium
+- **Priority** low
 
 ## Page Links
 
