@@ -28,8 +28,9 @@ doc-note-message-md: |
 
 ## Related Information
 
-- Design for [new taskforce information page]({{ "/coga-draft/taskforce" | relative_url }})
 - Spreadsheet of [all Coga TF resources](https://docs.google.com/spreadsheets/d/1bLXDIAsmgiySY6uqW2OAOYH7U_Lwh0oUU24etofpYrc/edit?usp=sharing) (Google Doc)
+- Coga TF [Planning page on wiki](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/PlanningPage)
+- Coga TF [F2F meeting information](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Meetings/Jan_2019)
 
 ## Reasoning
 
@@ -91,47 +92,75 @@ Moving to the WAI Web site offers the following opportunities
 
 ### [Overview]({{ "/coga-draft/" | relative_url }})
 
+- **Purpose:** A interactive overview with links to the various coga resources
+- **Primary audience:** Someone who wants to learn about coga in general or in order to perform a task
 - **Work to complete** New content. Integrate into WAI
+- **Site Path:** Accessibility Fundamentals / Cognitive Disabilities
 - **Estimated effort** medium
 - **Priority** high
 
 ### [About]({{ "/coga-draft/about" | relative_url }})
 
+- **Purpose:** Introduce cognitive and learning disabilities
+- **Primary audience:** Someone new to coga and wanting understand the general issues user face
 - **Work to complete** Find or create content. Integrate into WAI
+- **Site Path:** Accessibility Fundamentals / Cognitive Disabilities / About
 - **Estimated effort** medium
 - **Priority** low
 
 ### [Developer Resources]({{ "/coga-draft/resources" | relative_url }})
 
-- **Work to complete** Copy content from Content Usable and more. Integrate into WAI.
+- **Purpose:** Provide info on user needs, barriers, personas, testing.
+- **Primary audience:** Someone wanting to learning how to develop coga inclusive
+- **Work to complete** Copy content from Content Usable and more. Integrate into WAI
+- **Site Path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
 - **Estimated effort** medium
 - **Priority** high
 
 ### [Design Guide]({{ "/coga-draft/guide" | relative_url }})
 
+- **Purpose:** Provide detailed techniques and best practices to address requirements
+- **Primary audience:** Someone wanting specific techniques that address coga requirements
 - **Work to complete** Clean up Design Guide. Create interactive access with links (or move all TR content). Integrate into WAI
+- **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
 - **Estimated effort** large (x-large)
 - **Priority** high
 
 ### [Gap Analysis]({{ "/coga-draft/gapanalysis" | relative_url }})
 
+- **Purpose:** Provide insight into barriers currently faced by users.
+- **Primary audience:** Someone wanting to learning about technical barriers that are not yet addressed.
 - **Work to complete** Clean Up and move content from Gap Analysis. For WCAG. Integrate into WAI
+- **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Gap Analysis
 - **Estimated effort** large
 - **Priority** high
 
 ### [Research Findings]({{ "/coga-draft/research" | relative_url }})
 
+- **Purpose:** Present Coga TF research in to user requirements Issues Papers on specific barriers faced.
+- **Primary audience:** Someone wanting to understand the barriers faced by users when using technology
 - **Work to complete** Clean up and copy content from User Reseach and Issue Papers. Integrate into WAI
+- **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Research
 - **Estimated effort** x-large
 - **Priority** medium
 
 ### Personas
 
+- **Purpose:** Provide representative and accurate personas usefull for design activities
+- **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
 - **Work to complete** Move to existing WAI page, replacing current personas
+- **Site path:** TBD existing persona page?
 - **Estimated effort** medium
 - **Priority** low
 
-## Page Links
+### [Taskforce]({{ "/coga-draft/taskforce" | relative_url }})
+
+- **Purpose:** Provide information about the Coga Task Force. To replace the [old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
+- **Primary audience:** Someone wanting info about the TF, including how to participate.
+- **Site path:** https://www.w3.org/WAI/APA/task-forces/coga and https://www.w3.org/WAI/APA/task-forces/coga/work-statement
+- **Work to complete** Add 2 new pages based on old page. Link from APA WG pages
+- **Estimated effort** low
+- **Priority** medium
 
 <figure>
   <figcaption>Coga Pages links between them</figcaption>

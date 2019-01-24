@@ -7,19 +7,13 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** A interactive overview with links to the various coga resources.
-
-  **Primary audience:** Someone who wants to learn about coga in general or in order to perform a task.
-
-  **Path:** Accessibility Fundamentals / Cognitive Disabilities /
-
   **Outline:**
   
   - Interactive signposting to appropriate resources
   - Activity of Coga TF
   - Where coga resources fit in other W3C WAI activities, esp. WCGA & Personalization
  
-  [See plan](./plan)
+  [See page details in plan](./plan#new-pages)
 
 ---
 ## Find Resources for Cognitive and Learning Disability {#finder}

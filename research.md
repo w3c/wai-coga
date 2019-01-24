@@ -7,19 +7,13 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Coga TF research in to user requirements Issues Papers on specific barriers faced.
-
-  **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
-
-  **Path:** Accessibility Fundamentals / Cognitive Disabilities / Research
-
   **Outline:**
   
     - Overview of coga research by the Coga TF
     - Move content over from Research TR
     - Move content over from Issue Papers on GitHub
     
-  [See plan](./plan)
+  [See page details in plan](./plan#research-findings)
 
 ---
 

@@ -8,12 +8,6 @@ feedbackmail: wai@w3.org
 inline_css: ".leftcol.leftcol main { grid-column-start: 2;   }"
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Provide detailed techniques and best practices to address requirements
-
-  **Primary audience:** Someone wanting specific techniques that address coga requirements.
-
-  **Path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
-
   **Outline:**
   
     - Introduction
@@ -27,7 +21,7 @@ doc-note-message-md: |
          -   Links to Relevant Personalization verbs and Techniques
          -   Details or Links to Design Guide TR section
 
-  [See plan](./plan)
+  [See page details in plan](./plan#design-guide)
 
 ---
 ## Theme: Provide help and support

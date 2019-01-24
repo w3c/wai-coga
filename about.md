@@ -7,18 +7,12 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Introduce cognitive and learning disabilities
-
-  **Primary audience:** Someone new to coga and wanting understand the general issues user face.
-
-  **Path:** Accessibility Fundamentals / Cognitive Disabilities / About
-  
   **Outline:**
 
   - Introduction 
   - Further reading
 
-  [See plan](./plan)
+  [See page details in plan](./plan#about)
 
 ---
 # Cognitive and Learning Disabilities

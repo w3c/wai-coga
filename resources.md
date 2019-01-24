@@ -7,19 +7,13 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Provide info on user needs, barriers, personas, testing.
-
-  **Primary audience:** Someone wanting to learning how to develop coga inclusive
-
-  **Path:** TBD
-
-  **Outline:**
+ **Outline:**
   
   - Outline barriers
   - Pointer to Personas - or add new personas into the WAI site
   - Pointer to Testing - or add new info into the WAI site
 
-  [See plan](./plan)
+  [See page details in plan](./plan#developer-resources)
 
 ---
 

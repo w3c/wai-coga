@@ -7,10 +7,6 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Purpose:** Provide information about the Coga Task Force. To replace the [old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
-
-  **Primary audience:** Someone wanting info about the TF, including how to participate.
-
   **Outline:**
   
   * Add 2 pages; https://www.w3.org/WAI/APA/task-forces/coga and https://www.w3.org/WAI/APA/task-forces/coga/work-staement
@@ -18,7 +14,7 @@ doc-note-message-md: |
   * Add text & link to [https://www.w3.org/WAI/APA/](https://www.w3.org/WAI/APA/)
   * Add text & link to [https://www.w3.org/WAI/APA/task-forces](https://www.w3.org/WAI/APA/task-forces)
 
-  [See plan](./plan)
+  [See page details in plan](./plan#overview)
 
 ---
 
