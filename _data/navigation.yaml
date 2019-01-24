@@ -1,4 +1,4 @@
-- name: Draft Coga Pages
+- name: Draft COGA Pages
   pages:
   - name: Overview
     url: "/coga-draft/"
@@ -14,7 +14,7 @@
     url: "/coga-draft/gapanalysis"
   - name: Research Findings
     url: "/coga-draft/research"
-- name: Coga Resource Plan
+- name: COGA Resource Plan
   pages:
   - name: Full Plan
     url: "/coga-draft/plan/"

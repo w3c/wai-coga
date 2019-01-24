@@ -1,5 +1,5 @@
 ---
-title: Coga Task Force Information
+title: COGA Task Force Information
 permalink: /coga-draft/taskforce
 github:
   repository: w3c/wai-coga

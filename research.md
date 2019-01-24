@@ -9,7 +9,7 @@ doc-note-type: draft
 doc-note-message-md: |
   **Outline:**
   
-  - Overview of coga research by the Coga TF
+  - Overview of research collected by the COGA TF
   - Move content over from Research TR
   - Move content over from Issue Papers on GitHub
     
@@ -21,7 +21,7 @@ doc-note-message-md: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-The User research carried out by coga TF.
+The User research carried out by COGA  TF.
 
 This page introduces our resources.
 

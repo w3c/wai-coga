@@ -49,7 +49,7 @@ Users with cognitive impairments may need different levels and forms of help, de
 - A phone number or link (eq VOIP phone)
 - A simple contact form
 
-Full Details in the Coga Design Guide [8.3.4 Provide human help](https://w3c.github.io/coga/design/#provide-human-help)
+Full Details in the COGA Design Guide [8.3.4 Provide human help](https://w3c.github.io/coga/design/#provide-human-help)
 
 #### Example Personalisation techniques to consider
 
