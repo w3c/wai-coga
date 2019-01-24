@@ -12,7 +12,7 @@ doc-note-message-md: |
   
     - Introduction
     - Relationship to WCGA, UAAG & Personalization
-    - Themes - Interective content using TF voted format with tweaks [Themes list](https://w3c.github.io/wai-coga/fundamentals/coga/design-notes#design-guide-themes-and-methods)
+    - Themes - Interective content using TF voted format with tweaks [Themes list](./plan#detailed-design-guide-themes-and-methods)
       -  Title
       -  Description
       -  Methods

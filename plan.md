@@ -121,7 +121,7 @@ Moving to the WAI Web site offers the following opportunities
 
 - **Purpose:** Provide detailed techniques and best practices to address requirements
 - **Primary audience:** Someone wanting specific techniques that address coga requirements
-- **Work to complete** Clean up Design Guide. Create interactive access with links (or move all TR content). Integrate into WAI
+- **Work to complete** Clean up Design Guide. Create interactive access with links based on [TF Mockup](https://docs.google.com/document/d/1vajEx9BCv02snDwP7XRcUrB3mbJlz_4qkeBEto3Unqs/edit?usp=sharing). Integrate into WAI
 - **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
 - **Estimated effort** large (x-large)
 - **Priority** high
@@ -142,9 +142,9 @@ Moving to the WAI Web site offers the following opportunities
 - **Work to complete** Clean up and copy content from User Reseach and Issue Papers. Integrate into WAI
 - **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Research
 - **Estimated effort** x-large
-- **Priority** medium
+- **Priority** low
 
-### Personas
+### [Personas]({{ "/coga-draft/personas" | relative_url }})
 
 - **Purpose:** Provide representative and accurate personas usefull for design activities
 - **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
@@ -178,7 +178,7 @@ Moving to the WAI Web site offers the following opportunities
   - Provide previews for TF review with links to https://w3c.github.io/wai-coga/
   - Local dev & view are possible for faster development
 - Publish to live semi manual process
-  - ping Yatil
+  - ping Eric
   - TF to decide cadence
 
 ## Detailed Design Guide Themes and Methods

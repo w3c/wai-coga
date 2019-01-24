@@ -6,6 +6,8 @@
     url: "/coga-draft/about"
   - name: Developer Resources
     url: "/coga-draft/resources"
+  - name: Personas
+    url: "/coga-draft/personas"
   - name: Design Guide
     url: "/coga-draft/guide"
   - name: Gap Analysis

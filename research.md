@@ -9,9 +9,9 @@ doc-note-type: draft
 doc-note-message-md: |
   **Outline:**
   
-    - Overview of coga research by the Coga TF
-    - Move content over from Research TR
-    - Move content over from Issue Papers on GitHub
+  - Overview of coga research by the Coga TF
+  - Move content over from Research TR
+  - Move content over from Issue Papers on GitHub
     
   [See page details in plan](./plan#research-findings)
 
