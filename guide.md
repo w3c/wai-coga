@@ -24,6 +24,15 @@ doc-note-message-md: |
   [See page details in plan](./plan#design-guide)
 
 ---
+## Introduction
+Making websites and applications that are friendly for people with cognitive impairments affects every part of design and development.
+
+Traditionally accessibility has been most focused on the interface, and making that usable for people with sensory and physical impairments in vision, hearing and/or mobility. Some accessibility features will help people with cognitive impairments, but often the issues are about context, language, usability, and other more general factors that impact everyone to some degree.
+
+This document aims to provide guidance on how to make websites and applications that are friendly for people with cognitive impairments by providing guidance for your designs, and design process.
+
+This guide is divided into design themes. There are also user stories, testing methodologies, and design checkpoints for each theme. Just understanding the themes and user stories may help make your content more accessible to some users with cognitive and learning disabilities. Please see the section on user testing for guidance on how to perform COGA user testing.
+
 ## Theme: Provide help and support
 
 Users with cognitive impairments may need different levels and forms of help, depending on their circumstances.<br />
@@ -34,8 +43,33 @@ Users with cognitive impairments may need different levels and forms of help, de
 
 {% include excol.html type="middle" %}
 
-- Ensure easy access to a human who can provide help and support. Support can be on accessibility, technical, process or domain based.
-- Access to human help should never require the user to manage complex menu systems such as voice menus with different options. 
+- Ensure easy access to a human who can provide help and support.
+- Support can be on accessibility, technical, process or domain based.
+- Access to human help should never require the user to manage complex menu systems such as voice menus with different options.
+
+#### How it helps
+
+In cases where the user gets stuck or confused for any reason, contact with a human is usually the most effective and suitable solution. Otherwise the user may abandon the process and be left with negative attitude towards the service or supplier.
+
+One or more contact mechanisms should be easy to locate and use from any page or any step in a process.
+
+#### More details
+
+Examples include
+
+- An option for live chat or video call help. Note: It must be full accessible and easy to close new windows that open as part of live help functionality.
+- A phone number, ideally with a feature to automatically call via an interoperable Voice over IP specification.
+- A simple site contact form.
+- An email link using the ‘mailto’ protocol with prefilled “to” and “subject” fields. Note will not work on all platforms or depending of the users mail client
+- Use available standards to get human help for example, using the 0 digit on voice menu systems
+
+It is important that voice communication is easy and this implies the person providing help can both be easily understood and is able to understand others, allowing for a range of vocal and verbal characteristics. Sensitivity to the requirements of people with learning cognitive disabilities is also important.
+
+#### Examples
+
+**Success** example:
+
+**Failure** example:
 
 #### Relevent WCAG 2.0 SCs and Techniques
 

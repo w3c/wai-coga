@@ -28,8 +28,9 @@ Select the guides from below according to what you want to do:
 
 #### These resources are useful for procurers, designers and developers {#wcag}
 
-* [WAI Website - Introducing Cognitive and Learning Disabilities](…)
-* [TR - Design Guide For Making Content For People With Cognitive Learning Disabilities {% include_cached different.html %}](https://w3c.github.io/coga/design/)
+* [Introducing Cognitive and Learning Disabilities](./about)
+* [Developer Resources for ensuting websites are accessible to People With Cognitive Learning Disabilities](./guide)
+* [Design Guide For Making Content For People With Cognitive Learning Disabilities](./guide)
 
 {% include excol.html type="end" %}
 
