@@ -96,7 +96,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone who wants to learn about coga in general or in order to perform a task
 - **Work to complete** New content. Integrate into WAI
 - **Site Path:** Accessibility Fundamentals / Cognitive Disabilities
-- **Estimated effort** medium
+- **Current doc:** New content
+- **Estimated effort:** medium
 - **Priority** high
 
 ### [About]({{ "/coga-draft/about" | relative_url }})
@@ -105,7 +106,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone new to coga and wanting understand the general issues user face
 - **Work to complete** Find or create content. Integrate into WAI
 - **Site Path:** Accessibility Fundamentals / Cognitive Disabilities / About
-- **Estimated effort** medium
+- **Estimated effort:** medium
+- **Current doc:** ???
 - **Priority** low
 
 ### [Developer Resources]({{ "/coga-draft/resources" | relative_url }})
@@ -114,7 +116,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone wanting to learning how to develop coga inclusive
 - **Work to complete** Copy content from Content Usable and more. Integrate into WAI
 - **Site Path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
-- **Estimated effort** medium
+- **Current doc:** [Working Draft](https://w3c.github.io/coga/content-usable/)
+- **Estimated effort:** medium
 - **Priority** high
 
 ### [Design Guide]({{ "/coga-draft/guide" | relative_url }})
@@ -123,7 +126,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone wanting specific techniques that address coga requirements
 - **Work to complete** Clean up Design Guide. Create interactive access with links based on [TF Mockup](https://docs.google.com/document/d/1vajEx9BCv02snDwP7XRcUrB3mbJlz_4qkeBEto3Unqs/edit?usp=sharing). Integrate into WAI
 - **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide
-- **Estimated effort** large (x-large)
+- **Current doc:** [Working Draft](https://w3c.github.io/coga/design/)
+- **Estimated effort:** large (x-large)
 - **Priority** high
 
 ### [Gap Analysis]({{ "/coga-draft/gapanalysis" | relative_url }})
@@ -132,7 +136,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone wanting to learning about technical barriers that are not yet addressed.
 - **Work to complete** Clean Up and move content from Gap Analysis. For WCAG. Integrate into WAI
 - **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Gap Analysis
-- **Estimated effort** large
+- **Current doc:** [Working Draft](https://w3c.github.io/coga/gap-analysis/)
+- **Estimated effort:** large
 - **Priority** high
 
 ### [Research Findings]({{ "/coga-draft/research" | relative_url }})
@@ -141,7 +146,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone wanting to understand the barriers faced by users when using technology
 - **Work to complete** Clean up and copy content from User Reseach and Issue Papers. Integrate into WAI
 - **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Research
-- **Estimated effort** x-large
+- **Current doc** [User Research Working Draft](https://w3c.github.io/coga/issue-papers/) & [Issue Papers Working Draft](https://w3c.github.io/coga/issue-papers/)
+- **Estimated effort:** x-large
 - **Priority** low
 
 ### [Personas]({{ "/coga-draft/personas" | relative_url }})
@@ -150,7 +156,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone wanting to understand the barriers faced by users when using technology.
 - **Work to complete** Move to existing WAI page, replacing current personas
 - **Site path:** TBD existing persona page?
-- **Estimated effort** medium
+- **Current doc:** [Working Draft](http://w3c.github.io/coga/persona/)
+- **Estimated effort:** medium
 - **Priority** low
 
 ### [Taskforce]({{ "/coga-draft/taskforce" | relative_url }})
@@ -159,7 +166,8 @@ Moving to the WAI Web site offers the following opportunities
 - **Primary audience:** Someone wanting info about the TF, including how to participate.
 - **Site path:** https://www.w3.org/WAI/APA/task-forces/coga and https://www.w3.org/WAI/APA/task-forces/coga/work-statement
 - **Work to complete** Add 2 new pages based on old page. Link from APA WG pages
-- **Estimated effort** low
+- **Current doc:** [Taskforce page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
+- **Estimated effort:** low
 - **Priority** medium
 
 <figure>
