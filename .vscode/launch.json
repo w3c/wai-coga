@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch coga-draft",
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "url": "http://localhost:4000/wai-coga/coga-draft/",
+            "webRoot": "${workspaceFolder}/_site/coga-draft/",
+            "reloadOnChange": {
+                "watch": [
+                    "${workspaceFolder}/_site/coga-draft/**/*.html"
+                ],
+                "ignore": [
+                    "${workspaceFolder}/node_modules/**"
+                ]
+            }
+        },
+        {
+            "name": "Launch index.html",
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "file": "${workspaceFolder}/index.html"
+        },
+        {
+            "name": "Attach",
+            "type": "firefox",
+            "request": "attach"
+        },
+        {
+            "name": "Launch addon",
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "addonType": "webExtension",
+            "addonPath": "${workspaceFolder}"
+        }
+    ]
+}

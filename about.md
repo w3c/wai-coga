@@ -36,9 +36,9 @@ It should be noted that by addressing barriers to accessibility for users with c
 
 People with cognitive and learning disabilities may be unable to use web content because of the design choices of the author. Examples include:
 
--  People with impaired short term memory are unlikely to be able to remember passwords and access codes. They may have trouble or be unable to remember new symbols and interface paradigms.
--  People with language related disabilities may need simple clear language and instructions. They may also need supporting graphics and familiar symbols
--  People with communication disabilities may need clear literal language and may not understand metaphors or non-literal text and symbols.
--  People with dyscalculia may not understand numerical references such as percentages.
--  People who struggle with keeping and regaining focus, may be unable to focus on a task if there are lots of distractions and interruptions. They may need headers and signposts to help them regain the context after their attention has been lost (including in multi-media).
--  Many groups will need support to minimize errors and complete their task. They will struggle with complex, multi-stage processes that were not necessary for the task at hand such as filling out forms or entering data correctly or finding the content or feature that they need.
+- People with impaired short term memory are unlikely to be able to remember passwords and access codes. They may have trouble or be unable to remember new symbols and interface paradigms.
+- People with language related disabilities may need simple clear language and instructions. They may also need supporting graphics and familiar symbols
+- People with communication disabilities may need clear literal language and may not understand metaphors or non-literal text and symbols.
+- People with dyscalculia may not understand numerical references such as percentages.
+- People who struggle with keeping and regaining focus, may be unable to focus on a task if there are lots of distractions and interruptions. They may need headers and signposts to help them regain the context after their attention has been lost (including in multi-media).
+- Many groups will need support to minimize errors and complete their task. They will struggle with complex, multi-stage processes that were not necessary for the task at hand such as filling out forms or entering data correctly or finding the content or feature that they need.
