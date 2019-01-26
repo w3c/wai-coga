@@ -7,6 +7,13 @@
     "MD024": {
         "siblings_only": true
     },
+    "MD033": {
+        "allowed_elements": [
+            "figure",
+            "img",
+            "FigCaption"
+        ]
+    },
     "MD041": {
         "level": 2
     }
