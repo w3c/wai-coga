@@ -5,7 +5,7 @@ github:
   repository: w3c/wai-coga
 layout: cogadesign
 feedbackmail: wai@w3.org
-inline_css: ".leftcol.leftcol main { grid-column-start: 2;   }"
+inline_css: ".leftcol.leftcol main { grid-column-start: 2;}"
 doc-note-type: draft
 doc-note-message-md: |
   **Outline:**
@@ -17,6 +17,8 @@ doc-note-message-md: |
   [See page details in plan](./plan#design-guide)
 
 ---
+<div style="display:flex; flex-direction:row;"><section id="left" style="flex-grow:1">zzzz</section><section id="right" style="flex-grow:1">zzzz</section></div>
+
 ## Overview
 
 Making websites and applications that are friendly for people with cognitive impairments affects every part of design and development.

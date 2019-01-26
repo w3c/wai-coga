@@ -1,0 +1,15 @@
+<figure>
+    {% if include.top-caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+    {% endif %}
+
+    {% if include.src contains 'https' %}
+    <img src="{{ include.src }}" alt="{{ include.alt }}" />
+    {% else %}
+    <img src="{{ "/content-images/wai-coga/" | append: include.src | relative_url }}" alt="{{ include.alt }}" />
+    {% endif %}
+
+    {% unless include.top-caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+    {% endunless %}
+</figure>

@@ -170,10 +170,11 @@ Moving to the WAI Web site offers the following opportunities
 - **Estimated effort:** low
 - **Priority** medium
 
-<figure>
-  <figcaption>Coga Pages links between them</figcaption>
-  <img alt="Picture of Coag pages and their relationships" src="https://www.w3.org/Team/wiki/images/5/5d/Coga.svg" />
-</figure>
+{% include figure.html
+  alt="Picture of rectangles with arrow between them"
+  src="https://www.w3.org/Team/wiki/images/5/5d/Coga.svg"
+  caption="Coga Pages and the links between them"
+  top-caption=true %}
 
 ## Editoral process
 

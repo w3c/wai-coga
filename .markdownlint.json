@@ -8,11 +8,7 @@
         "siblings_only": true
     },
     "MD033": {
-        "allowed_elements": [
-            "figure",
-            "img",
-            "FigCaption"
-        ]
+        "allowed_elements": []
     },
     "MD041": {
         "level": 2

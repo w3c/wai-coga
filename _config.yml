@@ -36,6 +36,7 @@ repository: w3c/wai-coga
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
 remote_theme: w3c/wai-website-theme
+# theme: wai-website-theme
 
 collections:
   # older-users:

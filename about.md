@@ -27,10 +27,10 @@ These are usually hidden difficulties and may be age related. The terminology an
 
 It should be noted that by addressing barriers to accessibility for users with cognitive and learning disabilities, improvements to digital technologies can be achieved and there is the potential to improve user experience for everyone.
 
-<figure>
-  <img alt="" src="{{ "/content-images/wai-coga/a11yux.png" | relative_url }}">
-  <figcaption>Diagram showing how a11y overlaps with UX</figcaption>
-</figure>
+{% include figure.html
+  alt="Picture of several concetric circles"
+  src="a11yux.png"
+  caption="Diagram showing how a11y overlaps with UX" %}
 
 ## Barriers faced
 
