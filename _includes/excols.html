@@ -1,0 +1,16 @@
+{%- if include.type == 'start' -%}
+<div style="position:relative;">
+    <details class="sidedetails" {% if include.id %} id="{{include.id}}" {% endif %} {% if include.open=="true"
+        %}open{% endif %}>
+        <summary markdown="block">
+            {%- endif -%}
+            {%- if include.type == 'middle' -%}
+        </summary>
+
+        <div markdown="block">
+            {%- endif -%}
+            {%- if include.type == 'end' -%}
+        </div>
+    </details>
+</div>
+{%- endif -%}

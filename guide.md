@@ -5,7 +5,20 @@ github:
   repository: w3c/wai-coga
 layout: cogadesign
 feedbackmail: wai@w3.org
-inline_css: ".leftcol.leftcol main { grid-column-start: 2;}"
+inline_css: "main#main {
+  grid-column-start: 2;
+  }
+  details[open].sidedetails > summary {
+  background-color: #ddd;
+  width: 48%;
+  }
+  details.sidedetails > div {
+  position: absolute;
+  top: 0px;
+  left:50%;
+  margin-left:1rem
+  }
+  "
 doc-note-type: draft
 doc-note-message-md: |
   **Outline:**
@@ -17,8 +30,6 @@ doc-note-message-md: |
   [See page details in plan](./plan#design-guide)
 
 ---
-<div style="display:flex; flex-direction:row;"><section id="left" style="flex-grow:1">zzzz</section><section id="right" style="flex-grow:1">zzzz</section></div>
-
 ## Overview
 
 Making websites and applications that are friendly for people with cognitive impairments affects every part of design and development.
@@ -28,6 +39,8 @@ Traditionally accessibility has been most focused on the interface, and making t
 This document aims to provide guidance on how to make websites and applications that are friendly for people with cognitive impairments by providing guidance for your designs, and design process.
 
 This guide is divided into design themes. There are also user stories, testing methodologies, and design checkpoints for each theme. Just understanding the themes and user stories may help make your content more accessible to some users with cognitive and learning disabilities. Please see the section on user testing for guidance on how to perform COGA user testing.
+
+{% include excol.html type="all" %}
 
 {% include excol.html type="start" %}
 
@@ -101,11 +114,11 @@ This leads to the following user stories:
 
 ### Design requirements
 
-{% include excol.html type="start" %}
+{% include excols.html type="start" %}
 
 ### Make the purpose of your page clear
 
-{% include excol.html type="middle" %}
+{% include excols.html type="middle" %}
 
 Use a clear title or heading that summarizes the purpose of a page, or other clear signposts that have been tested by users with cognitive disabilities. 
 
@@ -130,15 +143,18 @@ Heading needed to clarify the purpose of this specific page
 WCGA resource links
 Personalisation resource links
 
-{% include excol.html type="end" %}
+{% include excols.html type="end" %}
 
-{% include excol.html type="start" %}
+{% include excols.html type="start" %}
 
 ### Make each step clear
 
-{% include excol.html type="middle" %}
+{% include excols.html type="middle" %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{% include excol.html type="end" %}
+
+{% include excols.html type="end" %}
+
 {% include excol.html type="end" %}
 
 {% include excol.html type="start" %}
@@ -204,11 +220,11 @@ This leads to the following user stories.
 
 ### Design Requirements
 
-{% include excol.html type="start" %}
+{% include excols.html type="start" %}
 
 ### Provide human help
 
-{% include excol.html type="middle" %}
+{% include excols.html type="middle" %}
 
 - Ensure easy access to a human who can provide help and support.
 - Support can be on accessibility, technical, process or domain based.
@@ -258,14 +274,42 @@ Full Details in the COGA Design Guide [8.3.4 Provide human help](https://w3c.git
 
 - P999 Select default help mode</li>
 
-{% include excol.html type="end" %}
+{% include excols.html type="end" %}
 
-{% include excol.html type="start" %}
+{% include excols.html type="start" %}
 
 ### Provide help for forms and non-standard controls
 
-{% include excol.html type="middle" %}
+{% include excols.html type="middle" %}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{% include excol.html type="end" %}
+
+{% include excols.html type="end" %}
 
 {% include excol.html type="end" %}
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+.

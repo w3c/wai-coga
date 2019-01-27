@@ -20,27 +20,19 @@ doc-note-message-md: |
 
 Select the guides from below according to what you want to do:
 
+{% include excol.html type="all" %}
+
 {% include excol.html type="start" %}
 
 ### Develop Web sites that are inclusive of people with cognitive disabilities
 
 {% include excol.html type="middle" %}
 
-#### These resources are useful for procurers, designers and developers {#wcag}
+These resources are useful for procurers, designers and developers
 
 * [Introducing Cognitive and Learning Disabilities](./about)
-* [Developer Resources for ensuting websites are accessible to People With Cognitive Learning Disabilities](./guide)
+* [Developer Resources for ensuring websites are accessible to People With Cognitive Learning Disabilities](./guide)
 * [Design Guide For Making Content For People With Cognitive Learning Disabilities](./guide)
-
-{% include excol.html type="end" %}
-
-{% include excol.html type="start" %}
-
-### Ensure resources for people with COGA are usable
-
-{% include excol.html type="middle" %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include excol.html type="end" %}
 
@@ -50,7 +42,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include excol.html type="middle" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These resources are useful when creating policy
+
+* [Developer Resources for ensuring websites are accessible to People With Cognitive Learning Disabilities](./guide)
+* [Gap Analysis higlighting the barriers people can face in using technology](./gapanalysis)
+* [User research into all issues relevent to people using technology](./research)
 
 {% include excol.html type="end" %}
 
@@ -60,7 +56,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include excol.html type="middle" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These resources are useful for procurers, designers and developers
+
+* [Gap Analysis higlighting the barriers people can face in using technology](./gapanalysis)
+* [User Research into issues relevent to people using technology](./research)
 
 {% include excol.html type="end" %}
 
