@@ -1,8 +1,8 @@
 # wai-coga
 Cognitive and Learning Disabilities Accessibility pages on WAI website
 
-Preview: https://w3c.github.io/wai-coga/coga/
-Live: not yet
+* Preview: https://w3c.github.io/wai-coga/coga-draft/
+* Live: not yet
 
 ## Local dev setup when on windows
 
