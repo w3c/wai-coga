@@ -11,7 +11,7 @@ doc-note-message-md: |
   
   - Interactive signposting to appropriate resources
   - Activity of COGA TF
-  - Where COGA resources fit in other W3C WAI activities, esp. WCGA & Personalization
+  - Other W3C WAI activities, esp. WCGA
  
   [See page details in plan](./plan#new-pages)
 
@@ -66,3 +66,8 @@ These resources are useful for procurers, designers and developers
 ## W3C WAI COGA Activity {#intro}
 
 W3C’s Web Accessibility Initiative (WAI) maintains a number for resources that directly support web accessibility for people with Cognitive and Learning Disabilities. In addition, other standards are reviewed to ensure they also provide suitable support and do not present barriers. This work is carried out by members of the **[Accessible Platform Architectures (APA)](https://www.w3.org/WAI/APA/)** working group through the specialist activities of the **[Cognitive Accessibility and Learning Disabilities](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)** and **[Personalization Accessibility](https://www.w3.org/WAI/APA/task-forces/personalization/)** task forces.
+
+## Other Relevant W3C WAI Activities
+
+* WCAG
+* UAAG

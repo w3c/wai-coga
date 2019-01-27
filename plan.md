@@ -134,7 +134,7 @@ Moving to the WAI Web site offers the following opportunities
 
 - **Purpose:** Provide insight into barriers currently faced by users.
 - **Primary audience:** Someone wanting to learning about technical barriers that are not yet addressed.
-- **Work to complete** Clean Up and move content from Gap Analysis. For WCAG. Integrate into WAI
+- **Work to complete** Clean Up and move content from Gap Analysis. Ignore road map content. For WCAG. Integrate into WAI
 - **Site path:** Accessibility Fundamentals / Cognitive Disabilities / Gap Analysis
 - **Current doc:** [Working Draft](https://w3c.github.io/coga/gap-analysis/)
 - **Estimated effort:** large
