@@ -160,6 +160,16 @@ Moving to the WAI Web site offers the following opportunities
 - **Estimated effort:** medium
 - **Priority** low
 
+### [Glossary]({{ "/coga-draft/glossary" | relative_url }})
+
+- **Purpose:** Provide definitive definition of terms
+- **Primary audience:** Someone wanting to understand a particular term.
+- **Work to complete** Needs to be created
+- **Site path:** ? - might remain as a doc
+- **Current doc:** [Google Doc](https://docs.google.com/document/d/1poEoQjuWdAfWM3aOGPCwJRx7EvBsAtQ_99sGyS9Jlgc/edit)
+- **Estimated effort:** low
+- **Priority** high
+
 ### [Taskforce]({{ "/coga-draft/taskforce" | relative_url }})
 
 - **Purpose:** Provide information about the Coga Task Force. To replace the [old TF page](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)
