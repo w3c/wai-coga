@@ -1,19 +1,21 @@
 - name: Draft COGA Pages
   pages:
-  - name: Overview
+  - name: Exploring
     url: "/coga-draft/"
   - name: About Coga
     url: "/coga-draft/about"
-  - name: Developer Resources
+  - name: Design Elements
     url: "/coga-draft/resources"
-  - name: Personas
-    url: "/coga-draft/personas"
   - name: Design Guide
     url: "/coga-draft/guide"
   - name: Gap Analysis
     url: "/coga-draft/gapanalysis"
   - name: Research Findings
     url: "/coga-draft/research"
+  - name: ~Personas~
+    url: "/coga-draft/personas"
+  - name: ~Glossary~
+    url: "/coga-draft/glossary"
 - name: COGA Resource Plan
   pages:
   - name: Full Plan

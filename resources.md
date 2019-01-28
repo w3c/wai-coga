@@ -1,5 +1,5 @@
 ---
-title: Developer Resources
+title: Key Access Resources
 permalink: /coga-draft/resources
 github:
   repository: w3c/wai-coga
@@ -16,8 +16,16 @@ doc-note-message-md: |
   [See page details in plan](./plan#developer-resources)
 
 ---
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
-## Use Cases / Persona
+
+
+## Use Cases / Personas
 
 Any time there is a 'target audience', there will be people with with learning and cognitive disabilities in that audience. Cogntiive issues are often invisible in day to day life until people encounter particular challenges. To provide some context and understanding eight personas have been created which outline fictional people with various cognitive issues and the challenges they face.
 
@@ -44,7 +52,7 @@ There are some differences when testing for accessibility, and that includes whe
 
 ## Designing for Cognitive and Learning Disabilities
 
-The wide variation of user requirements of people with cognitive and learning disabilities requires extra in design to avoid introducing access blocking barriers. In particular, care is needed with, structure, navigation, dynamics and especially content. 
+The wide variation of user requirements of people with cognitive and learning disabilities requires extra in design to avoid introducing access blocking barriers. In particular, care is needed with, structure, navigation, dynamics and especially content.
 
 - There are many usesful techniques which can be grouped into the following Themes so they are more manageable:
 - Ensure design is easy to understand and use

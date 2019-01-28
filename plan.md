@@ -90,7 +90,7 @@ Moving to the WAI Web site offers the following opportunities
 
 ## New Pages
 
-### [Overview]({{ "/coga-draft/" | relative_url }})
+### [Exploring]({{ "/coga-draft/" | relative_url }})
 
 - **Purpose:** A interactive overview with links to the various coga resources
 - **Primary audience:** Someone who wants to learn about coga in general or in order to perform a task
@@ -112,7 +112,7 @@ Moving to the WAI Web site offers the following opportunities
 
 ### [Developer Resources]({{ "/coga-draft/resources" | relative_url }})
 
-- **Purpose:** Provide info on user needs, barriers, personas, testing.
+- **Purpose:** Provide high level info on user needs, barriers, personas, testing.
 - **Primary audience:** Someone wanting to learning how to develop coga inclusive
 - **Work to complete** Copy content from Content Usable and more. Integrate into WAI
 - **Site Path:** Accessibility Fundamentals / Cognitive Disabilities / Design Guide

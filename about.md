@@ -32,6 +32,15 @@ It should be noted that by addressing barriers to accessibility for users with c
   src="a11yux.png"
   caption="Diagram showing how a11y overlaps with UX" %}
 
+[Personas](./personas)
+
+## Important Concepts and Glossary of Terms
+
+The are many terms used arround Cognitive and Learning Disabilities, many of which vary between countries. 
+
+We are compiling a [Glossary of Terms](https://docs.google.com/document/d/1poEoQjuWdAfWM3aOGPCwJRx7EvBsAtQ_99sGyS9Jlgc/edit).
+
+
 ## Barriers faced
 
 People with cognitive and learning disabilities may be unable to use web content because of the design choices of the author. Examples include:

@@ -44,7 +44,7 @@ This guide is divided into design themes. There are also user stories, testing m
 
 {% include excol.html type="start" %}
 
-## Theme 1: Ensure user can understand what each element is and how to use it
+## Objective 1: Ensure user can understand what each element is and how to use it
 
 {% include excol.html type="middle" %}
 
@@ -112,7 +112,7 @@ This leads to the following user stories:
 
 {% include excol.html type="end" %}
 
-### Design requirements
+### Patterns
 
 {% include excols.html type="start" %}
 
@@ -141,7 +141,7 @@ Heading needed to clarify the purpose of this specific page
 #### Technical Resources
 
 WCGA resource links
-Personalisation resource links
+Personalisation resource linksl
 
 {% include excols.html type="end" %}
 
@@ -159,7 +159,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include excol.html type="start" %}
 
-## Theme 7: Provide help and support
+## Objective 7: Provide help and support
 
 {% include excol.html type="middle" %}
 
@@ -218,7 +218,7 @@ This leads to the following user stories.
 
 {% include excol.html type="end" %}
 
-### Design Requirements
+### Patterns
 
 {% include excols.html type="start" %}
 

@@ -7,7 +7,7 @@ layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
- Like to be moved to be with other personas on WAI site.
+ Possibly to be moved to be with other personas on WAI site.
 
  **Outline:**
   
