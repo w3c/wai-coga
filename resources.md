@@ -23,6 +23,12 @@ Any time there is a 'target audience', there will be people with with learning a
 
 [Personas](./personas)
 
+## Glossary of Terms
+
+The are many terms used arround Cognitive and Learning Disabilities, many of which vary between countries. 
+
+We are compiling a [Glossary of Terms](https://docs.google.com/document/d/1poEoQjuWdAfWM3aOGPCwJRx7EvBsAtQ_99sGyS9Jlgc/edit).
+
 ## Differences from usability testing with the general population
 
 There are some differences when testing for accessibility, and that includes when testing with people who have cognitive impairments:
