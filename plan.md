@@ -12,7 +12,6 @@ doc-note-message-md: |
   Each proposed page also has it's own Design Box at the top of the page.
 
 ---
-
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
@@ -185,6 +184,27 @@ Moving to the WAI Web site offers the following opportunities
   src="https://www.w3.org/Team/wiki/images/5/5d/Coga.svg"
   caption="Coga Pages and the links between them"
   top-caption=true %}
+
+<div id="2fotos" style="
+  border 2 black;
+  display: flex;
+  justify-content: space-evenly;
+  ">
+<div style="flex: 1 1 1; margin: 0.5rem">
+{% include figure.html
+  alt="Photograph of whiteboard drawing"
+  src="design-guide.jpg"
+  caption="Structure of the Design Guide"
+  top-caption=true %}
+</div>
+<div style="flex: 1 1 1; margin: 0.5rem">
+{% include figure.html
+  alt="Photograph of whiteboard drawing"
+  src="content-usable.jpg"
+  caption="Structure of the Content Usable"
+  top-caption=true %}
+</div>
+</div>
 
 ## Editoral process
 
