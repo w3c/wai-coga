@@ -5,6 +5,15 @@ github:
   repository: w3c/wai-coga
 layout: default
 feedbackmail: wai@w3.org
+inline_css: "#twofotos {
+  display: flex;
+  justify-content: space-evenly;
+  }
+  #twofotos > figure {
+    flex: 1 1 1;
+    margin: 0.5rem  
+  }
+  "
 doc-note-type: draft
 doc-note-message-md: |
   This is the overall plan for moving coga resources to the WAI Website. 
@@ -185,25 +194,17 @@ Moving to the WAI Web site offers the following opportunities
   caption="Coga Pages and the links between them"
   top-caption=true %}
 
-<div id="2fotos" style="
-  border 2 black;
-  display: flex;
-  justify-content: space-evenly;
-  ">
-<div style="flex: 1 1 1; margin: 0.5rem">
+<div id="twofotos"> 
 {% include figure.html
   alt="Photograph of whiteboard drawing"
   src="design-guide.jpg"
   caption="Structure of the Design Guide"
   top-caption=true %}
-</div>
-<div style="flex: 1 1 1; margin: 0.5rem">
 {% include figure.html
   alt="Photograph of whiteboard drawing"
   src="content-usable.jpg"
   caption="Structure of the Content Usable"
   top-caption=true %}
-</div>
 </div>
 
 ## Editoral process

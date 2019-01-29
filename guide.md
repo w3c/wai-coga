@@ -16,7 +16,7 @@ inline_css: "main#main {
   position: absolute;
   top: 0px;
   left:50%;
-  margin-left:1rem
+  margin-left:1rem;
   }
   "
 doc-note-type: draft
