@@ -44,7 +44,7 @@ This guide is divided into design themes. There are also user stories, testing m
 
 {% include excol.html type="start" %}
 
-## Objective 1: Ensure user can understand what each element is and how to use it
+## Objective 1: Help users understand what they are and how to use them
 
 {% include excol.html type="middle" %}
 
@@ -95,6 +95,7 @@ Test for the following:
   - Does they user find them easy to achieve
 
 {% include excol.html type="end" %}
+
 {% include excol.html type="start" %}
 
 ### User stories
@@ -114,11 +115,11 @@ This leads to the following user stories:
 
 ### Patterns
 
-{% include excols.html type="start" %}
+{% include excol.html type="start" %}
 
 ### Make the purpose of your page clear
 
-{% include excols.html type="middle" %}
+{% include excol.html type="middle" %}
 
 Use a clear title or heading that summarizes the purpose of a page, or other clear signposts that have been tested by users with cognitive disabilities. 
 
@@ -130,7 +131,7 @@ For example, someone with mild dementia is using online shopping. They get distr
 
 #### More details
 
-Heading needed to clarify the purpose of this specific page   
+Heading needed to clarify the purpose of this specific page
 
 #### Examples
 
@@ -143,19 +144,428 @@ Heading needed to clarify the purpose of this specific page
 WCGA resource links
 Personalisation resource linksl
 
-{% include excols.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include excols.html type="start" %}
+{% include excol.html type="start" %}
 
 ### Make each step clear
 
-{% include excols.html type="middle" %}
+{% include excol.html type="middle" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-{% include excols.html type="end" %}
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Headings, visual hierarchies and white space
+
+{% include excol.html type="middle" %}
 
 {% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use white space and call out boxes
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Chunk Media
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Make the purpose of each section clear
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Make it clear what are controls and how they should be used
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Each region and its controls can be clearly recognized
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Toolbars and controls are visible or easy to find
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Sub-menu items that are clearly associated with the main menu items under which they fall
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use a design that the user is likely to recognise and understand
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Be internally consistent
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use symbols that help the user
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+
+<!----->
+
+
+{% include excol.html type="start" %}
+
+## Objective 2: Provide help and support
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Make it easy to find the most important things on the page
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Add search
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Avoid scroll
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Always let the user go back
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+
+<!---->
+
+
+{% include excol.html type="start" %}
+
+## Objective 3: Use clear and understandable content and text
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Make it easy to find the most important things on the page
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use clear words
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Do not use double negatives or clauses inside clauses
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use literal language
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Separate each instruction
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Keep text succinct
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use clear text and voice (About typography)
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Provide summary of long documents
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use clear images
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Provide Alternatives for numbers
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+<!---->
+
+{% include excol.html type="start" %}
+
+## Objective 4: Prevent user from making mistakes and make it easy to correct
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Build forms so that people make less mistakes
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Make it easy to undo errors
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Use clear labels and instructions
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Make it easy for the user to undo actions
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Avoid data loss and "time outs"
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Provide feedback
+
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Tell the users about any fees and charges at the beginning of a task
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### The user knows when the content changes
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Keep the user information safe
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+
+<!---->
+
+
+{% include excol.html type="start" %}
+
+## Objective 5: Help the user focus and restore context if attention is lost
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Avoid interruptions
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Avoid too much content on the page
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+
+<!---->
+
+
+{% include excol.html type="start" %}
+
+## Objective 6: Avoid barriers
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Logging in does not rely on good memory or other cognitive skills
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Let people avoid navigating voice menus
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Do not rely on users memorizing information
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+
+<!---->
+
 
 {% include excol.html type="start" %}
 
@@ -220,11 +630,38 @@ This leads to the following user stories.
 
 ### Patterns
 
-{% include excols.html type="start" %}
+{% include excol.html type="start" %}
+
+### Provide help for complex information
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Provide help with directions
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Provide help for forms and non-standard controls
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
 
 ### Provide human help
 
-{% include excols.html type="middle" %}
+{% include excol.html type="middle" %}
 
 - Ensure easy access to a human who can provide help and support.
 - Support can be on accessibility, technical, process or domain based.
@@ -274,19 +711,66 @@ Full Details in the COGA Design Guide [8.3.4 Provide human help](https://w3c.git
 
 - P999 Select default help mode</li>
 
-{% include excols.html type="end" %}
+{% include excol.html type="end" %}
 
-{% include excols.html type="start" %}
 
-### Provide help for forms and non-standard controls
+{% include excol.html type="start" %}
 
-{% include excols.html type="middle" %}
+### Provide reminders
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{% include excols.html type="end" %}
+{% include excol.html type="middle" %}
 
 {% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Feedback is usable by everyone
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
+
+<!---->
+
+
+{% include excol.html type="start" %}
+
+## Objective 8: Adapt and Personalize
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Support API
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Support simplification
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+
+{% include excol.html type="start" %}
+
+### Support personlization of symbols and controls
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="end" %}
+
 
 <br/>
 <br/>
