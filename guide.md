@@ -38,13 +38,15 @@ Traditionally accessibility has been most focused on the interface, and making t
 
 This document aims to provide guidance on how to make websites and applications that are friendly for people with cognitive impairments by providing guidance for your content, designs, and design process.
 
-This guide is divided into design Objectives. Each Object has information on user testing, user stories and a set of design Patterns. Just understanding the Objectives and user stories may help make your content more accessible to some users with cognitive and learning disabilities.
+This guide presents a significant number of design **Patterns**.  When applied, each Pattern will make a significat contribution to ensuring good cognitive aaccessibility. The Patterns are gouped into design **Objectives** which cover an important area of cognitive accessibility. Each Objective also includes information on user testing and user stories, as well as the set of Patterns. Just understanding the Objectives and user stories may help make your content more accessible to some users with cognitive and learning disabilities.
 
 {% include excol.html type="all" %}
 
+*Note: Currently this is laregly an outline view. However, Items marked with (\*) do have some example content.*
+
 {% include excol.html type="start" %}
 
-## Objective 1: Help users understand what they are and how to use them
+## Objective 1: (*) Help users understand what they are and how to use them
 
 {% include excol.html type="middle" %}
 
@@ -117,7 +119,7 @@ This leads to the following user stories:
 
 {% include excol.html type="start" %}
 
-### Make the purpose of your page clear
+### (*) Make the purpose of your page clear
 
 {% include excol.html type="middle" %}
 
@@ -151,8 +153,6 @@ Personalisation resource linksl
 ### Make each step clear
 
 {% include excol.html type="middle" %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include excol.html type="end" %}
 
@@ -569,7 +569,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include excol.html type="start" %}
 
-## Objective 7: Provide help and support
+## Objective 7: (*) Provide help and support
 
 {% include excol.html type="middle" %}
 
@@ -659,7 +659,7 @@ This leads to the following user stories.
 
 {% include excol.html type="start" %}
 
-### Provide human help
+### (*) Provide human help
 
 {% include excol.html type="middle" %}
 
