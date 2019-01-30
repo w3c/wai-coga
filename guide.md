@@ -32,17 +32,17 @@ doc-note-message-md: |
 ---
 ## Overview
 
-Making websites and applications that are friendly for people with cognitive impairments affects every part of design and development.
+Techniques that make websites and applications friendly for people with cognitive impairments need to be addressed in every part of a design and development process.
 
-Traditionally accessibility has been most focused on the interface, and making that usable for people with sensory and physical impairments in vision, hearing and/or mobility. Some accessibility features will help people with cognitive impairments, but often the issues are about context, language, usability, and other more general factors that impact everyone to some degree.
+Traditionally accessibility has been most focused on the interface and making that usable for people with sensory and physical impairments. For example, technical accessibility techniques for vision, hearing and/or mobility. Some of these accessibility techniques will also be effective in helping people with cognitive impairments.
 
-This document aims to provide guidance on how to make websites and applications that are friendly for people with cognitive impairments by providing guidance for your content, designs, and design process.
+Often however, cognitve barriers are caused by context, language, usability, and other more general factors. These need to be addressed during the early design stages of user interface and for content creation. Following good deaign Patters benefits everyone to some degree, but bad design patterns can completely stop someone with congitive and learning disabilities.
 
-This guide presents a significant number of design **Patterns**.  When applied, each Pattern will make a significat contribution to ensuring good cognitive aaccessibility. The Patterns are gouped into design **Objectives** which cover an important area of cognitive accessibility. Each Objective also includes information on user testing and user stories, as well as the set of Patterns. Just understanding the Objectives and user stories may help make your content more accessible to some users with cognitive and learning disabilities.
+This guide presents a number of effective design **Patterns**.  When applied, each Pattern will make a significat contribution to ensuring good cognitive accessibility and improve wider usability. The Patterns are gouped into design **Objectives** which cover an important area of cognitive accessibility. Each Objective also includes information on user testing and user stories, as well as the set of Patterns. Just understanding the Objectives and user stories may enable better design decisions to be made. But the Patterns provide practical steps that can be applied to a design process so content is more accessible to people with cognitive and learning disabilities.
 
 {% include excol.html type="all" %}
 
-*Note: Currently this is laregly an outline view. However, Items marked with (\*) do have some example content.*
+*Note: Currently this is largely an outline view. However, Items marked with (\*) do have some example content.*
 
 {% include excol.html type="start" %}
 
