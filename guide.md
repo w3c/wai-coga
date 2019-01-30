@@ -269,6 +269,33 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
+### Introduction
+
+{% include excol.html type="middle" %}
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User testing
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User stories
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+### Patterns
+
+{% include excol.html type="start" %}
+
 ### Make it easy to find the most important things on the page
 
 {% include excol.html type="middle" %}
@@ -313,6 +340,33 @@ Personalisation resource linksl
 ## Objective 3: Use clear and understandable content and text
 
 {% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Introduction
+
+{% include excol.html type="middle" %}
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User testing
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User stories
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+### Patterns
 
 {% include excol.html type="start" %}
 
@@ -415,6 +469,33 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
+### Introduction
+
+{% include excol.html type="middle" %}
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User testing
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User stories
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+### Patterns
+
+{% include excol.html type="start" %}
+
 ### Build forms so that people make less mistakes
 
 {% include excol.html type="middle" %}
@@ -508,6 +589,33 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
+### Introduction
+
+{% include excol.html type="middle" %}
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User testing
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User stories
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+### Patterns
+
+{% include excol.html type="start" %}
+
 ### Avoid interruptions
 
 {% include excol.html type="middle" %}
@@ -534,6 +642,33 @@ Personalisation resource linksl
 ## Objective 6: Avoid barriers
 
 {% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Introduction
+
+{% include excol.html type="middle" %}
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User testing
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User stories
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+### Patterns
 
 {% include excol.html type="start" %}
 
@@ -742,6 +877,33 @@ Full Details in the COGA Design Guide [8.3.4 Provide human help](https://w3c.git
 ## Objective 8: Adapt and Personalize
 
 {% include excol.html type="middle" %}
+
+{% include excol.html type="start" %}
+
+### Introduction
+
+{% include excol.html type="middle" %}
+
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User testing
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+{% include excol.html type="start" %}
+
+### User stories
+
+{% include excol.html type="middle" %}
+
+{% include excol.html type="end" %}
+
+### Patterns
 
 {% include excol.html type="start" %}
 
