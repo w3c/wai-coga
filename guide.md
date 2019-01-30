@@ -370,7 +370,7 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
-### Make it easy to find the most important things on the page
+### Use clear words
 
 {% include excol.html type="middle" %}
 
@@ -379,7 +379,7 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
-### Use clear words
+### Use a simple tense and written language
 
 {% include excol.html type="middle" %}
 
@@ -424,7 +424,7 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
-### Use clear text and voice (About typography)
+### Use typography and punctuation
 
 {% include excol.html type="middle" %}
 
@@ -860,7 +860,7 @@ Full Details in the COGA Design Guide [8.3.4 Provide human help](https://w3c.git
 
 {% include excol.html type="start" %}
 
-### Feedback is usable by everyone
+### Make it easy to find help and feedback channels
 
 {% include excol.html type="middle" %}
 
@@ -907,7 +907,7 @@ Full Details in the COGA Design Guide [8.3.4 Provide human help](https://w3c.git
 
 {% include excol.html type="start" %}
 
-### Support API
+### Support APIs
 
 {% include excol.html type="middle" %}
 
