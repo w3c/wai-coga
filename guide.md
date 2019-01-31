@@ -168,7 +168,7 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
-### Use white space and call out boxes
+### Call out boxes
 
 {% include excol.html type="middle" %}
 
@@ -424,7 +424,7 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
-### Use typography and punctuation
+### Use clear typography and punctuation
 
 {% include excol.html type="middle" %}
 
@@ -639,7 +639,7 @@ Personalisation resource linksl
 
 {% include excol.html type="start" %}
 
-## Objective 6: Avoid barriers
+## Objective 6: Processes do not rely on memory
 
 {% include excol.html type="middle" %}
 
