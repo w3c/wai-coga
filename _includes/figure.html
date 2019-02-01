@@ -1,13 +1,15 @@
-<figure>
+<figure class="shrink-wrap">
     {% if include.top-caption %}
-    <figcaption>{{ include.caption }}</figcaption>
+    <figcaption class="figcaption">{{ include.caption }}</figcaption>
     {% endif %}
 
-    {% if include.src contains 'https' %}
-    <img src="{{ include.src }}" alt="{{ include.alt }}" />
-    {% else %}
-    <img src="{{ "/content-images/wai-coga/" | append: include.src | relative_url }}" alt="{{ include.alt }}" />
-    {% endif %}
+    <div class="figcontent">
+        {% if include.src contains 'https' %}
+        <img src="{{ include.src }}" alt="{{ include.alt }}" />
+        {% else %}
+        <img src="{{ "/content-images/wai-coga/" | append: include.src | relative_url }}" alt="{{ include.alt }}" />
+        {% endif %}
+    </div>
 
     {% unless include.top-caption %}
     <figcaption>{{ include.caption }}</figcaption>
