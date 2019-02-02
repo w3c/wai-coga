@@ -1,6 +1,6 @@
 ---
-title: Overview of Cognitive and Learning Disability Resources
-permalink: /coga-draft/
+title: Cognitive and Learning Disability Resources Overview
+permalink: /coga-draft/overview
 github:
   repository: w3c/wai-coga
 layout: default

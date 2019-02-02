@@ -1,13 +1,57 @@
 - name: Draft COGA Pages
   pages:
-  - name: Exploring
-    url: "/coga-draft/"
+  - name: Overview
+    url: "/coga-draft/overview"
   - name: About Coga
     url: "/coga-draft/about"
   - name: Design Elements
     url: "/coga-draft/resources"
   - name: Design Guide
-    url: "/coga-draft/guide"
+    url: "/coga-draft/guide/"
+    pages:
+      - name: Understandable
+        url: "/coga-draft/guide/understandable/"
+        pages:
+          - name: Clear Purpose
+            url: "/coga-draft/guide/understandable/clear-purpose"
+          - name: Clear Steps
+            url: "/coga-draft/guide/understandable/clear-steps"
+          - name: Visual Heirarchy
+            url: "/coga-draft/guide/understandable/visual-heirarchy"
+          - name: Callout Boxes
+            url: "/coga-draft/guide/understandable/callout-boxes"
+          - name: Chunk Media
+            url: "/coga-draft/guide/understandable/chunk-media"
+          - name: Purposeful Regions
+            url: "/coga-draft/guide/understandable/purposeful-regions"
+          - name: Effictive Affordances
+            url: "/coga-draft/guide/understandable/effective-affordances"
+          - name: Recognizable Regions
+            url: "/coga-draft/guide/understandable/recognizable-regions"
+          - name: Findable Controls
+            url: "/coga-draft/guide/understandable/findable-controls"
+          - name: Menu Structure
+            url: "/coga-draft/guide/understandable/menu-structure"
+          - name: Familiar Design
+            url: "/coga-draft/guide/understandable/familiar-design"
+          - name: Internally Consistent
+            url: "/coga-draft/guide/understandable/internally-consistent"
+          - name: Helpful Symbols
+            url: "/coga-draft/guide/understandable/helpful-symbols-purpose"
+      - name: Findable
+        url: "/coga-draft/guide/findable"
+      - name: Readable
+        url: "/coga-draft/guide/readable"
+      - name: Amendable
+        url: "/coga-draft/guide/amendable"
+      - name: Indispensable
+        url: "/coga-draft/guide/indispensable"
+      - name: Conceivable
+        url: "/coga-draft/guide/conceivable"
+      - name: Supportable
+        url: "/coga-draft/guide/supportable"
+      - name: Adaptable
+        url: "/coga-draft/guide/adaptable"
   - name: Gap Analysis
     url: "/coga-draft/gapanalysis"
   - name: Research Findings
