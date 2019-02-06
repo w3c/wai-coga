@@ -1,6 +1,6 @@
 ---
 title: Cognitive and Learning Disability Resources Overview
-permalink: /coga-draft/overview
+permalink: /coga-draft/
 github:
   repository: w3c/wai-coga
 layout: default
@@ -65,7 +65,7 @@ These resources are useful for procurers, designers and developers
 
 ## W3C WAI COGA Activity {#intro}
 
-The World Wide Web Consortium (W3C) is an international consortium that develops web standards. W3C’s Web Accessibility Initiative (WAI) focuses on making the web accessible to people with disabilities. 
+The World Wide Web Consortium (W3C) is an international consortium that develops web standards. W3C’s Web Accessibility Initiative (WAI) focuses on making the web accessible to people with disabilities.
 
 W3C’s Web Accessibility Initiative (WAI) maintains a number for resources that directly support web accessibility for people with Cognitive and Learning Disabilities. In addition, other standards are reviewed to ensure they also provide suitable support and do not present barriers. This work is carried out by members of the **[Accessible Platform Architectures (APA)](https://www.w3.org/WAI/APA/)** working group through the specialist activities of the **[Cognitive Accessibility and Learning Disabilities](https://www.w3.org/WAI/PF/cognitive-a11y-tf/)** and **[Personalization Accessibility](https://www.w3.org/WAI/APA/task-forces/personalization/)** task forces.
 
@@ -86,4 +86,5 @@ UAAG explains how to make web browsers and media players accessible. Some browse
 Authoring tools are used to create web content. Examples of authoring tools are HTML editors and Web content management systems (CMS). These need to be both accessible to people with cognitive disabilities, and also must create content that is also fully accessible. In addition, the ability to allow authors to provide content alternatives supporting personalisation. (!!!)
 
 ### Other standards
+
 Some other standards are highly relevant - eg [Web Authentication](https://www.w3.org/TR/webauthn/) can be a barrier if passwords are required.

@@ -1,5 +1,5 @@
 ---
-title: Understandable - users understand what elements are and how to use them
+title: Intelligible - users understand what elements are and how to use them
 permalink: /coga-draft/guide/understandable/
 github:
   repository: w3c/wai-coga

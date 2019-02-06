@@ -27,12 +27,12 @@ This guide presents a number of effective design **Patterns** which when applied
 
 ## Objectives
 
-- **[Understandable](./understandable/) - Users understand what elements are and how to use them**
+- **[Indubitable](./indubitable/) - Users understand what elements are and how to use them**
 - **[Findable](./understandable) - Users can find what they need**
 - **[Readable](./understandable) - Use clear and understandable content and text**
 - **[Amendable](./amendable) - Prevent user from making mistakes and make it easy to correct**
 - **[Indispensable](./indeispensable) - Help the user focus and restore context if attention is lost**
-- **[Conceivable](./conceivable) - Processes do not rely on memory**
+- **[Allowable](./allowable) - Processes do not rely on memory**
 - **[Supportable](./supportable) -Provide help and support**
 - **[Adaptable](./adaptable) - Adaptable and Personalisable**
 
