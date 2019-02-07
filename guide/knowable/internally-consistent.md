@@ -1,6 +1,6 @@
 ---
-title: Design Guide - Understandable - Clear Steps
-permalink: /coga-draft/guide/understandable/clear-steps
+title: Internally Consistent
+permalink: /coga-draft/guide/knowable/internally-consistent
 github:
   repository: w3c/wai-coga
 layout: default

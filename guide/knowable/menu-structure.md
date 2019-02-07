@@ -1,7 +1,7 @@
 ---
 title: Menu Structure - Sub-menu items that are clearly associated with the main menu items under which they fall
 
-permalink: /coga-draft/guide/understandable/menu-structure
+permalink: /coga-draft/guide/knowable/menu-structure
 github:
   repository: w3c/wai-coga
 layout: default

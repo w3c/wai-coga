@@ -1,6 +1,6 @@
 ---
-title: Callout Boxes
-permalink: /coga-draft/guide/understandable/callout-boxes
+title: Design Guide - Understandable - Clear Steps
+permalink: /coga-draft/guide/knowable/clear-steps
 github:
   repository: w3c/wai-coga
 layout: default

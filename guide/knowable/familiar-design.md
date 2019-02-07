@@ -1,7 +1,7 @@
 ---
 title: Familiar Design - Use a design that the user is likely to recognise and understand
 
-permalink: /coga-draft/guide/understandable/familiar-design
+permalink: /coga-draft/guide/knowable/familiar-design
 github:
   repository: w3c/wai-coga
 layout: default

@@ -1,6 +1,6 @@
 ---
-title: Intelligible - users understand what elements are and how to use them
-permalink: /coga-draft/guide/understandable/
+title: Indubitable - users understand what elements are and how to use them
+permalink: /coga-draft/guide/knowable/
 github:
   repository: w3c/wai-coga
 layout: default

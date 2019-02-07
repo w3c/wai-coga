@@ -1,6 +1,6 @@
 ---
-title: Purposeful Sections - Make the purpose of each section clear
-permalink: /coga-draft/guide/understandable/purposeful-sections
+title: Recognizable Regions - Each region and its controls can be clearly recognized
+permalink: /coga-draft/guide/knowable/recognizable-regions
 github:
   repository: w3c/wai-coga
 layout: default

@@ -9,35 +9,35 @@
   - name: Design Guide
     url: "/coga-draft/guide/"
     pages:
-      - name: Indubitable
-        url: "/coga-draft/guide/indubitable/"
+      - name: Knowable
+        url: "/coga-draft/guide/knowable/"
         pages:
           - name: Clear Purpose
-            url: "/coga-draft/guide/indubitable/clear-purpose"
+            url: "/coga-draft/guide/knowable/clear-purpose"
           - name: Clear Steps
-            url: "/coga-draft/guide/indubitable/clear-steps"
+            url: "/coga-draft/guide/knowable/clear-steps"
           - name: Visual Heirarchy
-            url: "/coga-draft/guide/indubitable/visual-heirarchy"
+            url: "/coga-draft/guide/knowable/visual-heirarchy"
           - name: Callout Boxes
-            url: "/coga-draft/guide/indubitable/callout-boxes"
+            url: "/coga-draft/guide/knowable/callout-boxes"
           - name: Chunk Media
-            url: "/coga-draft/guide/indubitable/chunk-media"
+            url: "/coga-draft/guide/knowable/chunk-media"
           - name: Purposeful Regions
-            url: "/coga-draft/guide/indubitable/purposeful-regions"
+            url: "/coga-draft/guide/knowable/purposeful-regions"
           - name: Effictive Affordances
-            url: "/coga-draft/guide/indubitable/effective-affordances"
+            url: "/coga-draft/guide/knowable/effective-affordances"
           - name: Recognizable Regions
-            url: "/coga-draft/guide/indubitable/recognizable-regions"
+            url: "/coga-draft/guide/knowable/recognizable-regions"
           - name: Findable Controls
-            url: "/coga-draft/guide/indubitable/findable-controls"
+            url: "/coga-draft/guide/knowable/findable-controls"
           - name: Menu Structure
-            url: "/coga-draft/guide/indubitable/menu-structure"
+            url: "/coga-draft/guide/knowable/menu-structure"
           - name: Familiar Design
-            url: "/coga-draft/guide/indubitable/familiar-design"
+            url: "/coga-draft/guide/knowable/familiar-design"
           - name: Internally Consistent
-            url: "/coga-draft/guide/indubitable/internally-consistent"
+            url: "/coga-draft/guide/knowable/internally-consistent"
           - name: Helpful Symbols
-            url: "/coga-draft/guide/indubitable/helpful-symbols-purpose"
+            url: "/coga-draft/guide/knowable/helpful-symbols-purpose"
       - name: Findable
         url: "/coga-draft/guide/findable"
       - name: Readable
@@ -56,10 +56,10 @@
     url: "/coga-draft/gapanalysis"
   - name: Research Findings
     url: "/coga-draft/research"
+  - name: Glossary
+    url: "/coga-draft/glossary"
   - name: ~Personas~
     url: "/coga-draft/personas"
-  - name: ~Glossary~
-    url: "/coga-draft/glossary"
 - name: COGA Resource Plan
   pages:
   - name: Full Plan

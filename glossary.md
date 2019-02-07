@@ -9,8 +9,7 @@ doc-note-type: draft
 doc-note-message-md: |
  Glossary of various terms used on COGA docs.
 
- **Outline:**
-  * Lists of terms
+  - Decide format - DT?
 
   [See page details in plan](./plan#glossary)
 
@@ -19,6 +18,7 @@ doc-note-message-md: |
 ## Introduction
 
 ### Acquired brain injury ABI  [us-clinical] or  Traumatic brain injury  TBI  [us-clinical]
+
 biaausa.org
 An acquired brain injury is an injury to the brain, which is not hereditary, congenital, degenerative, or induced by birth trauma. An acquired brain injury is an injury to the brain that has occurred after birth.
 Examples of ABI include:

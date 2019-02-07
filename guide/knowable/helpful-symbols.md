@@ -1,6 +1,6 @@
 ---
 title: Helpfull Symbols - Use symbols that Help the user
-permalink: /coga-draft/guide/understandable/helpfull-symbols
+permalink: /coga-draft/guide/knowable/helpfull-symbols
 github:
   repository: w3c/wai-coga
 layout: default
