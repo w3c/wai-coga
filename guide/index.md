@@ -27,7 +27,7 @@ This guide presents a number of effective design **Patterns** which when applied
 
 ## Objectives
 
-- **[Indubitable](./indubitable/) - Users understand what elements are and how to use them**
+- **[Knowable](./knowable/) - Users understand what elements are and how to use them**
 - **[Findable](./understandable) - Users can find what they need**
 - **[Readable](./understandable) - Use clear and understandable content and text**
 - **[Amendable](./amendable) - Prevent user from making mistakes and make it easy to correct**
