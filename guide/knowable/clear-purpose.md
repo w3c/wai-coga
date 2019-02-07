@@ -26,11 +26,15 @@ Heading needed to clarify the purpose of this specific page
 
 ## Examples
 
-**Success** example: Headings tell me exactly where I am
+**Success** example: Headings tells me exactly where I am
 
 **Failure** example: Heading that doesn't clarify the step in a form
 
-## Technical Resources
+## Technical Details
 
-WCGA resource links
-Personalisation resource linksl
+* INCOMPLETE - WCGA resource links here - SC, Techniques & quick ref *
+
+* 2.4.2 - Page Titled  - possible
+* 2.4.6 headings and labels
+
+[Proposed new WGAC SC](https://github.com/w3c/wcag21/issues/55)
