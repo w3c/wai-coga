@@ -1,5 +1,5 @@
 ---
-title: Purposeful Sections - Make the purpose of each section clear
+title: Sections have a clear purpose
 permalink: /coga-draft/guide/understandable/purposeful-sections
 github:
   repository: w3c/wai-coga

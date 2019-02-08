@@ -1,5 +1,5 @@
 ---
-title: Indispensable - Help the user focus and restore context if attention is lost
+title: Users can focus and continue after interuptions
 permalink: /coga-draft/guide/indispensable
 github:
   repository: w3c/wai-coga

@@ -1,5 +1,5 @@
 ---
-title: Findable Controls - Toolbars and controls are visible or easy to find
+title: Toolbars and controls are visible or easy to find
 permalink: /coga-draft/guide/understandable/findable-controls
 github:
   repository: w3c/wai-coga

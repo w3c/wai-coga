@@ -1,5 +1,5 @@
 ---
-title: Readable - use clear and understandable content and text
+title: Content is clear and understandable
 permalink: /coga-draft/guide/readable
 github:
   repository: w3c/wai-coga

@@ -1,5 +1,5 @@
 ---
-title: Conceivable - Processes do not rely on memory
+title: Processes do not rely on memory
 permalink: /coga-draft/guide/conceivable
 github:
   repository: w3c/wai-coga

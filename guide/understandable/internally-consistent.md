@@ -1,5 +1,5 @@
 ---
-title: Internally Consistent
+title: Design is internally consistent
 permalink: /coga-draft/guide/understandable/internally-consistent
 github:
   repository: w3c/wai-coga

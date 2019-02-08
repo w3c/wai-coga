@@ -1,5 +1,5 @@
 ---
-title: Recognizable Regions - Each region and its controls can be clearly recognized
+title: Regions and their controls are recognisabe
 permalink: /coga-draft/guide/understandable/recognizable-regions
 github:
   repository: w3c/wai-coga

@@ -1,5 +1,5 @@
 ---
-title: Supportable - Provide help and support
+title: Help and support are always available
 permalink: /coga-draft/guide/supportable
 github:
   repository: w3c/wai-coga

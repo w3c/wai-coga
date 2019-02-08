@@ -61,16 +61,16 @@ This leads to the following user stories:
 
 ## Patterns
 
-- **[Clear Purpose](./clear-purpose) - Make the purpose of you page clear**
-- **[Clear Steps](./clear-steps) - Make each step clear**
-- **[Visual Hierarchy](./visual-heirarchy) - Headings, visual hierarchies and white space**
-- **[Callout boxes](./callout-boxes)**
-- **[Chunk Media](./chunk-media)**
-- **[Purposeful Sections](./purposeful-sections) - Make the purpose of each section clear**
-- **[Effective Affordances](./effective-affordances) - Make it clear what are controls and how they should be used**
-- **[Recognizable Regions](./recognizable-regions) - Each region and its controls can be clearly recognized**
-- **[Findable Controls](./findable-controls) - Toolbars and controls are visible or easy to find**
-- **[Menu Structure](./menu-structure) - Sub-menu items that are clearly associated with the main menu items under which they fall**
-- **[Familiar Design](./familiar-design) - Use a design that the user is likely to recognise and understand**
-- **[Internally Consistent](./internally-consitent)**
-- **[Helpful Symbols](./helpful-symbols) - Use symbols that Help the user**
+- **[The purpose of a page is clear](./clear-purpose)**
+- **[Each step in a process is clear](./clear-steps)**
+- **[Visual heirarchy, headings and whitespace are effective](./visual-heirarchy)**
+- **[Call out boxes](./callout-boxes)**
+- **[Chunk media](./chunk-media)**
+- **[Sections have a clear purpose](./purposeful-sections)**
+- **[Controls and their operation are clear](./effective-affordances)**
+- **[Regions and their controls are recognisabe](./recognizable-regions)**
+- **[Toolbars and controls are visible or easy to find](./findable-controls)**
+- **[Child menu items are clearly related to their parent](./menu-structure)**
+- **[Design is likely to be familiar](./familiar-design)**
+- **[Design is internally consistent](./internally-consitent)**
+- **[Symbols support content](./helpful-symbols)**

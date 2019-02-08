@@ -5,32 +5,32 @@
     - name: Elements are understandable and usable
       url: "/coga-draft/guide/understandable/"
       pages:
-        - name: Clear Purpose
+        - name: The purpose of a page is clear
           url: "/coga-draft/guide/understandable/clear-purpose"
-        - name: Clear Steps
+        - name: Each step in a process is clear
           url: "/coga-draft/guide/understandable/clear-steps"
-        - name: Visual Heirarchy
+        - name: Visual heirarchy, headings and whitespace are effective
           url: "/coga-draft/guide/understandable/visual-heirarchy"
-        - name: Callout Boxes
+        - name: Call out boxes
           url: "/coga-draft/guide/understandable/callout-boxes"
-        - name: Chunk Media
+        - name: Chunk media
           url: "/coga-draft/guide/understandable/chunk-media"
-        - name: Purposeful Regions
+        - name: Sections have a clear purpose
           url: "/coga-draft/guide/understandable/purposeful-regions"
-        - name: Effictive Affordances
+        - name: Controls and their operation are clear
           url: "/coga-draft/guide/understandable/effective-affordances"
-        - name: Recognizable Regions
+        - name: Regions and their controls are recognisabe
           url: "/coga-draft/guide/understandable/recognizable-regions"
-        - name: Findable Controls
+        - name: Toolbars and controls are visible or easy to find
           url: "/coga-draft/guide/understandable/findable-controls"
-        - name: Menu Structure
+        - name: Child menu items are clearly related to their parent
           url: "/coga-draft/guide/understandable/menu-structure"
-        - name: Familiar Design
+        - name: Design is likely to be familiar
           url: "/coga-draft/guide/understandable/familiar-design"
-        - name: Internally Consistent
+        - name: Design is internally consistent
           url: "/coga-draft/guide/understandable/internally-consistent"
-        - name: Helpful Symbols
-          url: "/coga-draft/guide/understandable/helpful-symbols-purpose"
+        - name: Symbols support content
+          url: "/coga-draft/guide/understandable/helpful-symbols"
     - name: Users can find what they need
       url: "/coga-draft/guide/findable"
     - name: Content is clear and understandable

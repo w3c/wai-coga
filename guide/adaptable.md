@@ -1,5 +1,5 @@
 ---
-title: Adaptable - Adaptable and Personalisable
+title: Content is Adaptable and Personalizable
 permalink: /coga-draft/guide/adaptable
 github:
   repository: w3c/wai-coga

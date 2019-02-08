@@ -1,5 +1,5 @@
 ---
-title: Design Guide - Understandable - Clear Steps
+title: Each step in a process is clear
 permalink: /coga-draft/guide/understandable/clear-steps
 github:
   repository: w3c/wai-coga

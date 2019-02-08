@@ -1,5 +1,5 @@
 ---
-title: Effective Affordances - Make it clear what are controls and how they should be used
+title: Controls and their operation are clear
 permalink: /coga-draft/guide/understandable/effective-affordances
 github:
   repository: w3c/wai-coga

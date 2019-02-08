@@ -1,5 +1,5 @@
 ---
-title: Visual Heirarchy - Headings, visual hierarchies and white space
+title: Visual heirarchy, headings and whitespace are effective
 permalink: /coga-draft/guide/understandable/visual-heirarchy
 github:
   repository: w3c/wai-coga

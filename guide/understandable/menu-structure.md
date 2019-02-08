@@ -1,6 +1,5 @@
 ---
-title: Menu Structure - Sub-menu items that are clearly associated with the main menu items under which they fall
-
+title: Child menu items are clearly related to their parent
 permalink: /coga-draft/guide/understandable/menu-structure
 github:
   repository: w3c/wai-coga

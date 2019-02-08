@@ -1,5 +1,5 @@
 ---
-title: Amendable - Prevent user from making mistakes and make it easy to correct
+title: Mistakes are mimimized and easy to correct
 permalink: /coga-draft/guide/amendable
 github:
   repository: w3c/wai-coga

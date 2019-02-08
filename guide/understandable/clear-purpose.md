@@ -1,5 +1,5 @@
 ---
-title: Clear Purpose - Make the purpose of your page clear
+title: The purpose of a page is clear
 permalink: /coga-draft/guide/understandable/clear-purpose
 github:
   repository: w3c/wai-coga

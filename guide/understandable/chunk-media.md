@@ -1,5 +1,5 @@
 ---
-title: Chunk Media
+title: Chunk media
 permalink: /coga-draft/guide/understandable/chunk-media
 github:
   repository: w3c/wai-coga

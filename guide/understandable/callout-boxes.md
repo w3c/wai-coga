@@ -1,5 +1,5 @@
 ---
-title: Callout Boxes
+title: Call out boxes
 permalink: /coga-draft/guide/understandable/callout-boxes
 github:
   repository: w3c/wai-coga

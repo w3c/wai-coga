@@ -1,5 +1,5 @@
 ---
-title: Helpfull Symbols - Use symbols that Help the user
+title: Symbols support content
 permalink: /coga-draft/guide/understandable/helpfull-symbols
 github:
   repository: w3c/wai-coga
