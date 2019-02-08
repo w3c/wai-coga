@@ -1,6 +1,6 @@
 ---
-title: Visual Heirarchy - Headings, visual hierarchies and white space
-permalink: /coga-draft/guide/knowable/visual-heirarchy
+title: Internally Consistent
+permalink: /coga-draft/guide/understandable/internally-consistent
 github:
   repository: w3c/wai-coga
 layout: default

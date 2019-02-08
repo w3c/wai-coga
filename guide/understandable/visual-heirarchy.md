@@ -1,6 +1,6 @@
 ---
-title: Effective Affordances - Make it clear what are controls and how they should be used
-permalink: /coga-draft/guide/knowable/effective-affordances
+title: Visual Heirarchy - Headings, visual hierarchies and white space
+permalink: /coga-draft/guide/understandable/visual-heirarchy
 github:
   repository: w3c/wai-coga
 layout: default

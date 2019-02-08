@@ -1,6 +1,6 @@
 ---
 title: Chunk Media
-permalink: /coga-draft/guide/knowable/chunk-media
+permalink: /coga-draft/guide/understandable/chunk-media
 github:
   repository: w3c/wai-coga
 layout: default

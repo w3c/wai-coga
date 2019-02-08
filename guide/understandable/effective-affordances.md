@@ -1,6 +1,6 @@
 ---
-title: Callout Boxes
-permalink: /coga-draft/guide/knowable/callout-boxes
+title: Effective Affordances - Make it clear what are controls and how they should be used
+permalink: /coga-draft/guide/understandable/effective-affordances
 github:
   repository: w3c/wai-coga
 layout: default

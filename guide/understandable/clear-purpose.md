@@ -1,6 +1,6 @@
 ---
 title: Clear Purpose - Make the purpose of your page clear
-permalink: /coga-draft/guide/knowable/clear-purpose
+permalink: /coga-draft/guide/understandable/clear-purpose
 github:
   repository: w3c/wai-coga
 layout: default

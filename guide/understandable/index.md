@@ -1,6 +1,6 @@
 ---
-title: Indubitable - users understand what elements are and how to use them
-permalink: /coga-draft/guide/knowable/
+title: Elements are understandable and usable
+permalink: /coga-draft/guide/understandable/
 github:
   repository: w3c/wai-coga
 layout: default
@@ -63,7 +63,7 @@ This leads to the following user stories:
 
 - **[Clear Purpose](./clear-purpose) - Make the purpose of you page clear**
 - **[Clear Steps](./clear-steps) - Make each step clear**
-- **[Visual Hierarchy](./visual-heirarchy) - Headings, vl hierarchies and white space**
+- **[Visual Hierarchy](./visual-heirarchy) - Headings, visual hierarchies and white space**
 - **[Callout boxes](./callout-boxes)**
 - **[Chunk Media](./chunk-media)**
 - **[Purposeful Sections](./purposeful-sections) - Make the purpose of each section clear**

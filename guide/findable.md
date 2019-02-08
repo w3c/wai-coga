@@ -1,5 +1,5 @@
 ---
-title: Findable - Users can find what they need
+title: Users can find what they need
 permalink: /coga-draft/guide/findable
 github:
   repository: w3c/wai-coga
