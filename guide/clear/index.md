@@ -1,9 +1,9 @@
 ---
 title: Content is clear and understandable
-permalink: /coga-draft/guide/readable
+permalink: /coga-draft/guide/clear/
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

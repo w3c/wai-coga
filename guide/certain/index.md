@@ -1,9 +1,9 @@
 ---
 title: Mistakes are mimimized and easy to correct
-permalink: /coga-draft/guide/amendable
+permalink: /coga-draft/guide/certain/
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

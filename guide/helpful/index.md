@@ -1,9 +1,9 @@
 ---
 title: Help and support are always available
-permalink: /coga-draft/guide/supportable
+permalink: /coga-draft/guide/helpful/
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

@@ -1,6 +1,6 @@
 ---
-title: Controls and their operation are clear
-permalink: /coga-draft/guide/understandable/effective-affordances
+title: Important information is conspicuous
+permalink: /coga-draft/guide/findable/conspicuous-primary
 github:
   repository: w3c/wai-coga
 layout: guide

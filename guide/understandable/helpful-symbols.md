@@ -3,7 +3,7 @@ title: Symbols support content
 permalink: /coga-draft/guide/understandable/helpfull-symbols
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

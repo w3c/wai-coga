@@ -1,9 +1,9 @@
 ---
-title: Chunk media
-permalink: /coga-draft/guide/understandable/chunk-media
+title: Previous input can be reviewed
+permalink: /coga-draft/guide/findable/reviewable-input
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

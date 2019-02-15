@@ -1,6 +1,6 @@
 ---
-title: Controls and their operation are clear
-permalink: /coga-draft/guide/understandable/effective-affordances
+title: Chunk media
+permalink: /coga-draft/guide/understandable/chunked-media
 github:
   repository: w3c/wai-coga
 layout: guide

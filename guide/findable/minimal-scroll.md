@@ -1,6 +1,6 @@
 ---
-title: Controls and their operation are clear
-permalink: /coga-draft/guide/understandable/effective-affordances
+title: Minimal need to scroll
+permalink: /coga-draft/guide/findable/minimal-scroll
 github:
   repository: w3c/wai-coga
 layout: guide

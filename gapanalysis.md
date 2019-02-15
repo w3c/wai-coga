@@ -3,7 +3,7 @@ title: Gap Analysis of user Barriers
 permalink: /coga-draft/gapanalysis
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

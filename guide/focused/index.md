@@ -1,9 +1,9 @@
 ---
-title: Processes do not rely on memory
-permalink: /coga-draft/guide/conceivable
+title: Users can focus and continue after interuptions
+permalink: /coga-draft/guide/focused/
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
@@ -22,6 +22,5 @@ doc-note-message-md: |
 
 ## Patterns
 
-- **[]() - Logging in does not rely on good memory or other cognitive skills**
-- **[]() - Let people avoid navigating voice menus**
-- **[]() - Do not rely on users memorizing information**
+- **[]() - Avoid interruptions**
+- **[]() - Avoid too much content on the page**

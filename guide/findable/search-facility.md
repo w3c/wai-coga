@@ -1,6 +1,6 @@
 ---
-title: Controls and their operation are clear
-permalink: /coga-draft/guide/understandable/effective-affordances
+title: Search is available
+permalink: /coga-draft/guide/findable/search-facility
 github:
   repository: w3c/wai-coga
 layout: guide

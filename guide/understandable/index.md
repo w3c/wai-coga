@@ -3,7 +3,7 @@ title: Elements are understandable and usable
 permalink: /coga-draft/guide/understandable/
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
@@ -65,7 +65,7 @@ This leads to the following user stories:
 - **[Each step in a process is clear](./clear-steps)**
 - **[Visual heirarchy, headings and whitespace are effective](./visual-heirarchy)**
 - **[Call out boxes](./callout-boxes)**
-- **[Chunk media](./chunk-media)**
+- **[Chunk media](./chunked-media)**
 - **[Sections have a clear purpose](./purposeful-sections)**
 - **[Controls and their operation are clear](./effective-affordances)**
 - **[Regions and their controls are recognisabe](./recognizable-regions)**

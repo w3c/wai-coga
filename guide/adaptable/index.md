@@ -1,9 +1,9 @@
 ---
-title: Users can find what they need
-permalink: /coga-draft/guide/findable
+title: Content is Adaptable and Personalizable
+permalink: /coga-draft/guide/adaptable/
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
@@ -12,17 +12,17 @@ doc-note-message-md: |
   [See page details in plan](./plan#design-guide)
 
 ---
+
 *Note: Currently this is largely an outline view. However, Items marked with (\*) do have some example content.*
 
 ## Overview
 
-## User Testing
+## User testing
 
-## User Stories
+## User stories
 
 ## Patterns
 
-- **[]() - Make it easy to find the most important things on the page**
-- **[]() - Add search**
-- **[]() - Avoid scroll**
-- **[]() - Always let the user go back**
+- **[]() - Support APIs**
+- **[]() - Support simplification**
+- **[]() - Support personlization of symbols and controls**

@@ -3,7 +3,7 @@ title: The purpose of a page is clear
 permalink: /coga-draft/guide/understandable/clear-purpose
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

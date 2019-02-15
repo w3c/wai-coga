@@ -3,7 +3,7 @@ title: About Cognitive and Learning Disabilities
 permalink: /coga-draft/about
 github:
   repository: w3c/wai-coga
-layout: default
+layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |

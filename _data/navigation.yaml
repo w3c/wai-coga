@@ -14,7 +14,7 @@
         - name: Call out boxes
           url: "/coga-draft/guide/understandable/callout-boxes"
         - name: Chunk media
-          url: "/coga-draft/guide/understandable/chunk-media"
+          url: "/coga-draft/guide/understandable/chunked-media"
         - name: Sections have a clear purpose
           url: "/coga-draft/guide/understandable/purposeful-regions"
         - name: Controls and their operation are clear
@@ -32,19 +32,34 @@
         - name: Symbols support content
           url: "/coga-draft/guide/understandable/helpful-symbols"
     - name: Users can find what they need
-      url: "/coga-draft/guide/findable"
+      url: "/coga-draft/guide/findable/"
+      pages:     
+        - name: Important information is conspicuous
+          url: "/coga-draft/guide/findable/conspicuous-primary"
+        - name: Search is available
+          url: "/coga-draft/guide/findable/search-facility"
+        - name: Minimal need to scroll
+          url: "/coga-draft/guide/findable/minimal-scroll"
+        - name: Previous input can be reviewed
+          url: "/coga-draft/guide/findable/reviewable-input"
     - name: Content is clear and understandable
-      url: "/coga-draft/guide/clear"
+      url: "/coga-draft/guide/clear/"
+      pages:
     - name: Mistakes are mimimized and easy to correct
-      url: "/coga-draft/guide/certain"
+      url: "/coga-draft/guide/certain/"
+      pages:
     - name: Users can focus and continue after interuptions
-      url: "/coga-draft/guide/engrossing"
+      url: "/coga-draft/guide/focused/"
+      pages:
     - name: Processes do not rely on memory
-      url: "/coga-draft/guide/forgetable"
+      url: "/coga-draft/guide/forgettable/"
+      pages:
     - name: Help and support are always available
-      url: "/coga-draft/guide/helpful"
+      url: "/coga-draft/guide/helpful/"
+      pages:
     - name: Content is Adaptable and Personalisable
-      url: "/coga-draft/guide/adaptable"
+      url: "/coga-draft/guide/adaptable/"
+      pages:
 - name: Draft COGA Pages
   pages:
   - name: Overview
