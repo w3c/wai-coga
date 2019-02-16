@@ -42,21 +42,50 @@ async function updatePage(url) {
     }
 }
 
-function hackyHijax() {
+function navigate(target, href) {
+    updateNavigation(target)
+    updatePage(href)
+}
+
+function navigateToURL(url) {
+    const target = document.querySelector(`.sidenav--list li > a[href="${url}"]`)
+    navigate(target, url)
+}
+
+function hijax() {
     function onClick(event) {
         event.preventDefault()
 
         const target = event.currentTarget;
-        updateNavigation(target)
-        
         const href = target.getAttribute('href')
-        updatePage(href)
+        navigate(target, href)
+
+        history.pushState(null, null, href);
+    }
+
+    function onPopstate(event) {
+        const path = document.location.pathname
+        navigateToURL(path)
     }
 
     const navList = document.getElementsByClassName('sidenav--list')[0]
     const locations = navList.querySelectorAll(':scope li > a')
-    console.info(`Hijaxed ${locations.length} page links`)
     locations.forEach((node) => { node.addEventListener('click', onClick, false) })
+    console.info(`Hijaxed ${locations.length} page links`)
+
+    window.onpopstate = onPopstate
 }
 
-window.addEventListener("load", hackyHijax)
+var supportsES6 = function() {
+    try {
+      new Function("(a = 0) => a");
+      return true;
+    }
+    catch (err) {
+      return false;
+    }
+  }()
+  
+if (supportsES6) {
+    window.addEventListener("load", hijax)
+}

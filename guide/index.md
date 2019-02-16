@@ -32,6 +32,6 @@ This guide presents a number of effective design **Patterns** which when applied
 - **[Content is clear and understandable](./clear)**
 - **[Mistakes are mimimized and easy to correct](./certain)**
 - **[Users can focus and continue after interuptions](./engrossing)**
-- **[Processes do not rely on memory](./forgetable)**
+- **[Processes do not rely on memory](./forgettable)**
 - **[Help and support are always available](./helpful)**
 - **[Content is Adaptable and Personalisable](./adaptable)**
