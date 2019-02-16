@@ -1,6 +1,6 @@
 ---
 title: Symbols support content
-permalink: /coga-draft/guide/understandable/helpfull-symbols
+permalink: /coga-draft/guide/understandable/helpful-symbols
 github:
   repository: w3c/wai-coga
 layout: guide
