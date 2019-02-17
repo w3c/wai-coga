@@ -12,7 +12,13 @@
 <link rel="stylesheet"
     href="{{ page.ext_css | prepend: '/css/' | prepend: page.collection | prepend: '/' | relative_url | append: include.timestamp }}">
 {% endif -%}
-{%- if page.inline_css %}<style>{{ page.inline_css }}</style>{% endif -%}
+{%- if page.inline_css %}<style>
+    {
+            {
+            page.inline_css
+        }
+    }
+</style>{% endif -%}
 <style>
     .sidenav--head,
     .sidenav--list {
@@ -41,6 +47,10 @@
 
     .default-grid {
         grid-template-columns: [complete-start] minmax(16px, 1fr) [navigation-start] repeat(3, minmax(0, 130px)) [navigation-end content-start] repeat(5, minmax(0, 130px)) [content-end] minmax(16px, 1fr) [complete-end];
+    }
+
+    .sidenav--list a[aria-current]+ul[aria-expanded="false"] {
+        display: none;
     }
 </style>
 <script src="{{ '/content-images/wai-coga/hijax.js' | relative_url }}"></script>
