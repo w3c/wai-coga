@@ -12,13 +12,7 @@
 <link rel="stylesheet"
     href="{{ page.ext_css | prepend: '/css/' | prepend: page.collection | prepend: '/' | relative_url | append: include.timestamp }}">
 {% endif -%}
-{%- if page.inline_css %}<style>
-    {
-            {
-            page.inline_cs
-        }
-    }
-</style>{% endif -%}
+{%- if page.inline_css %}<style>{{page.inline_cs}}</style>{% endif -%}
 <style>
     .sidenav--head,
     .sidenav--list {

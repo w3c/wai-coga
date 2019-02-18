@@ -7,14 +7,25 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Outline:**
-  
-    - Overview
-    - Objectives and Patterns - Interactive content using TF voted format with tweaks based on TF mockup
-    
-  [See page details in plan](./plan#design-guide)
+  This is an interactive version of the Design Guide. The left contents can be expanded and closed.
+  Use a modern browser to get the interactive features (needs [ES6 support](https://caniuse.com/#search=es6)).
+
+  [See page details in plan](../plan#design-guide)
 
 ---
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+- This text will be replaced by the TOC.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 ## Overview
 
 Techniques that make websites and applications friendly for people with cognitive impairments need to be addressed in every part of a design and development process.
