@@ -40,6 +40,8 @@ doc-note-message-md: |
 - Spreadsheet of [all Coga TF resources](https://docs.google.com/spreadsheets/d/1bLXDIAsmgiySY6uqW2OAOYH7U_Lwh0oUU24etofpYrc/edit?usp=sharing) (Google Doc)
 - Coga TF [Planning page on wiki](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/PlanningPage)
 - Coga TF [F2F meeting information](https://www.w3.org/WAI/PF/cognitive-a11y-tf/wiki/Meetings/Jan_2019)
+- [Source on GitHub](https://github.com/w3c/wai-coga)
+- [Deployment on GitHub](https://w3c.github.io/wai-coga/coga-draft/)
 
 ## Reasoning
 
