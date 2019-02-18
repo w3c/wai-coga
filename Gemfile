@@ -11,6 +11,6 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-include-cache'
-gem 'jekyll-remote-theme'
-#gem 'wai-website-theme'
+#gem 'jekyll-remote-theme'
+gem 'wai-website-theme'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
