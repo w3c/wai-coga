@@ -14,10 +14,18 @@ function getPotentialLocationNode(node) {
 
 var g_navLinkNodes = []
 
-function pathnameInNavLinks(pathname) {
+function isPathnameInNavLinks(pathname) {
     const normalPath = normalisePathname(pathname)
     const index = g_navLinkNodes.findIndex((node) => node.getAttribute('href') == normalPath)
     return index != -1
+}
+
+function isHijaxablePageLink(node) {
+    const href = node.getAttribute('href')
+    const isLinkable =
+        normalisePathname(href) != document.location.pathname &&
+        isPathnameInNavLinks(href)
+    return isLinkable
 }
 
 function getChildList(node) {
@@ -68,9 +76,7 @@ async function updatePage(url) {
         }
 
         const pageLinkNodes = Array(...main.querySelectorAll('a'))
-        const linkableNodes = pageLinkNodes.filter((link) =>
-            pathnameInNavLinks(link.getAttribute('href'))
-        )
+        const linkableNodes = pageLinkNodes.filter(isHijaxablePageLink)
         linkableNodes.forEach((node) => { node.addEventListener('click', onPageClick, false) })
         console.info(`Hijaxed ${linkableNodes.length} page links`)
     }
