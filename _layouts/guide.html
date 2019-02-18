@@ -31,8 +31,7 @@
         min-height: initial;
     }
 
-    .sidenav--list li[aria-current="page"],
-    .sidenav--list li {
+    .sidenav--list li>ul>li {
         list-style-type: initial;
     }
 
@@ -44,8 +43,45 @@
         grid-template-columns: [complete-start] minmax(16px, 1fr) [navigation-start] repeat(3, minmax(0, 130px)) [navigation-end content-start] repeat(5, minmax(0, 130px)) [content-end] minmax(16px, 1fr) [complete-end];
     }
 
-    .sidenav--list a[aria-current]+ul[aria-expanded="false"] {
+    .sidenav--list a[aria-current][aria-expanded="false"]+ul {
         display: none;
+    }
+
+    .sidenav--list a[aria-expanded]::before {
+        position: static;
+        content: "+";
+        margin-right: 8px;
+        margin-right: .5rem;
+        display: inline-block;
+        border-radius: 5px;
+        width: 20.8px;
+        width: 1.3rem;
+        height: 20.8px;
+        height: 1.3rem;
+        line-height: .9;
+        background: #fff;
+        color: #005a6a;
+        border: 2px solid #005a6a;
+        text-align: center;
+        font-weight: 700;
+        /* */
+        align-content: -2px;
+    }
+
+    .sidenav--list>li>ul>li {
+        margin-left: 30px;
+    }
+
+    /* this should stop underline on hover & focus but doesn't */
+    .sidenav--list a[aria-expanded]:hover::before,
+    .sidenav--list a[aria-expanded]:focus::before {
+        text-decoration: none;
+        display: inline-block;
+        white-space: pre-wrap;
+    }
+
+    .sidenav--list a[aria-expanded="true"]::before {
+        content: "-";
     }
 </style>
 <script src="{{ '/content-images/wai-coga/hijax.js' | relative_url }}"></script>

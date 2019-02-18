@@ -50,14 +50,12 @@ function updateNavigation(newNode) {
         potentialLocation.setAttribute('aria-current', 'location')
     }
 
-    const currentChildListNode = getChildList(current)
-    const childListNode = getChildList(newNode)
-    if (currentChildListNode && !potentialLocation && currentChildListNode != childListNode) {
-        currentChildListNode.setAttribute('aria-expanded', 'false')
-    }
-    if (childListNode) {
-        const expanded = childListNode.getAttribute('aria-expanded') == 'true' ? 'false' : 'true'
-        childListNode.setAttribute('aria-expanded', expanded)
+    if (!potentialLocation) { // top level
+        if (current && current != newNode) {
+            current.setAttribute('aria-expanded', 'false')
+        }
+        const expanded = newNode.getAttribute('aria-expanded') == 'true' ? 'false' : 'true'
+        newNode.setAttribute('aria-expanded', expanded)
     }
 }
 
@@ -125,8 +123,8 @@ function hijax() {
     navLinkNodes.forEach((node) => { node.addEventListener('click', onNavClick, false) })
     console.info(`Hijaxed ${navLinkNodes.length} nav links`)
 
-    navChildLists = document.querySelectorAll('.sidenav--list > li > a + ul')
-    navChildLists.forEach((node) => { node.setAttribute('aria-expanded', 'false') })
+    const topLinkNodes = document.querySelectorAll('.sidenav--list > li > a')
+    topLinkNodes.forEach((node) => { node.setAttribute('aria-expanded', 'false') })
 
     window.onpopstate = onPopstate
 }
