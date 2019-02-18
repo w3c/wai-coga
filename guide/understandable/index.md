@@ -7,11 +7,22 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Outline:**
-      
-  [See page details in plan](./plan#design-guide)
+  [See page details in plan](../../plan#design-guide)
 
 ---
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+- This text will be replaced by the TOC.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
 ## Overview
 
 To be able to use a site or application, people need to know what all controls and elements are on your page and how to use them.

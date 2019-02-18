@@ -7,12 +7,23 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  **Outline:**
+  Content to come soon!
       
-  [See page details in plan](./plan#design-guide)
+  [See page details in plan](../../plan#design-guide)
 
 ---
-*Note: Currently this is largely an outline view. However, Items marked with (\*) do have some example content.*
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+- This text will be replaced by the TOC.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
 ## Overview
 
