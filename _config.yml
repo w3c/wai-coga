@@ -35,8 +35,8 @@ repository: w3c/wai-coga
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-#remote_theme: w3c/wai-website-theme
-theme: wai-website-theme
+remote_theme: w3c/wai-website-theme
+#theme: wai-website-theme
 
 collections:
   # older-users:
@@ -61,4 +61,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-include-cache
- # - jekyll-remote-theme
+  - jekyll-remote-theme
