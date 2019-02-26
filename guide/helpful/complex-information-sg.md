@@ -44,7 +44,8 @@ WCAG provides a number of Success Criteria designed to ensure that various mecha
 ## Benefits
 
 *? merge this with Intent ?*
-Improves understanding for all users and is likely to answer any questions or avoid misunderstandings that could stop the user performing a task.
+
+Improves understanding for all users and is likely to answer any questions or avoid misunderstandings that could prevent the user performing a task.
 
 ## What To Do
 
