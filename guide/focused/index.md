@@ -33,5 +33,5 @@ doc-note-message-md: |
 
 ## Patterns
 
-- **[]() - Avoid interruptions**
-- **[]() - Avoid too much content on the page**
+- **[Avoid interruptions](./avoid-interruptions)**
+- **[Avoid too much content on the page](./limit-content)**

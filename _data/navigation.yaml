@@ -91,13 +91,19 @@
   - name: Users can focus and continue after interuptions
     url: "/coga-draft/guide/focused/"
     pages:
-    - name: Provide help for complex information
-      url: "/coga-draft/guide/helpful/complex-information"
+    - name: Avoid interruptions
+      url: "/coga-draft/guide/focused/avoid-interruptions"
+    - name: Avoid too much content on page
+      url: "/coga-draft/guide/focused/limit-content"
   - name: Processes do not rely on memory
     url: "/coga-draft/guide/forgettable/"
     pages:
-    - name: Provide help for complex information
-      url: "/coga-draft/guide/helpful/complex-information"
+    - name: Login does not require cognitive skills (or good memory)
+      url: "/coga-draft/guide/forgettable/easy-login"
+    - name: Let people avoid navigating voice menus
+      url: "/coga-draft/guide/forgettable/avoid-voicemenus"
+    - name: Do not rely on memorized information
+      url: "/coga-draft/guide/forgettable/avoid-recall"
   - name: Help and support are always available
     url: "/coga-draft/guide/helpful/"
     pages:
@@ -118,6 +124,8 @@
   - name: Content is Adaptable and Personalisable
     url: "/coga-draft/guide/adaptable/"
     pages:
+    - name: Support APIs
+      url: "/coga-draft/guide/helpful/help-feedback"
 - name: Draft COGA Pages
   pages:
   - name: Overview

@@ -33,6 +33,6 @@ doc-note-message-md: |
 
 ## Patterns
 
-- **[]() - Logging in does not rely on good memory or other cognitive skills**
-- **[]() - Let people avoid navigating voice menus**
-- **[]() - Do not rely on users memorizing information**
+- **[Login does not require cognitive skills (or good memory)](./easy-login)**
+- **[Let people avoid navigating voice menus](./avoid-voicemenus)**
+- **[Do not rely on memorized information](./avoid-recall)**
