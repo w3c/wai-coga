@@ -33,6 +33,6 @@ doc-note-message-md: |
 
 ## Patterns
 
-- **[]() - Support APIs**
-- **[]() - Support simplification**
-- **[]() - Support personlization of symbols and controls**
+- **[Support APIs](./support-apis)**
+- **[Support simplification](./support-simplification)**
+- **[Support personalisation of symbols and controls](./support-personalisation)**

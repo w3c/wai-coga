@@ -125,7 +125,11 @@
     url: "/coga-draft/guide/adaptable/"
     pages:
     - name: Support APIs
-      url: "/coga-draft/guide/helpful/help-feedback"
+      url: "/coga-draft/guide/adaptable/support-apis"
+    - name: Support Simplification
+      url: "/coga-draft/guide/adaptable/support-simplification"
+    - name: Support Personalisation
+      url: "/coga-draft/guide/adaptable/support-personalisation"
 - name: Draft COGA Pages
   pages:
   - name: Overview
