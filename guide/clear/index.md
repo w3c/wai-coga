@@ -31,13 +31,14 @@ doc-note-message-md: |
 
 ## Patterns
 
-- **[]() - Use clear words**
-- **[]() - Use a simple tense and written language**
-- **[]() - Do not use double negatives or clauses inside clauses**
-- **[]() - Use literal language**
-- **[]() - Separate each instruction**
-- **[]() - Keep text succinct**
-- **[]() - Use clear typography and punctuation**
-- **[]() - Provide summary of long documents**
-- **[]() - Use clear images**
-- **[]() - Provide Alternatives for numbers**
+- **[Use clear words](./clear-words)**
+- **[Use a simple written language (and tense)](./simple-language)**
+- **[Do not use complex grammar (double negatives or clauses inside clauses)](./not-complex)**
+- **[Use literal language](./literal-language)**
+- **[Separate each instruction](./separate-instructions)**
+- **[Keep text succinct](./succinct-text)**
+- **[Use clear spacing](./clear-spacing)**
+- **[Use clean typography and punctuation](./clean-typography)**
+- **[Provide summary of long documents](./summary-text)**
+- **[Use clear images](./clear-images)**
+- **[Provide Alternatives for numbers](./numeric-alternatives)**

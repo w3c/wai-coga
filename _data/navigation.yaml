@@ -45,8 +45,28 @@
   - name: Content is clear and understandable
     url: "/coga-draft/guide/clear/"
     pages:
-    - name: Provide help for complex information
-      url: "/coga-draft/guide/helpful/complex-information"
+    - name: Use clear words
+      url: "/coga-draft/guide/clear/clear-words"
+    - name: Use simple written language (and tense)
+      url: "/coga-draft/guide/clear/simple-language"
+    - name: Do not use complex grammar (double negatives or nested clauses)
+      url: "/coga-draft/guide/clear/not-complex"
+    - name: Use literal language
+      url: "/coga-draft/guide/clear/literal-language"
+    - name: Separate each instruction
+      url: "/coga-draft/guide/clear/separate-instructions"
+    - name: Keep text succinct
+      url: "/coga-draft/guide/clear/succinct-text"
+    - name: Use clear spacing
+      url: "/coga-draft/guide/clear/clear-spacing"
+    - name: Use clear typography and punctuation
+      url: "/coga-draft/guide/clear/clean-typography"
+    - name: Provide a summary of long documents
+      url: "/coga-draft/guide/clear/summary-text"
+    - name: Use clear images
+      url: "/coga-draft/guide/clear/clear-images"
+    - name: Provide alternatives for numbers
+      url: "/coga-draft/guide/clear/numeric-alternatives"
   - name: Mistakes are mimimized and easy to correct
     url: "/coga-draft/guide/certain/"
     pages:
