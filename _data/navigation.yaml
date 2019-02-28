@@ -70,8 +70,24 @@
   - name: Mistakes are mimimized and easy to correct
     url: "/coga-draft/guide/certain/"
     pages:
-    - name: Provide help for complex information
-      url: "/coga-draft/guide/helpful/complex-information"
+    - name: Build forms so people make less mistakes
+      url: "/coga-draft/guide/certain/prevent-mistakes"
+    - name: Make it easy to undo errors
+      url: "/coga-draft/guide/certain/undoable-errors"
+    - name: Use clear labels and instructions
+      url: "/coga-draft/guide/certain/clear-labels"
+    - name: Make it easy to undo actions
+      url: "/coga-draft/guide/certain/rollback-actions"
+    - name: Avoid data loss and timeouts
+      url: "/coga-draft/guide/certain/avoid-loss"
+    - name: Provide feedback
+      url: "/coga-draft/guide/certain/provide-feedback"
+    - name: Highlight any fees at start of a process
+      url: "/coga-draft/guide/certain/highlight-fees"
+    - name: Notify users when content changes
+      url: "/coga-draft/guide/certain/notify-changes"
+    - name: Protect user privacy (keep user information safe)
+      url: "/coga-draft/guide/certain/protect-privacy"
   - name: Users can focus and continue after interuptions
     url: "/coga-draft/guide/focused/"
     pages:

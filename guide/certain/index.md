@@ -31,12 +31,12 @@ doc-note-message-md: |
 
 ## Patterns
 
-- **[]() - Build forms so that people make less mistakes**
-- **[]() - Make it easy to undo errors**
-- **[]() - Use clear labels and instructions**
-- **[]() - Make it easy for the user to undo actions**
-- **[]() - Avoid data loss and "time outs"**
-- **[]() - Provide feedback**
-- **[]() - Tell the users about any fees and charges at the beginning of a task**
-- **[]() - The user knows when the content changes**
-- **[]() - Keep the user information safe**
+- **[Build forms so that people make less mistakes](./prevent-mistakes)**
+- **[Make it easy to undo errors](./undoable-errors)**
+- **[Use clear labels and instructions](./)**
+- **[Make it easy  to undo actions](./rollback-actions)**
+- **[Avoid data loss and "time outs"](./avoid-loss)**
+- **[Provide feedback](./provide-feedback)**
+- **[Highlight any fees at start of a process](./highlight-fees)**
+- **[Notify users when content changes](./notify-changes)**
+- **[Protect user privacy (keep user information safe)](./protect-privacy)**
