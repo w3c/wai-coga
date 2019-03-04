@@ -5,6 +5,8 @@
   - name: Elements are understandable and usable
     url: "/coga-draft/guide/understandable/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/understandable/overview"
     - name: The purpose of a page is clear
       url: "/coga-draft/guide/understandable/clear-purpose"
     - name: Each step in a process is clear
@@ -34,6 +36,8 @@
   - name: Users can find what they need
     url: "/coga-draft/guide/findable/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/findable/overview"
     - name: Important information is conspicuous
       url: "/coga-draft/guide/findable/conspicuous-primary"
     - name: Search is available
@@ -45,6 +49,8 @@
   - name: Content is clear and understandable
     url: "/coga-draft/guide/clear/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/clear/overview"
     - name: Use clear words
       url: "/coga-draft/guide/clear/clear-words"
     - name: Use simple written language (and tense)
@@ -70,6 +76,8 @@
   - name: Mistakes are mimimized and easy to correct
     url: "/coga-draft/guide/certain/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/certain/overview"
     - name: Build forms so people make less mistakes
       url: "/coga-draft/guide/certain/prevent-mistakes"
     - name: Make it easy to undo errors
@@ -91,6 +99,8 @@
   - name: Users can focus and continue after interuptions
     url: "/coga-draft/guide/focused/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/focused/overview"
     - name: Avoid interruptions
       url: "/coga-draft/guide/focused/avoid-interruptions"
     - name: Avoid too much content on page
@@ -98,6 +108,8 @@
   - name: Processes do not rely on memory
     url: "/coga-draft/guide/forgettable/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/forgettable/overview"
     - name: Login does not require cognitive skills (or good memory)
       url: "/coga-draft/guide/forgettable/easy-login"
     - name: Let people avoid navigating voice menus
@@ -107,6 +119,8 @@
   - name: Help and support are always available
     url: "/coga-draft/guide/helpful/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/helpful/overview"
     - name: Provide help for complex information
       url: "/coga-draft/guide/helpful/complex-information"
     - name: Provide help for complex information SG
@@ -124,6 +138,8 @@
   - name: Content is Adaptable and Personalisable
     url: "/coga-draft/guide/adaptable/"
     pages:
+    - name: Overview
+      url: "/coga-draft/guide/adaptable/overview"
     - name: Support APIs
       url: "/coga-draft/guide/adaptable/support-apis"
     - name: Support Simplification

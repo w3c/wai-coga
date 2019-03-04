@@ -46,25 +46,17 @@ function updateNavigation(newNode) {
     if (currentLocation) {
         currentLocation.removeAttribute('aria-current')
     }
-
-    if (potentialLocation) { // child 
+    newNode.setAttribute('aria-current', 'page')
+    if (potentialLocation) {
         potentialLocation.setAttribute('aria-current', 'location')
-        newNode.setAttribute('aria-current', 'page')
     }
-    else { // top level
-        const firstChild = newNode.nextElementSibling ? newNode.nextElementSibling.querySelector(':scope li>a') : null
-        if (!expanded && firstChild) {
-            firstChild.setAttribute('aria-current', 'page')
-            newNode.setAttribute('aria-current', 'location')
-        }
-        else {
-            newNode.setAttribute('aria-current', 'page')
-        }
 
+    if (!potentialLocation) { // top level
         if (current && current != newNode) {
             current.setAttribute('aria-expanded', 'false')
         }
-        newNode.setAttribute('aria-expanded', expanded ? 'false' : 'true')
+        const newState = expanded ? 'false' : 'true'
+        newNode.setAttribute('aria-expanded', newState)
     }
 }
 

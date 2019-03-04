@@ -10,26 +10,12 @@ doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
 
 ---
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
-{:/}
 
-{::options toc_levels="2" /}
+## Pages
 
-- This text will be replaced by the TOC.
-{:toc}
+- **[Overview](./)**
 
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-## Overview
-
-## User testing
-
-## User stories
-
-## Patterns
+### Patterns
 
 - **[Use clear words](./clear-words)**
 - **[Use a simple written language (and tense)](./simple-language)**

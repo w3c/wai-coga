@@ -1,5 +1,5 @@
 ---
-title: Mistakes are mimimized and easy to correct
+title: Mistakes are minimized and easy to correct
 permalink: /coga-draft/guide/certain/
 github:
   repository: w3c/wai-coga
@@ -7,29 +7,15 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-   [See page details in plan](../../plan#design-guide)
+  [See page details in plan](../../plan#design-guide)
 
 ---
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
-{:/}
 
-{::options toc_levels="2" /}
+## Pages
 
-- This text will be replaced by the TOC.
-{:toc}
+- **[Overview](./)**
 
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-## Overview
-
-## User testing
-
-## User stories
-
-## Patterns
+### Patterns
 
 - **[Build forms so that people make less mistakes](./prevent-mistakes)**
 - **[Make it easy to undo errors](./undoable-errors)**
