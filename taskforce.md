@@ -1,6 +1,7 @@
 ---
 title: COGA Task Force Information
 permalink: /coga-draft/taskforce
+inline_css: '.task-list {list-style: none;}'
 github:
   repository: w3c/wai-coga
 layout: default
