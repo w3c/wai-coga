@@ -16,47 +16,42 @@ doc-note-message-md: |
 ---
 ## Description
 
-*! Added this section !*
-
-Provide additional explanatory content for information that is complex, especially if it is important for successful completion of a task.
+Provide additional explanatory content for information that is complex, especially if it explains a process.
 
 ## User Experience
 
-*? Decide on example ?*
-
-This quote from a persona (fictional person) helps you understand some aspects of this guidance.
-
-Persona: Parent with low vision – 20/400
-Problem: “I increase the text size 400%. When text is fully justified, it gets big spacing between lots of words and scrunches up other words, making it hard to read."
+- I can understand the point of complex content as contextually-relevant graphs, pictures and tables are provided to supplement it
+- I can understand complex tables or graphs as extra help is provided to explain the important features
+- I can understand a multi stage process as help is provided for all stages and the sequence to be followed
 
 ## Intent
 
-Some users find complex information very hard to understand or confusing, even if written using "good" language. For example it may be hard to remember previous content.
+Users should be able understand the content they find and successfully complete any tasks it describes without requiring further external assistance. If content is complex then the provision of additional supporting help will minimize the need to ask for help.
 
-If the information is required in order to perform a task then the complexity may act as a barrier to performing that task. Common tasks that can be affected include finding answers sought on a website and completing an online process required by a service.
-
-The complexity may be inherent in the information itself, for example the language used, the quantity of information, or the subject matter itself. In this case, it is likely to need very careful explanation and organisation for all users to be able to understand without any mistakes or confusion. Alternatively, presentation of the information such as a graph may obscure it’s meaning through complexity. In this case, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
-
-WCAG provides a number of Success Criteria designed to ensure that various mechanisms of providing help work well for all users. In addition, the intent of this pattern (SG?) is to ensure the help is relevant for the user's need in understanding complex information.  
-
-*? Should we make WCAG even more central? Emphasize universal benefit and absolute CogA Barrier ?*
-
-## Benefits
-
-*? merge this with Intent ?*
-
-Improves understanding for all users and is likely to answer any questions or avoid misunderstandings that could prevent the user performing a task.
+If the content explains a multistep process the user may require additional help for the entire sequence as well as each individual step. This will ensure the understanding of each step and also how to progress from one to the next.
 
 ## What To Do
 
-Provide help content that explains any complex information. It may be provided in various forms, for example:
+Provide help content that explains any complex information and processes. It may be provided in various forms, for example:
 
-- Static "Text Boxes" providing explanation and help
+- Text "asides" providing explanation and help
 - Popup on hover explanations of keywords.
 - A supporting chart or graph to illuminate text content
-- Guide to interpreting data in a chart or graph
+- A guide to interpreting data in a chart or graph
 - A supplemental table – as long as it is not itself complex
 - A flow chart of steps in a process
+
+## More details
+
+The complexity may be inherent in the information itself, for example the language used, the quantity of information, or the subject matter itself. In this case, it is likely to need very careful explanation and organisation for all users to be able to understand without any mistakes or confusion. 
+
+Alternatively, the presentation of the information such as a graph or table may obscure it’s meaning through complexity. In this case, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
+
+WCAG provides a number of Success Criteria designed to ensure that various mechanisms of providing help work well for all users. In addition, the intent of this pattern (SG?) is to ensure the help is relevant for the user's need in understanding complex information.  
+
+## Benefits
+
+Improves understanding and is likely to answer any questions or avoid misunderstandings that could prevent the user performing a task without external support..
 
 ## Examples
 
