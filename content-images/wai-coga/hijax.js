@@ -39,23 +39,32 @@ function updateNavigation(newNode) {
     const currentPage = navList.querySelector(':scope a[aria-current=page]')
     const currentLocation = navList.querySelector(':scope a[aria-current=location]')
     const potentialLocation = getPotentialLocationNode(newNode)
+    const expanded = newNode.getAttribute('aria-expanded') == 'true'
 
     // Do we need tell AT users about the change?
     currentPage.removeAttribute('aria-current')
     if (currentLocation) {
         currentLocation.removeAttribute('aria-current')
     }
-    newNode.setAttribute('aria-current', 'page')
-    if (potentialLocation) {
-        potentialLocation.setAttribute('aria-current', 'location')
-    }
 
-    if (!potentialLocation) { // top level
+    if (potentialLocation) { // child 
+        potentialLocation.setAttribute('aria-current', 'location')
+        newNode.setAttribute('aria-current', 'page')
+    }
+    else { // top level
+        const firstChild = newNode.nextElementSibling ? newNode.nextElementSibling.querySelector(':scope li>a') : null
+        if (!expanded && firstChild) {
+            firstChild.setAttribute('aria-current', 'page')
+            newNode.setAttribute('aria-current', 'location')
+        }
+        else {
+            newNode.setAttribute('aria-current', 'page')
+        }
+
         if (current && current != newNode) {
             current.setAttribute('aria-expanded', 'false')
         }
-        const expanded = newNode.getAttribute('aria-expanded') == 'true' ? 'false' : 'true'
-        newNode.setAttribute('aria-expanded', expanded)
+        newNode.setAttribute('aria-expanded', expanded ? 'false' : 'true')
     }
 }
 
@@ -82,7 +91,8 @@ async function updatePage(url) {
 
 function navigate(navNode) {
     updateNavigation(navNode)
-    const pathname = navNode.getAttribute('href')
+    const newPage = document.querySelector('.sidenav--list a[aria-current=page]')
+    const pathname = newPage.getAttribute('href')
     updatePage(pathname)
 
     return pathname
