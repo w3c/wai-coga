@@ -13,7 +13,7 @@ doc-note-message-md: |
 
 ## Pages
 
-- **[Overview](./)**
+- **[Overview](./overview)**
 
 ### Patterns
 

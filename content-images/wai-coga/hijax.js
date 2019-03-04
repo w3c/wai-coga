@@ -47,11 +47,11 @@ function updateNavigation(newNode) {
         currentLocation.removeAttribute('aria-current')
     }
     newNode.setAttribute('aria-current', 'page')
-    if (potentialLocation) {
+    if (potentialLocation) { // child
         potentialLocation.setAttribute('aria-current', 'location')
+        potentialLocation.setAttribute('aria-expanded', 'true')
     }
-
-    if (!potentialLocation) { // top level
+    else { // top level
         if (current && current != newNode) {
             current.setAttribute('aria-expanded', 'false')
         }
@@ -83,8 +83,7 @@ async function updatePage(url) {
 
 function navigate(navNode) {
     updateNavigation(navNode)
-    const newPage = document.querySelector('.sidenav--list a[aria-current=page]')
-    const pathname = newPage.getAttribute('href')
+    const pathname = navNode.getAttribute('href')
     updatePage(pathname)
 
     return pathname
