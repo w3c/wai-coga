@@ -123,8 +123,6 @@
       url: "/coga-draft/guide/helpful/overview"
     - name: Provide help for complex information
       url: "/coga-draft/guide/helpful/complex-information"
-    - name: Provide help for complex information SG
-      url: "/coga-draft/guide/helpful/complex-information-sg"
     - name: Provide help with directions
       url: "/coga-draft/guide/helpful/directions"
     - name: Provide help for forms and non-standard controls
