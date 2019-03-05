@@ -56,6 +56,8 @@ Alternatively, the presentation mode of information such as a graph or table may
 
 ## Benefits
 
+*? I'm not convinced this section adds much to intent and more details  ?*
+
 Improves understanding of content and so there are no unresolved questions or errors the confuse the user or that could prevent the user performing a task without external support..
 
 ## Examples
