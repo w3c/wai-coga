@@ -46,7 +46,7 @@ Provide additional help content that explains any complex information, data and 
 
 ## How It Helps
 
-This Pattern builds on WCAG Success Criteria related to presenting help to ensure users are effectively supported in understanding complex content.
+This Pattern builds on help related WCAG Success Criteria to ensure users are effectively supported in understanding complex content.
 
 Users should be able understand the content they find and successfully complete described tasks without requiring further external assistance. If content is sufficiently complex then it may be inaccessible without the provision of additional supporting help.
 
@@ -62,7 +62,7 @@ Alternatively, the presentation mode of information such as a graph or table may
 
 Successes:
 
-- Content has been accessed for complexity and supported by addition help as required. *very weak!* 
+- Content has been assessed for complexity and supported by addition help as required. *very weak!* 
 
 Failures:
 
