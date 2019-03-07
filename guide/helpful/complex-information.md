@@ -38,15 +38,15 @@ Provide additional help content that explains any complex information, data and 
 
 ## Examples
 
-The explanation of a medical procedure and success rate statistics is amplified though the use of a additional text aside, pictures along with a graph and table.
+- The explanation of a medical procedure and success rate statistics is amplified though the use of an additional text aside, a diagram and a graph.
 
-A graph and data table of sales figures has the key features related to the content are clearly explained.
+- A graph and data table of sales figures has the key features related to the content are clearly explained.
 
-The multi step process for applying for a visa is made made easier to use by adding flow chart of all the steps that is always visible. Each step in the flowchart has links to extra help and the current step is clearly highlighted.
+- The multi step process for applying for a visa is made made easier to use by adding flow chart of all the steps that is always visible. Each step in the flowchart has links to extra help and the current step is clearly highlighted.
 
 ## How It Helps
 
-The intent of this Pattern is to build on WCAG Success Criteria on presenting help to ensure help is used to effectively support a user in understanding more complex content.
+This Pattern builds on WCAG Success Criteria related to presenting help to ensure users are effectively supported in understanding complex content.
 
 Users should be able understand the content they find and successfully complete described tasks without requiring further external assistance. If content is sufficiently complex then it may be inaccessible without the provision of additional supporting help.
 
@@ -56,26 +56,28 @@ The complexity may be inherent in the information itself, for example the langua
 
 Alternatively, the presentation mode of information such as a graph or table may obscure it’s meaning through complexity. Here, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
 
-## Related Patterns
-
-- [Important information is conspicuous](../findable/conspicuous-primary)
-- [Provide a summary of long documents](../clear/summary-text)
-
 ## Techniques and Requirements
+
+*? much more work needed here to decide how to define useful Techniques that are not SCs but might point the way. ?*
 
 Successes:
 
-- See Examples
+- Content has been accessed for complexity and supported by addition help as required. *very weak!* 
 
 Failures:
 
-A complex graph is shown with no guide to interpretation.
+- A complex graph is shown with no guide to interpretation.
 
 WCAG Success Criteria and Techniques:
 
 - [3.3.5 Help](https://www.w3.org/WAI/WCAG21/quickref/#help)
 
-*? We can add Personalisation and UAAG topics here ?*
+*! Add related Personalisation and UAAG topics here !*
+
+## Related Patterns
+
+- [Important information is conspicuous](../findable/conspicuous-primary)
+- [Provide a summary of long documents](../clear/summary-text)
 
 ## Key Terms
 
