@@ -19,34 +19,36 @@ Provide additional explanatory content for information that is complex, especial
 
 ## User Story
 
-*! This needs some work. 1st is vague (what is 'complex').  Others should probably be split to keep the section singular. !*
+*! This needs some work. 1st is vague (what is 'complex') and might as well be dropped. Others should probably be split to keep the section singular. !*
 
 - I can understand complex content as contextually-relevant graphs, pictures and tables are provided to supplement it
 - I can understand complex tables or graphs as extra help is provided to explain the important features
 - I can understand a multi stage process as help is provided for all stages and the sequence to be followed
-
-## Intent
-
-WCAG provides a number of Success Criteria related to providing help and effective presentation mechanisms. The intent of this pattern is to build on these to ensure help is used to effectively support a user in understanding more complex content.
-
-Users should be able understand the content they find and successfully complete any tasks it describes without requiring further external assistance. If content is sufficiently complex then it may be inaccessible without the provision of additional supporting help designed to minimize the need to ask for assistance.
-
-Users are likely to find more complex content accessible when help is provided through additional explanatory text, pictures, graphs or tables.
-
-Complex graphs or data tables may not be correctly understood by users unless the key features are clearly explained.
-
-When reading content that explains a multistep process the user may require additional help for the entire sequence as well as each individual step. This will ensure the user fully understands each step and also how to progress from one to the next.
 
 ## What To Do
 
 Provide additional help content that explains any complex information, data and processes. It may be provided in various forms, for example:
 
 - Text "asides" providing explanation and help
-- Popup on hover explanations of keywords.
 - A supporting chart or graph to illuminate text content
 - A guide to interpreting data in a chart or graph
 - A supplemental table – as long as it is not itself complex
 - A flow chart of steps in a process
+- Popup on hover explanations of keywords - possibly linked to a glossary
+
+## Examples
+
+The explanation of a medical procedure and success rate statistics is amplified though the use of a additional text aside, pictures along with a graph and table.
+
+A graph and data table of sales figures has the key features related to the content are clearly explained.
+
+The multi step process for applying for a visa is made made easier to use by adding flow chart of all the steps that is always visible. Each step in the flowchart has links to extra help and the current step is clearly highlighted.
+
+## How It Helps
+
+The intent of this Pattern is to build on WCAG Success Criteria on presenting help to ensure help is used to effectively support a user in understanding more complex content.
+
+Users should be able understand the content they find and successfully complete described tasks without requiring further external assistance. If content is sufficiently complex then it may be inaccessible without the provision of additional supporting help.
 
 ## More details
 
@@ -54,46 +56,26 @@ The complexity may be inherent in the information itself, for example the langua
 
 Alternatively, the presentation mode of information such as a graph or table may obscure it’s meaning through complexity. Here, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
 
-## Benefits
-
-*? I'm not convinced this section adds much to intent and more details  ?*
-
-Improves understanding of content and so there are no unresolved questions or errors the confuse the user or that could prevent the user performing a task without external support..
-
-## Examples
-
-*? Replace this with inline example not an extern reference ?*
-
-The UK Gov provide an online facility to [apply for a study visa](https://www.gov.uk/study-visit-visa). The information and process are very complex, with many conditions but are clearly written. Even so, a [step by step help guide](https://www.gov.uk/apply-short-term-study-visa) is provided to guide the user through the complexities and successfully complete the process from start to finish.
-
-## Related Resources
-
-Other patterns that are closely related to understanding content
+## Related Patterns
 
 - [Important information is conspicuous](../findable/conspicuous-primary)
 - [Provide a summary of long documents](../clear/summary-text)
-- [Avoid too much content on page](../focused/limit-content)
-- [? Use clear labels and instructions](../certain/clear-labels)
-- [Support Simplification](../adaptable/support-simplification)
 
-The following WCAG Success Criteria cover various techniques that can be useful in presenting help for complex information:
-
-- [1.4.13 Content on Hover or Focus](https://www.w3.org/WAI/WCAG21/quickref/#content-on-hover-or-focus)
-- [3.1.3 Unusual Words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
-- [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
-- [3.3.2 Labels or Instructions](https://www.w3.org/WAI/WCAG21/quickref/#labels-or-instructions)
-- [3.3.5 Help](https://www.w3.org/WAI/WCAG21/quickref/#help)
-- [4.1.2 Status Messages](https://www.w3.org/WAI/WCAG21/quickref/#status-messages)
-
-## Techniques
+## Techniques and Requirements
 
 Successes:
 
-Tooltips provide help for keywords and jargon
+- See Examples
 
 Failures:
 
-A complex graph of data with no guide to interpretation.
+A complex graph is shown with no guide to interpretation.
+
+WCAG Success Criteria and Techniques:
+
+- [3.3.5 Help](https://www.w3.org/WAI/WCAG21/quickref/#help)
+
+*? We can add Personalisation and UAAG topics here ?*
 
 ## Key Terms
 
