@@ -19,11 +19,11 @@ Provide additional explanatory content for information that is complex, especial
 
 ## User Story
 
-*! This needs some work. 1st is vague (what is 'complex') and might as well be dropped. Others should probably be split to keep the section singular. !*
+*! Split into 3 Patterns? Move to objective 3? !*
 
 - I can understand complex content as contextually-relevant graphs, pictures and tables are provided to supplement it
 - I can understand complex tables or graphs as extra help is provided to explain the important features
-- I can understand a multi stage process as help is provided for all stages and the sequence to be followed
+- I can understand a multi stage process as help is provided for all stages and the sequence is always clear
 
 ## What To Do
 
@@ -31,18 +31,10 @@ Provide additional help content that explains any complex information, data and 
 
 - Text "asides" providing explanation and help
 - A supporting chart or graph to illuminate text content
-- A guide to interpreting data in a chart or graph
 - A supplemental table – as long as it is not itself complex
-- A flow chart of steps in a process
 - Popup on hover explanations of keywords - possibly linked to a glossary
-
-## Examples
-
-- The explanation of a medical procedure and success rate statistics is amplified though the use of an additional text aside, a diagram and a graph.
-
-- A graph and data table of sales figures has the key features related to the content are clearly explained.
-
-- The multi step process for applying for a visa is made made easier to use by adding flow chart of all the steps that is always visible. Each step in the flowchart has links to extra help and the current step is clearly highlighted.
+- A guide to interpreting data in a chart or graph
+- A flow chart of steps in a process
 
 ## How It Helps
 
@@ -56,15 +48,17 @@ The complexity may be inherent in the information itself, for example the langua
 
 Alternatively, the presentation mode of information such as a graph or table may obscure it’s meaning through complexity. Here, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
 
-## Techniques and Requirements
+## Examples, Techniques and Requirements
 
-*? much more work needed here to decide how to define useful Techniques that are not SCs but might point the way. ?*
+Success Examples:
 
-Successes:
+- The explanation of a medical procedure and success rate statistics is amplified though the use of an additional text aside, a diagram and a graph.
 
-- Content has been assessed for complexity and supported by addition help as required. *very weak!* 
+- A graph and data table of sales figures has the key features that relate to the content clearly explained.
 
-Failures:
+- The multi step process for applying for a visa is made made easier to use by adding flow chart of all the steps that is always visible. Each step in the flowchart has links to extra help and the current step is clearly highlighted.
+
+Failure Examples:
 
 - A complex graph is shown with no guide to interpretation.
 
