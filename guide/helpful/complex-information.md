@@ -60,11 +60,11 @@ Failure Examples:
 
 - A graph and data table of sales figures is shown without any explanation of the key features that relate to the content.
 
-WCAG Success Criteria and Techniques:
+WCAG Techniques and Success Criteria:
 
 - [3.3.5 Help](https://www.w3.org/WAI/WCAG21/quickref/#help)
 
-*! Add related Personalisation and UAAG topics here !*
+*! TODO Add related Personalisation and UAAG topics here !*
 
 ## Related Patterns
 
