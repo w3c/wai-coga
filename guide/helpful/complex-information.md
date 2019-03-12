@@ -54,13 +54,11 @@ Success Examples:
 
 - The explanation of a medical procedure and success rate statistics is amplified though the use of an additional text aside, a diagram and a graph.
 
-- A graph and data table of sales figures has the key features that relate to the content clearly explained.
-
 - The multi step process for applying for a visa is made made easier to use by adding flow chart of all the steps that is always visible. Each step in the flowchart has links to extra help and the current step is clearly highlighted.
 
 Failure Examples:
 
-- A complex graph is shown with no guide to interpretation.
+- A graph and data table of sales figures is shown without any explanation of the key features that relate to the content.
 
 WCAG Success Criteria and Techniques:
 
