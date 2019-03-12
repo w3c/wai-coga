@@ -1,4 +1,5 @@
-- name: Design Guide
+- name: 
+  en: Design Guide
   pages:
   - name: Overview
     url: "/coga-draft/guide/"
@@ -144,7 +145,8 @@
       url: "/coga-draft/guide/adaptable/support-simplification"
     - name: Support Personalisation
       url: "/coga-draft/guide/adaptable/support-personalisation"
-- name: Draft COGA Pages
+- name: 
+  en: Draft COGA Pages
   pages:
   - name: Overview
     url: "/coga-draft/"
@@ -160,7 +162,8 @@
     url: "/coga-draft/glossary"
   - name: Personas
     url: "/coga-draft/personas"
-- name: COGA Resource Plan
+- name: 
+  en: COGA Resource Plan
   pages:
   - name: Full Plan
     url: "/coga-draft/plan/"
