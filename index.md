@@ -38,7 +38,6 @@ This page introduces:
 {% include_cached toc.html type="end" %}
 {:/}
 
-
 ## Cognitive and Learning Disabilities
 
 Cognitive and learning disabilities include long-term and and sometimes permanent difficulties relating to cognitive functions, such as:
@@ -89,9 +88,7 @@ The [Personas](./personas) provide some context and help understanding by outlin
 
 ### Glossary of Terms
 
-The are many terms used around Cognitive and Learning Disabilities, some vary between countries. 
-
-We are compiling a [Glossary of Terms](./glossary).
+We are compiling a [Glossary ](./glossary) for the terms used around Cognitive and Learning Disabilities.
 
 ## Usability testing notes
 
