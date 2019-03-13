@@ -16,7 +16,6 @@ doc-note-message-md: |
   [See page details in plan](./plan#research-findings)
 
 ---
-
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}

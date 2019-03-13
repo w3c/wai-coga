@@ -150,10 +150,6 @@
   pages:
   - name: Overview
     url: "/coga-draft/"
-  - name: About Coga
-    url: "/coga-draft/about"
-  - name: Resources
-    url: "/coga-draft/resources"
   - name: Gap Analysis
     url: "/coga-draft/gapanalysis"
   - name: Research Findings
