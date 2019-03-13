@@ -14,6 +14,12 @@ doc-note-message-md: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
+This page introduces:
+
+- cognitive and learning disabilities and related barriers to using technology
+- designing and testing for people with cognitive and learning disabilities
+- finding relevant W3C research and design documentation
+- W3C activity for cognitive and learning disabilities
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -77,9 +83,15 @@ Any individual is likely to have their own personal requirements for good cognit
 
 The [Design Guide](./guide) provides a number of Design Patterns that help web content providers meet the needs of people with cognitive and learning disabilities.
 
-## Personas
+### Personas
 
 The [Personas](./personas) provide some context and help understanding by outlining fictional people with various cognitive issues and the challenges they face.
+
+### Glossary of Terms
+
+The are many terms used around Cognitive and Learning Disabilities, some vary between countries. 
+
+We are compiling a [Glossary of Terms](./glossary).
 
 ## Usability testing notes
 
@@ -93,12 +105,6 @@ There are some differences when testing for cognitive accessibility, and that in
     a set of 5 smiley faces from happy, through neutral, to sad.
 
 - Ensure the person does not feel like they are at fault for making mistakes; this is a likely scenario for people with cognitive impairments
-
-## Glossary of Terms
-
-The are many terms used around Cognitive and Learning Disabilities, some vary between countries. 
-
-We are compiling a [Glossary of Terms](./glossary).
 
 ## Find Resources for Cognitive and Learning Disability {#finder}
 
@@ -155,7 +161,7 @@ Other WAI Standards that are relevant for cognitive and learning disabilities in
 
 ### User Agent Accessibility Guidelines (UAAG)
 
-The [UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/))explains how to make web browsers and media players accessible. Some browser features are particularly important to people with cognitive and learning disabilities as the distinction between chrome and document may not be understood. For example, allowing personalization through specifying preferences.
+The [UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)) explains how to make web browsers and media players accessible. Some browser features are particularly important to people with cognitive and learning disabilities as the distinction between chrome and document may not be understood. For example, allowing personalization through specifying preferences.
 
 ### Authoring Tool Accessibility Guidelines (ATAG)
 
