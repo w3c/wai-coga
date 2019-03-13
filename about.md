@@ -3,7 +3,7 @@ title: About Cognitive and Learning Disabilities
 permalink: /coga-draft/about
 github:
   repository: w3c/wai-coga
-layout: guide
+layout: default
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
@@ -28,7 +28,7 @@ These are usually hidden difficulties and may be age related. The terminology an
 It should be noted that by addressing barriers to accessibility for users with cognitive and learning disabilities, improvements to digital technologies can be achieved and there is the potential to improve user experience for everyone.
 
 {% include figure.html
-  alt="Picture of several concetric circles"
+  alt="Picture of several concentric circles"
   src="a11yux.png"
   caption="Diagram showing how a11y overlaps with UX" %}
 

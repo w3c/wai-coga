@@ -118,10 +118,12 @@ function onPopstate(event) {
     navigateToURL(pathname)
 }
 
-function hijax() {
+function hijaxNav() {
     const navLinkNodes = document.querySelectorAll('.sidenav--list li > a')
     g_navLinkNodes = Array(...navLinkNodes)
-    navLinkNodes.forEach((node) => { node.addEventListener('click', onNavClick, false) })
+    navLinkNodes.forEach((node) => {
+        node.addEventListener('click', onNavClick, false)
+    })
     console.info(`Hijaxed ${navLinkNodes.length} nav links`)
 
     const topLinkNodes = document.querySelectorAll('.sidenav--list > li > a')
@@ -141,5 +143,6 @@ function supportsES6() {
 }
 
 if (supportsES6()) {
-    window.addEventListener("load", hijax)
+    console.log('aaaa')
+    window.addEventListener("load", hijaxNav)
 }

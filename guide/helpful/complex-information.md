@@ -19,7 +19,7 @@ Provide additional explanatory content for information that is complex, especial
 
 ## User Story
 
-*! Split into 3 Patterns? Move to objective 3? !*
+*! Split into 3 Patterns? Move to objective 3? Add UI? !*
 
 - I can understand complex content as contextually-relevant graphs, pictures and tables are provided to supplement it
 - I can understand complex tables or graphs as extra help is provided to explain the important features
@@ -44,9 +44,9 @@ Users should be able understand the content they find and successfully complete 
 
 ## More details
 
-The complexity may be inherent in the information itself, for example the language used, the quantity of information, or the subject matter. In this case, it is likely to need very careful explanation and organisation for all users to be able to understand without any mistakes, confusion or need of assistance. 
+The complexity may be inherent in the information itself, for example the language used, the quantity of information, or the subject matter. In this case, it is likely to need very careful explanation, organisation and presentation for all users to be able to understand without any mistakes, confusion or need of assistance.
 
-Alternatively, the presentation mode of information such as a graph or table may obscure it’s meaning through complexity. Here, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
+Alternatively, the presentation mode of information such as a graph or table may obscure its meaning through complexity. Here, a supporting description and guided interpretation will highlight the the key features the user needs to understand.
 
 ## Examples, Techniques and Requirements
 
