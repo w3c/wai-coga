@@ -35,6 +35,12 @@ doc-note-message-md: |
 {% include_cached toc.html type="end" %}
 {:/}
 
+## Current WAI pages for CogA
+
+- [Landing page](https://www.w3.org/WAI/cognitive/)
+- [Taskforce page](https://www.w3.org/WAI/GL/task-forces/coga/)
+- [Section of Diverse Abilities and Barriers page](https://www.w3.org/WAI/people-use-web/abilities-barriers/#cognitive)
+
 ## Related Information
 
 - Spreadsheet of [all Coga TF resources](https://docs.google.com/spreadsheets/d/1bLXDIAsmgiySY6uqW2OAOYH7U_Lwh0oUU24etofpYrc/edit?usp=sharing) (Google Doc)
@@ -52,8 +58,8 @@ Moving to the WAI Web site offers the following opportunities
 - Easily discovered resources as they coexist with other accessibility information where people are looking
 - Better organise existing content, including taking advantage of existing WAI information architecture
 - Flexibility to provide better formats. For example can be interactive so easier to navigate and read
-- Links can enhance the user experience without cuaing a jump between the very different web and TR document formats
-- More control over editoral process including review access and publishing cadence
+- Links can enhance the user experience without causing a jump between the very different web and TR document formats
+- More control over editorial process including review access and publishing cadence
 - Can 'dog food' coga and personalisation
 
 ## Primary Stakeholders
