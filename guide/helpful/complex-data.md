@@ -25,7 +25,7 @@ Provide outlines of key themes shown in complex data and graphs.
 Provide additional help content that explains any complex data tables and graphs and guides interpretation. It may be provided in various forms, for example:
 
 - Text "asides" providing explanation and help
-- Popup on hover explanations of key data
+- Popup on hover explanations of key data points
 
 ## How It Helps
 
