@@ -41,16 +41,16 @@ In addition to this pattern, WCAG section 3.1 addresses several related aspects 
 
 ## Examples
 
-### Good *! FIXME !*
+### Sufficient
 
 Use of clear words with definition of terms:
 
 - Your landlord can only use your **security deposit (promise money)**, for certain things, such as **unpaid rent (rent that you owe)** and to fix things that you damaged.
 - Your landlord must return your **security deposit (promise money)** to you by a clear date. This is usually 30 days after you leave the apartment.
 
-### Bad *! FIXME !*
+### Insufficient
 
-Unclear words (as well as other pattern failures):
+Unclear words (as well as other Pattern failures):
 
 - A Landlord's Right to **Deduct**. When a **tenant** moves into a rental property, he or she will pay the landlord a **security deposit**. Depending on the **jurisdiction**, this deposit will be returned to the tenant within a **specific time** period at the **cessation** of the **lease term**, as long as the tenant follows all the terms and **tenants** of the **lease agreement** or contract. Select links below to read the laws that **pertain to your situation**.
 
@@ -60,8 +60,6 @@ Unclear words (as well as other pattern failures):
 - [WCAG Success Criteria 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
 - [WCAG Success Criteria 3.1.5 Reading level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
 - [WCAG Success Criteria 3.1.6 Pronunciation](https://www.w3.org/WAI/WCAG21/quickref/#pronunciation)
-
-*! TODO Add related Personalisation and UAAG topics here !*
 
 ## Related Patterns
 
