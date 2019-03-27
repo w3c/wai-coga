@@ -18,6 +18,7 @@ doc-note-message-md: |
 ### Patterns
 
 - **[Provide help for complex information](./complex-information)**
+- **[Explain complex Data](./complex-data)**
 - **[Provide help with directions](./directions)**
 - **[Provide help for forms and non-standard controls](./forms-controls)**
 - **[Provide human help](./human-help)**

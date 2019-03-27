@@ -12,42 +12,42 @@ doc-note-message-md: |
 ---
 ## Description
 
-Use common and clear words.
+Use words that are common and clear.
 
 ## User Story
 
-I understand all the words used and am not confused by any that I do not know
+<blockquote class="pull">I understand all the words used and am not confused by any that I do not know.</blockquote>
 
 ## What To Do
 
-- Look at the most common 1500 words or phrases. These are the terms that people with language impairments are most likely to know.
-- Do not invent new words or give words new meanings that must be learned for the content.
-- If you must use new terms or jargon make sure the user has easy access to an explanation.
-- Avoid unnecessary words
+- Use at the most common words and phrases. These are the terms that people with lower language skills are most likely to know
+- Do not invent new words or give words new meanings that must be learned for the content
+- If you must use new terms or jargon make sure they are accompanied by an explanation
+*? should these be twisties (then needed for all bullets) or do we not go to this level ?*
+  - Add an simple language term in brackets next to it
+  - Consider a pop up definition
+  - Provide a glossary
 
 ## How It Helps
 
-This pattern refines the WCAG techniques that address the readability of content. For example, it states text should avoid unclear words, rather than providing an alternative. It benefits many people including those with language impairments, learning disabilities or poor memory.
-The the average reading age (in the UK) is below 11.
+*? elaborate ?*
+For example, it states text should avoid unclear words, rather than providing an alternative. It benefits many people including those with language impairments, learning disabilities or poor memory. The the average reading age (in the UK) is below 11.
 
 ## More details
 
-When using jargon, mnemonics or acronyms:
+This pattern refines the WCAG techniques that address the readability of content.
+*? elaborate ?*
 
-- Add an simple language term in brackets next to it
-- Consider a pop up definition
-- In supported mark up (see easylang) ???
+## Examples
 
-## Examples, Techniques and Requirements
-
-Success Examples:
+### Good *! FIXME !*
 
 Use of clear words with definition of terms:
 
 - Your landlord can only use your **security deposit (promise money)**, for certain things, such as **unpaid rent (rent that you owe)** and to fix things that you damaged.
 - Your landlord must return your **security deposit (promise money)** to you by a clear date. This is usually 30 days after you leave the apartment.
 
-Failure Examples:
+### Bad *! FIXME !*
 
 Unclear words (as well as other pattern failures):
 
@@ -55,14 +55,14 @@ Unclear words (as well as other pattern failures):
 
 Use of an uncommon word:
 
-- Someone with mild dementia is trying to turn on an ICT heating and air conditioning unit. The menu item for selecting heat or air conditioning is labelled **"mode"**. The user cannot use the unit because of this one term. This has caused emergencies such as hypothermia.
+- Someone with mild dementia is trying to turn on an heating and air conditioning unit. The menu item for selecting heat or air conditioning is labelled **"mode"**. The user cannot use the unit because of this one term. This has caused emergencies such as hypothermia.
 
-WCAG Techniques and Success Criteria:
+## Relationship to Accessibility Requirements
 
-- [3.1.3 Unusual words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
-- [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
-- [3.1.5 Reading level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
-- [3.1.6 Pronunciation](https://www.w3.org/WAI/WCAG21/quickref/#pronunciation)
+- [WCAG Success Criteria 3.1.3 Unusual words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
+- [WCAG Success Criteria 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
+- [WCAG Success Criteria 3.1.5 Reading level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
+- [WCAG Success Criteria 3.1.6 Pronunciation](https://www.w3.org/WAI/WCAG21/quickref/#pronunciation)
 
 *! TODO Add related Personalisation and UAAG topics here !*
 
