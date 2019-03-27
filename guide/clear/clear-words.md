@@ -34,7 +34,9 @@ WCAG section 3.1 addresses several related aspects of content readability (see b
 
 ## How It Helps
 
-Using unclear or unknown words presents a significant barrier to many people. This can be avoided by careful choice of words and the provision of explanations. 
+Using unclear or unknown words presents a significant barrier to many people. This can easily be avoided by careful choice of words and the provision of explanations.
+
+## More details
 
 For example, people with language impairments, learning disabilities, and poor memory will better understand the content when clear words are used. Also, your audience might not share domain expertise and benefit from explanations of specialist or technical words. Clear words are also important for people with lower language skills. For example, the average reading age is in the UK is below 11. In addition, they also help readers who do not share the same primary language as that used for content.
 
