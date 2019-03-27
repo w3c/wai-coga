@@ -14,7 +14,7 @@ doc-note-message-md: |
 ---
 ## Description
 
-Use words that are common and clear.
+Use words that are common and clear to as many people as possible.
 
 ## User Story
 
@@ -25,14 +25,16 @@ Use words that are common and clear.
 - Use at the most common words and phrases. These are the terms that people with lower language skills are most likely to know
 - Do not invent new words or give words new meanings that must be learned for the content
 - If you must use new terms, jargon, abbreviations, mnemonics or acronyms then make sure they are accompanied by an explanation
-*? should these be twisties (then needed for all bullets) or do we not go to this level ?*
+  - *? Use a twisty for the following (plus for all above bullets) or do we skip this level of detail ?*
   - Add an simple language term in brackets next to it
   - Consider a pop up definition
   - Provide a glossary
 
 ## How It Helps
 
-Using unclear words presents a significant barrier to many people. This can easily be avoided by careful choice of words and the provision of explanations. For example, those with language impairments, learning disabilities or poor memory will be able to understand and use content. Also, explanations of any specialist words will help the majority of readers who do not share a domain expertise with the author. For example banking terms. Clear words are important given the average reading age is likely to much lower than commonly anticipated, eg is below 11 in the UK. They also help the many readers who do not share the same primary language as that used for the content.
+Using unclear or unknown words presents a significant barrier to many people. This can easily be avoided by careful choice of words and the provision of explanations. 
+
+For example, those with language impairments, learning disabilities or poor memory will be able to understand and use content if clear words are used. Also, the majority of users will not share domain expertise with the author so will benefit from explanations of specialist or technical words. Clear words are also important given the average reading age is likely to much lower than commonly anticipated, eg is below 11 in the UK. In addition, they also help readers who do not share the same primary language as that used for content.
 
 ## More details
 
