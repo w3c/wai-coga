@@ -34,7 +34,7 @@ WCAG section 3.1 addresses several related aspects of content readability (see b
 
 ## How It Helps
 
-Using unclear or unknown words presents a significant barrier to many people. This can easily be avoided by careful choice of words and the provision of explanations.
+Using unclear or unknown words presents a significant barrier to many people. This can be avoided by careful choice of words and the provision of explanations.
 
 ## More details
 
