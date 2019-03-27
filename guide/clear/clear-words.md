@@ -22,24 +22,21 @@ Use words that are common and clear to as many people as possible.
 
 ## What To Do
 
-- Use at the most common words and phrases. These are the terms that people with lower language skills are most likely to know
+WCAG section 3.1 addresses several related aspects of content readability (see below). This includes:
+
+- Use the most common words and phrases. These are the terms that people with lower language skills are most likely to know
 - Do not invent new words or give words new meanings that must be learned for the content
-- If you must use new terms, jargon, abbreviations, mnemonics or acronyms then make sure they are accompanied by an explanation
+- If you must use new terms, jargon, abbreviations, mnemonics or acronyms then make sure they are accompanied by an explanation. Consider the following approaches:
   - *? Use a twisty for the following (plus for all above bullets) or do we skip this level of detail ?*
-  - Add an simple language term in brackets next to it
-  - Consider a pop up definition
+  - Add explanation in brackets next to it
+  - Provide a pop up definition
   - Provide a glossary
 
 ## How It Helps
 
-Using unclear or unknown words presents a significant barrier to many people. This can easily be avoided by careful choice of words and the provision of explanations. 
+Using unclear or unknown words presents a significant barrier to many people. This can be avoided by careful choice of words and the provision of explanations. 
 
-For example, those with language impairments, learning disabilities or poor memory will be able to understand and use content if clear words are used. Also, the majority of users will not share domain expertise with the author so will benefit from explanations of specialist or technical words. Clear words are also important given the average reading age is likely to much lower than commonly anticipated, eg is below 11 in the UK. In addition, they also help readers who do not share the same primary language as that used for content.
-
-## More details
-
-This pattern helps ensure there are minimal barriers to those who require clear words. It also benefits all readers by reducing confusing or unknown words.
-In addition to this pattern, WCAG section 3.1 addresses several related aspects of content readability (see below).
+For example, people with language impairments, learning disabilities, and poor memory will better understand the content when clear words are used. Also, your audience might not share domain expertise and benefit from explanations of specialist or technical words. Clear words are also important for people with lower language skills. For example, the average reading age is in the UK is below 11. In addition, they also help readers who do not share the same primary language as that used for content.
 
 ## Examples
 
