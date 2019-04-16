@@ -7,7 +7,7 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  Split out form complex content
+  Split out from complex content
 
   [See page details in plan](../../plan#design-guide)
 
@@ -18,7 +18,7 @@ Provide outlines of key themes shown in complex data and graphs.
 
 ## User Story
 
-- I can understand complex tables or graphs as extra help is provided to explain the important features
+<blockquote class="pull">I can understand complex tables or graphs as extra help is provided to explain the important features</blockquote>
 
 ## What To Do
 

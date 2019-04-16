@@ -19,7 +19,7 @@ Provide additional explanatory content for information that is complex.
 
 ## User Story
 
-- I can understand complex content as contextually-relevant graphs, pictures and tables are provided to supplement it
+<blockquote class="pull">I can understand complex content as contextually-relevant graphs, pictures and tables are provided to supplement it</blockquote>
 
 ## What To Do
 
