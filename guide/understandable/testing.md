@@ -1,6 +1,6 @@
 ---
 title: Elements are understandable and usable - user testing
-permalink: /coga-draft/guide/understandable/overview/testing
+permalink: /coga-draft/guide/understandable/testing
 github:
   repository: w3c/wai-coga
 layout: guide

@@ -1,6 +1,6 @@
 ---
 title: Elements are understandable and usable - user stories
-permalink: /coga-draft/guide/understandable/overview/stories
+permalink: /coga-draft/guide/understandable/stories
 github:
   repository: w3c/wai-coga
 layout: guide

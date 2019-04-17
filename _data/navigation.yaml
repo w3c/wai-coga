@@ -6,8 +6,10 @@
   - name: Elements are understandable and usable
     url: "/coga-draft/guide/understandable/"
     pages:
-    - name: Overview
-      url: "/coga-draft/guide/understandable/overview"
+    - name: User testing
+      url: "/coga-draft/guide/understandable/testing"
+    - name: User stories
+      url: "/coga-draft/guide/understandable/stories"
     - name: The purpose of a page is clear
       url: "/coga-draft/guide/understandable/clear-purpose"
     - name: Each step in a process is clear
