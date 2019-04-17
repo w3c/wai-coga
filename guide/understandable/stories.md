@@ -10,19 +10,6 @@ doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
 
 ---
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
-{:/}
-
-{::options toc_levels="2" /}
-
-- This text will be replaced by the TOC.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
 ## User stories
 
 This leads to the following user stories:
