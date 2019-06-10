@@ -1,5 +1,5 @@
 ---
-title: Controls and their operation are clear
+title: Clearly identify controls and their use
 permalink: /coga-draft/guide/understandable/effective-affordances
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

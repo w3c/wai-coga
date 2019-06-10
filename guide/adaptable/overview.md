@@ -1,5 +1,5 @@
 ---
-title: Content is Adaptable and Personalizable
+title: Support Adaptation and Personalization
 permalink: /coga-draft/guide/adaptable/overview
 github:
   repository: w3c/wai-coga
@@ -10,8 +10,8 @@ doc-note-message-md: |
   Content to come soon!
       
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
@@ -19,7 +19,7 @@ doc-note-message-md: |
 {::options toc_levels="2" /}
 
 - This text will be replaced by the TOC.
-{:toc}
+  {:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}

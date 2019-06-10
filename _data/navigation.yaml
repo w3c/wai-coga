@@ -1,171 +1,165 @@
-- name: 
+- name:
     en: Design Guide
   pages:
-  - name: Overview
-    url: "/coga-draft/guide/"
-  - name: Elements are understandable and usable
-    url: "/coga-draft/guide/understandable/"
-    pages:
-    - name: User testing
-      url: "/coga-draft/guide/understandable/testing"
-    - name: User stories
-      url: "/coga-draft/guide/understandable/stories"
-    - name: The purpose of a page is clear
-      url: "/coga-draft/guide/understandable/clear-purpose"
-    - name: Each step in a process is clear
-      url: "/coga-draft/guide/understandable/clear-steps"
-    - name: Visual heirarchy, headings and whitespace are effective
-      url: "/coga-draft/guide/understandable/visual-heirarchy"
-    - name: Call out boxes
-      url: "/coga-draft/guide/understandable/callout-boxes"
-    - name: Chunk media
-      url: "/coga-draft/guide/understandable/chunked-media"
-    - name: Sections have a clear purpose
-      url: "/coga-draft/guide/understandable/purposeful-regions"
-    - name: Controls and their operation are clear
-      url: "/coga-draft/guide/understandable/effective-affordances"
-    - name: Regions and their controls are recognisabe
-      url: "/coga-draft/guide/understandable/recognizable-regions"
-    - name: Toolbars and controls are visible or easy to find
-      url: "/coga-draft/guide/understandable/findable-controls"
-    - name: Child menu items are clearly related to their parent
-      url: "/coga-draft/guide/understandable/menu-structure"
-    - name: Design is likely to be familiar
-      url: "/coga-draft/guide/understandable/familiar-design"
-    - name: Design is internally consistent
-      url: "/coga-draft/guide/understandable/internally-consistent"
-    - name: Symbols support content
-      url: "/coga-draft/guide/understandable/helpful-symbols"
-  - name: Users can find what they need
-    url: "/coga-draft/guide/findable/"
-    pages:
     - name: Overview
-      url: "/coga-draft/guide/findable/overview"
-    - name: Important information is conspicuous
-      url: "/coga-draft/guide/findable/conspicuous-primary"
-    - name: Search is available
-      url: "/coga-draft/guide/findable/search-facility"
-    - name: Minimal need to scroll
-      url: "/coga-draft/guide/findable/minimal-scroll"
-    - name: Previous input can be reviewed
-      url: "/coga-draft/guide/findable/reviewable-input"
-  - name: Content is clear and understandable
-    url: "/coga-draft/guide/clear/"
-    pages:
-    - name: Overview
-      url: "/coga-draft/guide/clear/overview"
-    - name: Use clear words
-      url: "/coga-draft/guide/clear/clear-words"
-    - name: Use simple written language (and tense)
-      url: "/coga-draft/guide/clear/simple-language"
-    - name: Do not use complex grammar (double negatives or nested clauses)
-      url: "/coga-draft/guide/clear/not-complex"
-    - name: Use literal language
-      url: "/coga-draft/guide/clear/literal-language"
-    - name: Separate each instruction
-      url: "/coga-draft/guide/clear/separate-instructions"
-    - name: Keep text succinct
-      url: "/coga-draft/guide/clear/succinct-text"
-    - name: Use clear spacing
-      url: "/coga-draft/guide/clear/clear-spacing"
-    - name: Use clear typography and punctuation
-      url: "/coga-draft/guide/clear/clean-typography"
-    - name: Provide a summary of long documents
-      url: "/coga-draft/guide/clear/summary-text"
-    - name: Use clear images
-      url: "/coga-draft/guide/clear/clear-images"
-    - name: Provide alternatives for numbers
-      url: "/coga-draft/guide/clear/numeric-alternatives"
-  - name: Mistakes are mimimized and easy to correct
-    url: "/coga-draft/guide/certain/"
-    pages:
-    - name: Overview
-      url: "/coga-draft/guide/certain/overview"
-    - name: Build forms so people make less mistakes
-      url: "/coga-draft/guide/certain/prevent-mistakes"
-    - name: Make it easy to undo errors
-      url: "/coga-draft/guide/certain/undoable-errors"
-    - name: Use clear labels and instructions
-      url: "/coga-draft/guide/certain/clear-labels"
-    - name: Make it easy to undo actions
-      url: "/coga-draft/guide/certain/rollback-actions"
-    - name: Avoid data loss and timeouts
-      url: "/coga-draft/guide/certain/avoid-loss"
-    - name: Provide feedback
-      url: "/coga-draft/guide/certain/provide-feedback"
-    - name: Highlight any fees at start of a process
-      url: "/coga-draft/guide/certain/highlight-fees"
-    - name: Notify users when content changes
-      url: "/coga-draft/guide/certain/notify-changes"
-    - name: Protect user privacy (keep user information safe)
-      url: "/coga-draft/guide/certain/protect-privacy"
-  - name: Users can focus and continue after interuptions
-    url: "/coga-draft/guide/focused/"
-    pages:
-    - name: Overview
-      url: "/coga-draft/guide/focused/overview"
-    - name: Avoid interruptions
-      url: "/coga-draft/guide/focused/avoid-interruptions"
-    - name: Avoid too much content on page
-      url: "/coga-draft/guide/focused/limit-content"
-  - name: Processes do not rely on memory
-    url: "/coga-draft/guide/forgettable/"
-    pages:
-    - name: Overview
-      url: "/coga-draft/guide/forgettable/overview"
-    - name: Login does not require cognitive skills (or good memory)
-      url: "/coga-draft/guide/forgettable/easy-login"
-    - name: Let people avoid navigating voice menus
-      url: "/coga-draft/guide/forgettable/avoid-voicemenus"
-    - name: Do not rely on memorized information
-      url: "/coga-draft/guide/forgettable/avoid-recall"
-  - name: Help and support are always available
-    url: "/coga-draft/guide/helpful/"
-    pages:
-    - name: Overview
-      url: "/coga-draft/guide/helpful/overview"
-    - name: Provide help for complex information
-      url: "/coga-draft/guide/helpful/complex-information"
-    - name: Explain complex data
-      url: "/coga-draft/guide/helpful/complex-data"
-    - name: Provide help with directions
-      url: "/coga-draft/guide/helpful/directions"
-    - name: Provide help for forms and non-standard controls
-      url: "/coga-draft/guide/helpful/forms-controls"
-    - name: Provide human help
-      url: "/coga-draft/guide/helpful/human-help"
-    - name: Provide reminders
-      url: "/coga-draft/guide/helpful/reminders"
-    - name: Make it easy to find help and feedback channels
-      url: "/coga-draft/guide/helpful/help-feedback"
-  - name: Content is Adaptable and Personalisable
-    url: "/coga-draft/guide/adaptable/"
-    pages:
-    - name: Overview
-      url: "/coga-draft/guide/adaptable/overview"
-    - name: Support APIs
-      url: "/coga-draft/guide/adaptable/support-apis"
-    - name: Support Simplification
-      url: "/coga-draft/guide/adaptable/support-simplification"
-    - name: Support Personalisation
-      url: "/coga-draft/guide/adaptable/support-personalisation"
-- name: 
+      url: "/coga-draft/guide/"
+    - name: Help users understand purpose and interactions
+      url: "/coga-draft/guide/understandable/"
+      pages:
+        - name: User testing
+          url: "/coga-draft/guide/understandable/testing"
+        - name: User stories
+          url: "/coga-draft/guide/understandable/stories"
+        - name: Make the purpose of your content clear
+          url: "/coga-draft/guide/understandable/clear-purpose"
+        - name: Make Each Step Clear
+          url: "/coga-draft/guide/understandable/clear-steps"
+        - name: Group and highlight information with graphical indicators
+          url: "/coga-draft/guide/understandable/visual-heirarchy"
+        - name: Break media into chunks
+          url: "/coga-draft/guide/understandable/chunked-media"
+        - name: Make the purpose of each section clear
+          url: "/coga-draft/guide/understandable/purposeful-regions"
+        - name: Clearly identify controls and their use
+          url: "/coga-draft/guide/understandable/effective-affordances"
+        - name: Use obvious structure and relationships
+          url: "/coga-draft/guide/understandable/recognizable-regions"
+        - name: Sub-menu items are easy to identify
+          url: "/coga-draft/guide/understandable/findable-controls"
+        - name: Sub-menu items are logical
+          url: "/coga-draft/guide/understandable/menu-structure"
+        - name: Use a design that is likely to be familiar
+          url: "/coga-draft/guide/understandable/familiar-design"
+        - name: Use a consistent visual design
+          url: "/coga-draft/guide/understandable/internally-consistent"
+        - name: Use symbols that help the user
+          url: "/coga-draft/guide/understandable/helpful-symbols"
+    - name: Help users find what they need
+      url: "/coga-draft/guide/findable/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/findable/overview"
+        - name: Ensure most important things are easy to find
+          url: "/coga-draft/guide/findable/conspicuous-primary"
+        - name: Provide Search
+          url: "/coga-draft/guide/findable/search-facility"
+        - name: Let users go back
+          url: "/coga-draft/guide/findable/reviewable-input"
+    - name: Use clear and understandable content
+      url: "/coga-draft/guide/clear/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/clear/overview"
+        - name: Use clear words
+          url: "/coga-draft/guide/clear/clear-words"
+        - name: Use a simple tense and written language
+          url: "/coga-draft/guide/clear/simple-language"
+        - name: Do not use double negatives or clauses inside clauses
+          url: "/coga-draft/guide/clear/not-complex"
+        - name: Use literal language
+          url: "/coga-draft/guide/clear/literal-language"
+        - name: Separate each instruction
+          url: "/coga-draft/guide/clear/separate-instructions"
+        - name: Keep text succinct
+          url: "/coga-draft/guide/clear/succinct-text"
+        - name: Use white spacing
+          url: "/coga-draft/guide/clear/clear-spacing"
+        - name: Use clear and accurate text formatting and punctuation
+          url: "/coga-draft/guide/clear/clean-typography"
+        - name: Provide a summary of long documents
+          url: "/coga-draft/guide/clear/summary-text"
+        - name: Provide alternatives for numbers
+          url: "/coga-draft/guide/clear/numeric-alternatives"
+    - name: Help users avoid mistakes or correct them.
+      url: "/coga-draft/guide/certain/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/certain/overview"
+        - name: Design forms so that people make less mistakes
+          url: "/coga-draft/guide/certain/prevent-mistakes"
+        - name: Make it easy to undo errors
+          url: "/coga-draft/guide/certain/undoable-errors"
+        - name: Use clear labels and instructions
+          url: "/coga-draft/guide/certain/clear-labels"
+        - name: Provide flexibility in form inputs
+          url: "/coga-draft/guide/certain/rollback-actions"
+        - name: Avoid data loss and timeouts
+          url: "/coga-draft/guide/certain/avoid-loss"
+        - name: Provide feedback
+          url: "/coga-draft/guide/certain/provide-feedback"
+        - name: Notify of fees and charges at the start of a task
+          url: "/coga-draft/guide/certain/highlight-fees"
+        - name: Let the user know when the content changes
+          url: "/coga-draft/guide/certain/notify-changes"
+        - name: Keep the user information safe
+          url: "/coga-draft/guide/certain/protect-privacy"
+    - name: Help users to maintain focus
+      url: "/coga-draft/guide/focused/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/focused/overview"
+        - name: Restrict interruptions
+          url: "/coga-draft/guide/focused/avoid-interruptions"
+        - name: Avoid too much content
+          url: "/coga-draft/guide/focused/limit-content"
+    - name: Ensure processes do not rely on memory
+      url: "/coga-draft/guide/forgettable/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/forgettable/overview"
+        - name: Ensure login does not require good memory or cognitive skills
+          url: "/coga-draft/guide/forgettable/easy-login"
+        - name: Let people avoid navigating voice menus
+          url: "/coga-draft/guide/forgettable/avoid-voicemenus"
+        - name: Do not rely on memorized information
+          url: "/coga-draft/guide/forgettable/avoid-recall"
+    - name: Provide help and support
+      url: "/coga-draft/guide/helpful/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/helpful/overview"
+        - name: Provide help for complex information and task
+          url: "/coga-draft/guide/helpful/complex-information"
+        - name: Explain complex data
+          url: "/coga-draft/guide/helpful/complex-data"
+        - name: Provide help with directions
+          url: "/coga-draft/guide/helpful/directions"
+        - name: Provide help for forms and non-standard controls
+          url: "/coga-draft/guide/helpful/forms-controls"
+        - name: Provide human help
+          url: "/coga-draft/guide/helpful/human-help"
+        - name: Provide reminders
+          url: "/coga-draft/guide/helpful/reminders"
+        - name: Make it easy to find help and give feedback
+          url: "/coga-draft/guide/helpful/help-feedback"
+    - name: Content is Adaptable and Personalisable
+      url: "/coga-draft/guide/adaptable/"
+      pages:
+        - name: Overview
+          url: "/coga-draft/guide/adaptable/overview"
+        - name: Enable APIs and extensions
+          url: "/coga-draft/guide/adaptable/support-apis"
+        - name: Support Simplification
+          url: "/coga-draft/guide/adaptable/support-simplification"
+        - name: Support Personalization
+          url: "/coga-draft/guide/adaptable/support-personalisation"
+- name:
     en: Draft COGA Pages
   pages:
-  - name: Overview
-    url: "/coga-draft/"
-  - name: Gap Analysis
-    url: "/coga-draft/gapanalysis"
-  - name: Research Findings
-    url: "/coga-draft/research"
-  - name: Glossary
-    url: "/coga-draft/glossary"
-  - name: Personas
-    url: "/coga-draft/personas"
-- name: 
+    - name: Overview
+      url: "/coga-draft/"
+    - name: Gap Analysis
+      url: "/coga-draft/gapanalysis"
+    - name: Research Findings
+      url: "/coga-draft/research"
+    - name: Glossary
+      url: "/coga-draft/glossary"
+    - name: Personas
+      url: "/coga-draft/personas"
+- name:
     en: COGA Resource Plan
   pages:
-  - name: Full Plan
-    url: "/coga-draft/plan/"
-  - name: Taskforce Page
-    url: "/coga-draft/taskforce"
+    - name: Full Plan
+      url: "/coga-draft/plan/"
+    - name: Taskforce Page
+      url: "/coga-draft/taskforce"

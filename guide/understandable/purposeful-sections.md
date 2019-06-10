@@ -1,5 +1,5 @@
 ---
-title: Sections have a clear purpose
+title: Make the purpose of each section clear
 permalink: /coga-draft/guide/understandable/purposeful-sections
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

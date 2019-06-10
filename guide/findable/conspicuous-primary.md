@@ -1,5 +1,5 @@
 ---
-title: Important information is conspicuous
+title: Ensure most important things are easy to find
 permalink: /coga-draft/guide/findable/conspicuous-primary
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

@@ -1,5 +1,5 @@
 ---
-title: Do not use complex grammar (double negatives or nested clauses)
+title: Do not use double negatives or clauses inside clauses
 permalink: /coga-draft/guide/clear/not-complex
 github:
   repository: w3c/wai-coga
@@ -8,5 +8,4 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---

@@ -1,5 +1,5 @@
 ---
-title: Each step in a process is clear
+title: Make Each Step Clear
 permalink: /coga-draft/guide/understandable/clear-steps
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

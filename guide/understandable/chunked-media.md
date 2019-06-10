@@ -1,5 +1,5 @@
 ---
-title: Chunk media
+title: Break media into chunks
 permalink: /coga-draft/guide/understandable/chunked-media
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

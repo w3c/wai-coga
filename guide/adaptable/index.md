@@ -1,5 +1,5 @@
 ---
-title: Content is Adaptable and Personalizable
+title: Support Adaptation and Personalization
 permalink: /coga-draft/guide/adaptable/
 github:
   repository: w3c/wai-coga
@@ -8,7 +8,6 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---
 
 ## Pages
@@ -17,6 +16,6 @@ doc-note-message-md: |
 
 ### Patterns
 
-- **[Support APIs](./support-apis)**
+- **[Enable APIs and extensions](./support-apis)**
 - **[Support simplification](./support-simplification)**
-- **[Support personalisation of symbols and controls](./support-personalisation)**
+- **[Support personalization of symbols and controls](./support-personalisation)**

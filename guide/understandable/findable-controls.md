@@ -1,5 +1,5 @@
 ---
-title: Toolbars and controls are visible or easy to find
+title: Sub-menu items are easy to identify
 permalink: /coga-draft/guide/understandable/findable-controls
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

@@ -1,5 +1,5 @@
 ---
-title: Support Personalisation
+title: Support personalization of symbols and controls
 permalink: /coga-draft/guide/adaptable/support-personalisation
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

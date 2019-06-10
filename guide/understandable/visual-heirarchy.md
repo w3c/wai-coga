@@ -1,5 +1,5 @@
 ---
-title: Visual heirarchy, headings and whitespace are effective
+title: Group and highlight information with graphical indicators
 permalink: /coga-draft/guide/understandable/visual-heirarchy
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

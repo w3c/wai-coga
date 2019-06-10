@@ -1,5 +1,5 @@
 ---
-title: Content is clear and understandable
+title: Use clear and understandable content
 permalink: /coga-draft/guide/clear/overview
 github:
   repository: w3c/wai-coga
@@ -8,8 +8,8 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
@@ -17,7 +17,7 @@ doc-note-message-md: |
 {::options toc_levels="2" /}
 
 - This text will be replaced by the TOC.
-{:toc}
+  {:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}

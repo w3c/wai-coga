@@ -1,5 +1,5 @@
 ---
-title: Login does not require cognitive skills (or good memory)
+title: Ensure log in does not require good memory or cognitive skills
 permalink: /coga-draft/guide/forgettable/easy-login
 github:
   repository: w3c/wai-coga
@@ -8,8 +8,8 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 ## Description
 
 Ensure users easily login and register without using advanced cognitive skills.
@@ -77,7 +77,7 @@ WCAG Techniques and Success Criteria:
 
 - [???](https://www.w3.org/WAI/WCAG21/quickref/)
 
-*! TODO Add related Personalisation and UAAG topics here !*
+_! TODO Add related Personalisation and UAAG topics here !_
 
 ## Related Patterns
 
@@ -85,4 +85,4 @@ WCAG Techniques and Success Criteria:
 
 ## Key Terms
 
-*? Coga is developing a list of terms so should we repeat here or simple link to it ?*
+_? Coga is developing a list of terms so should we repeat here or simple link to it ?_

@@ -1,5 +1,5 @@
 ---
-title: Elements are understandable and usable
+title: Help users understand purpose and interactions
 permalink: /coga-draft/guide/understandable/
 github:
   repository: w3c/wai-coga
@@ -8,8 +8,8 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
@@ -17,7 +17,7 @@ doc-note-message-md: |
 {::options toc_levels="2" /}
 
 - This text will be replaced by the TOC.
-{:toc}
+  {:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -51,16 +51,15 @@ The use of personalization can be extremely useful in offering both familiarity 
 
 ## Patterns
 
-- **[The purpose of a page is clear](./clear-purpose)**
-- **[Each step in a process is clear](./clear-steps)**
-- **[Visual hierarchy, headings and whitespace are effective](./visual-heirarchy)**
-- **[Call out boxes](./callout-boxes)**
-- **[Chunk media](./chunked-media)**
-- **[Sections have a clear purpose](./purposeful-sections)**
-- **[Controls and their operation are clear](./effective-affordances)**
-- **[Regions and their controls are recognisable](./recognizable-regions)**
-- **[Toolbars and controls are visible or easy to find](./findable-controls)**
-- **[Child menu items are clearly related to their parent](./menu-structure)**
-- **[Design is likely to be familiar](./familiar-design)**
-- **[Design is internally consistent](./internally-consitent)**
-- **[Symbols support content](./helpful-symbols)**
+- **[Make the purpose of your content clear](./clear-purpose)**
+- **[Make each step clear](./clear-steps)**
+- **[Group and highlight information with graphical indicators](./visual-heirarchy)**
+- **[Break media into chunks](./chunked-media)**
+- **[Make the purpose of each section clear](./purposeful-sections)**
+- **[Clearly identify controls and their use](./effective-affordances)**
+- **[Use obvious Structure and Relationships](./recognizable-regions)**
+- **[Sub-menu items are easy to identify](./findable-controls)**
+- **[Sub-menu items are logical](./menu-structure)**
+- **[Use a design that is likely to be familiar](./familiar-design)**
+- **[Use a consistent visual design](./internally-consitent)**
+- **[Use symbols that help the user](./helpful-symbols)**

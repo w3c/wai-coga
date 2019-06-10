@@ -1,5 +1,5 @@
 ---
-title: Processes do not rely on memory
+title: Ensure processes do not rely on memory
 permalink: /coga-draft/guide/forgettable/
 github:
   repository: w3c/wai-coga
@@ -8,7 +8,6 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---
 
 ## Pages
@@ -17,6 +16,6 @@ doc-note-message-md: |
 
 ### Patterns
 
-- **[Login does not require cognitive skills (or good memory)](./easy-login)**
+- **[Ensure log in does not require good memory or cognitive skills](./easy-login)**
 - **[Let people avoid navigating voice menus](./avoid-voicemenus)**
-- **[Do not rely on memorized information](./avoid-recall)**
+- **[Do not rely on users memorizing information](./avoid-recall)**

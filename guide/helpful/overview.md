@@ -1,5 +1,5 @@
 ---
-title: Help and support are always available
+title: Provide help and support
 permalink: /coga-draft/guide/helpful/overview
 github:
   repository: w3c/wai-coga
@@ -10,8 +10,8 @@ doc-note-message-md: |
   Content to come soon!
 
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
@@ -19,7 +19,7 @@ doc-note-message-md: |
 {::options toc_levels="2" /}
 
 - This text will be replaced by the TOC.
-{:toc}
+  {:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -31,9 +31,9 @@ Users with cognitive impairments may need different levels and forms of help, de
 
 ## User Testing
 
-Make sure your user testing has all the different cognitive disabilities represented. (Make sure people don't just   ask these as questions, but ask something that demonstrates it.)
+Make sure your user testing has all the different cognitive disabilities represented. (Make sure people don't just ask these as questions, but ask something that demonstrates it.)
 
-Test for the following  :
+Test for the following :
 
 - Identify the different activities
   - Test that the users can achieve the activities without asking for help
@@ -42,9 +42,10 @@ Test for the following  :
   - Ask the users if they would find this easy to do if under stress or tiered
   - Ask the user what might help if they were stressed or tired. If they do not have ideas ask them about the design guidance bellow and if any of them would help them for this content. Ask them for other idea
 - Can the user find help?
+
   - Does the user make errors trying to find help?
   - Does the user find them easy to achieve?
-  
+
 ## User Stories
 
 This leads to the following user stories.

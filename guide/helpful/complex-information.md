@@ -1,5 +1,5 @@
 ---
-title: Provide help for complex information
+title: Provide help for complex information and tasks
 permalink: /coga-draft/guide/helpful/complex-information
 github:
   repository: w3c/wai-coga
@@ -11,8 +11,8 @@ doc-note-message-md: |
   Possibly also useful for [Supplemental Guidance](https://github.com/w3c/wai-website/issues/132)
 
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 ## Description
 
 Provide additional explanatory content for information that is complex.
@@ -56,7 +56,7 @@ WCAG Techniques and Success Criteria:
 
 - [3.3.5 Help](https://www.w3.org/WAI/WCAG21/quickref/#help)
 
-*! TODO Add related Personalisation and UAAG topics here !*
+_! TODO Add related Personalisation and UAAG topics here !_
 
 ## Related Patterns
 
@@ -65,4 +65,4 @@ WCAG Techniques and Success Criteria:
 
 ## Key Terms
 
-*? Coga is developing a list of terms so should we repeat here or simple link to it ?*
+_? Coga is developing a list of terms so should we repeat here or simple link to it ?_

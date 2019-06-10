@@ -1,5 +1,5 @@
 ---
-title: Child menu items are clearly related to their parent
+title: Sub-menu items are logical
 permalink: /coga-draft/guide/understandable/menu-structure
 github:
   repository: w3c/wai-coga
@@ -10,5 +10,4 @@ doc-note-message-md: |
   **Outline:**
       
   [See page details in plan](./plan#design-guide)
-
 ---

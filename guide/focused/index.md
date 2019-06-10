@@ -1,5 +1,5 @@
 ---
-title: Users can focus and continue after interruptions
+title: Help users to maintain focus
 permalink: /coga-draft/guide/focused/
 github:
   repository: w3c/wai-coga
@@ -8,14 +8,14 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](../../plan#design-guide)
-
 ---
 
 ## Pages
 
 - **[Overview](./overview)**
+  `
 
 ### Patterns
 
-- **[Avoid interruptions](./avoid-interruptions)**
-- **[Avoid too much content on the page](./limit-content)**
+- **[Restrict interruptions](./avoid-interruptions)**
+- **[Avoid too much content](./limit-content)**
