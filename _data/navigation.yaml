@@ -98,7 +98,7 @@
       pages:
         - name: Overview
           url: "/coga-draft/guide/focused/overview"
-        - name: Restrict interruptions
+        - name: Limit interruptions
           url: "/coga-draft/guide/focused/avoid-interruptions"
         - name: Avoid too much content
           url: "/coga-draft/guide/focused/limit-content"

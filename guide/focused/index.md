@@ -17,5 +17,5 @@ doc-note-message-md: |
 
 ### Patterns
 
-- **[Restrict interruptions](./avoid-interruptions)**
+- **[Limit interruptions](./avoid-interruptions)**
 - **[Avoid too much content](./limit-content)**
