@@ -35,4 +35,37 @@ doc-note-message-md: |
   - Objective text should introduce the common features of the included Patterns in terms of 'what to do' with a little context as to why it is important.
   - Provide links to external detailed and supporting info like User Requirements
   - the 'Technical details' sections may need attention so linked content is in consistent state of maturity and publication status
+
+  ## Priority Patterns for Easy Reading project use
+
+
+  - Help users understand purpose and interactions  
+    - Clearly identify controls and their use 
+    - Use symbols that help the user 
+
+  - Help users find what they need
+    - Ensure most important things are easy to find 
+
+  - Use clear and understandable content (select a couple of these)
+    - Use clear words
+    - Use a simple tense and written language
+    - Do not use double negatives or clauses inside clauses
+    - Use literal language
+    - Keep text succinct 
+    - Use white spacing
+    - Use clear and accurate text formatting and punctuation 
+    - Provide alternatives for numbers 
+
+  - Help users avoid mistakes or correct them
+    - Use clear labels and instructions 
+
+  - Ensure processes do not rely on memory
+    - Ensure log in does not require good memory or cognitive skills 
+
+  - Provide help and support
+    - Make it easy to find help and give feedback 
+
+  - Support Adaptation and Personalization
+    - Support Simplification
+    - Support Personalization
 ---

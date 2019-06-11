@@ -22,7 +22,7 @@
           url: "/coga-draft/guide/understandable/chunked-media"
         - name: Make the purpose of each section clear
           url: "/coga-draft/guide/understandable/purposeful-regions"
-        - name: Clearly identify controls and their use
+        - name: Clearly identify controls and their use *
           url: "/coga-draft/guide/understandable/effective-affordances"
         - name: Use obvious structure and relationships
           url: "/coga-draft/guide/understandable/recognizable-regions"
@@ -34,14 +34,14 @@
           url: "/coga-draft/guide/understandable/familiar-design"
         - name: Use a consistent visual design
           url: "/coga-draft/guide/understandable/internally-consistent"
-        - name: Use symbols that help the user
+        - name: Use symbols that help the user *
           url: "/coga-draft/guide/understandable/helpful-symbols"
     - name: Help users find what they need
       url: "/coga-draft/guide/findable/"
       pages:
         - name: Overview
           url: "/coga-draft/guide/findable/overview"
-        - name: Ensure most important things are easy to find
+        - name: Ensure most important things are easy to find *
           url: "/coga-draft/guide/findable/conspicuous-primary"
         - name: Provide Search
           url: "/coga-draft/guide/findable/search-facility"
@@ -52,25 +52,25 @@
       pages:
         - name: Overview
           url: "/coga-draft/guide/clear/overview"
-        - name: Use clear words
+        - name: Use clear words *
           url: "/coga-draft/guide/clear/clear-words"
-        - name: Use a simple tense and written language
+        - name: Use a simple tense and written language *
           url: "/coga-draft/guide/clear/simple-language"
-        - name: Do not use double negatives or clauses inside clauses
+        - name: Do not use double negatives or clauses inside clauses *
           url: "/coga-draft/guide/clear/not-complex"
-        - name: Use literal language
+        - name: Use literal language *
           url: "/coga-draft/guide/clear/literal-language"
         - name: Separate each instruction
           url: "/coga-draft/guide/clear/separate-instructions"
-        - name: Keep text succinct
+        - name: Keep text succinct *
           url: "/coga-draft/guide/clear/succinct-text"
-        - name: Use white spacing
+        - name: Use white spacing *
           url: "/coga-draft/guide/clear/clear-spacing"
-        - name: Use clear and accurate text formatting and punctuation
+        - name: Use clear and accurate text formatting and punctuation *
           url: "/coga-draft/guide/clear/clean-typography"
         - name: Provide a summary of long documents
           url: "/coga-draft/guide/clear/summary-text"
-        - name: Provide alternatives for numbers
+        - name: Provide alternatives for numbers *
           url: "/coga-draft/guide/clear/numeric-alternatives"
     - name: Help users avoid mistakes or correct them
       url: "/coga-draft/guide/certain/"
@@ -81,7 +81,7 @@
           url: "/coga-draft/guide/certain/prevent-mistakes"
         - name: Make it easy to undo errors
           url: "/coga-draft/guide/certain/undoable-errors"
-        - name: Use clear labels and instructions
+        - name: Use clear labels and instructions *
           url: "/coga-draft/guide/certain/clear-labels"
         - name: Provide flexibility in form inputs
           url: "/coga-draft/guide/certain/rollback-actions"
@@ -109,7 +109,7 @@
       pages:
         - name: Overview
           url: "/coga-draft/guide/forgettable/overview"
-        - name: Ensure login does not require good memory or cognitive skills
+        - name: Ensure login does not require good memory or cognitive skills *
           url: "/coga-draft/guide/forgettable/easy-login"
         - name: Let people avoid navigating voice menus
           url: "/coga-draft/guide/forgettable/avoid-voicemenus"
@@ -132,7 +132,7 @@
           url: "/coga-draft/guide/helpful/human-help"
         - name: Provide reminders
           url: "/coga-draft/guide/helpful/reminders"
-        - name: Make it easy to find help and give feedback
+        - name: Make it easy to find help and give feedback *
           url: "/coga-draft/guide/helpful/help-feedback"
     - name: Support Adaptation and Personalization
       url: "/coga-draft/guide/adaptable/"
@@ -141,9 +141,9 @@
           url: "/coga-draft/guide/adaptable/overview"
         - name: Enable APIs and extensions
           url: "/coga-draft/guide/adaptable/support-apis"
-        - name: Support Simplification
+        - name: Support Simplification *
           url: "/coga-draft/guide/adaptable/support-simplification"
-        - name: Support Personalization
+        - name: Support Personalization *
           url: "/coga-draft/guide/adaptable/support-personalisation"
 - name:
     en: Draft COGA Pages
