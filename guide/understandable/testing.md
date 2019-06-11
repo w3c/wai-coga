@@ -5,11 +5,8 @@ github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
-doc-note-type: draft
-doc-note-message-md: |
-  [See page details in plan](../../plan#design-guide)
-
 ---
+
 ## User testing
 
 Make sure your user testing has all the different cognitive disabilities represented. (Make sure people don't just ask these as questions, but ask something that demonstrates it.)

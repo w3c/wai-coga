@@ -1,6 +1,8 @@
 - name:
     en: Design Guide
   pages:
+    - name: Web Version Design Notes
+      url: "/coga-draft/guide/design-notes"
     - name: Overview
       url: "/coga-draft/guide/"
     - name: Help users understand purpose and interactions

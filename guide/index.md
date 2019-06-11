@@ -5,12 +5,6 @@ github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
-doc-note-type: draft
-doc-note-message-md: |
-  This is an interactive version of the Design Guide. The left contents can be expanded and closed.
-  Use a modern browser to get the interactive features (needs [ES6 support](https://caniuse.com/#search=es6)).
-
-  [See page details in plan](../plan#design-guide)
 ---
 
 {::nomarkdown}
@@ -35,8 +29,6 @@ Traditionally accessibility has been most focused on the interface and making th
 Often however, cognitive barriers are caused by context, language, usability, and other more general 'design' factors. So, these need to be addressed during the early design stages of user interface development and during content creation. Following good design Patters benefits everyone to some degree, but bad design patterns can completely stop someone with cognitive and learning disabilities.
 
 This guide presents a number of effective design **Patterns** which when applied, will make a significant contribution to ensuring good cognitive accessibility and also improve wider usability. The Patterns are gouped into design **Objectives** which each cover an important area of cognitive accessibility. In addition to the Patterns, each Objective includes information on user testing and example user stories. Just understanding the Objectives and user stories may enable better design decisions to be made. But, the Patterns provide practical steps that can be applied to a design process so content is more accessible to people with cognitive and learning disabilities.
-
-The
 
 ## Objectives
 

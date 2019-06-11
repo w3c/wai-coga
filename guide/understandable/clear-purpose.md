@@ -5,11 +5,6 @@ github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
-doc-note-type: draft
-doc-note-message-md: |
-  **Outline:**
-      
-  [See page details in plan](./plan#design-guide)
 ---
 
 Use a clear title or heading that summarizes the purpose of a page, or other clear signposts that have been tested by users with cognitive disabilities.
