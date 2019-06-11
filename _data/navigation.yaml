@@ -72,7 +72,7 @@
           url: "/coga-draft/guide/clear/summary-text"
         - name: Provide alternatives for numbers
           url: "/coga-draft/guide/clear/numeric-alternatives"
-    - name: Help users avoid mistakes or correct them.
+    - name: Help users avoid mistakes or correct them
       url: "/coga-draft/guide/certain/"
       pages:
         - name: Overview
@@ -134,7 +134,7 @@
           url: "/coga-draft/guide/helpful/reminders"
         - name: Make it easy to find help and give feedback
           url: "/coga-draft/guide/helpful/help-feedback"
-    - name: Content is Adaptable and Personalisable
+    - name: Support Adaptation and Personalization
       url: "/coga-draft/guide/adaptable/"
       pages:
         - name: Overview
