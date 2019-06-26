@@ -23,11 +23,11 @@ doc-note-message-md: |
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Thoughts on User Testing
+## User Testing with people with Cognitive and Learning Disabilities
 
-It's important to include users in [testing and evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/) of implementations of the design Patterns included in this guide. In fact, there are several additional considerations when including people who have cognitive impairments. For example:
+As with all Accessibility work it's important to include users in the [testing and evaluation](https://www.w3.org/WAI/test-evaluate/involving-users/) of designs, including the design Patterns described in this guide. However, there are several additional considerations when working with people with cognitive impairments. For example:
 
-- Ensure that the participation forms are easy to understand, send them to the participant in advance, and allow plenty of time for the participant to ask questions and fill in forms;
+- Ensure that the participation forms are easy to understand and complete. Send them to the participant in advance, and allow plenty of time for the participant to ask questions and fill in forms;
 
 - Allow the participant to bring a carer, family member or friend to attend with them. If your tester has a guardian you should get informed consent from both the tester and their guardian;
 
@@ -44,7 +44,7 @@ More general test ideas include:
 - Make sure your user testing includes individuals with a range of cognitive disabilities.
 - Do not just ask questions, but ask the user to do an action that demonstrates usability.
 - Was the experience pleasant? How is their mood changed? Watch out for mood deterioration.
-- Ask the users if they would find this easy to do if under stress or tired;
+- Ask the users if they would find this easy (or possible) to do if under stress or tired;
 - Ask the user if the activity was easy or if anything was hard;
 - Ask the user how the interaction could be easier.
 - Check if they understand any process enough to complete it with confidence.
