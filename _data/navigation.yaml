@@ -1,15 +1,15 @@
 - name:
     en: Design Guide
   pages:
-    - name: Web Version Design Notes
+    - name: [Web Version  Notes]
       url: "/coga-draft/guide/design-notes"
     - name: Overview
       url: "/coga-draft/guide/"
-    - name: Help users understand purpose and interactions
+    - name: User Testing
+      url: "/coga-draft/guide/testing"
+    - name: Help users understand what things are and how to use them
       url: "/coga-draft/guide/understandable/"
       pages:
-        - name: User testing
-          url: "/coga-draft/guide/understandable/testing"
         - name: User stories
           url: "/coga-draft/guide/understandable/stories"
         - name: Make the purpose of your content clear
@@ -39,8 +39,8 @@
     - name: Help users find what they need
       url: "/coga-draft/guide/findable/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/findable/overview"
+        - name: User stories
+          url: "/coga-draft/guide/findable/stories"
         - name: Ensure most important things are easy to find *
           url: "/coga-draft/guide/findable/conspicuous-primary"
         - name: Provide Search
@@ -50,8 +50,8 @@
     - name: Use clear and understandable content
       url: "/coga-draft/guide/clear/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/clear/overview"
+        - name: User stories
+          url: "/coga-draft/guide/clear/stories"
         - name: Use clear words *
           url: "/coga-draft/guide/clear/clear-words"
         - name: Use a simple tense and written language *
@@ -75,8 +75,8 @@
     - name: Help users avoid mistakes or correct them
       url: "/coga-draft/guide/certain/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/certain/overview"
+        - name: User stories
+          url: "/coga-draft/guide/certain/stories"
         - name: Design forms so that people make less mistakes
           url: "/coga-draft/guide/certain/prevent-mistakes"
         - name: Make it easy to undo errors
@@ -98,8 +98,8 @@
     - name: Help users to maintain focus
       url: "/coga-draft/guide/focused/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/focused/overview"
+        - name: User stories
+          url: "/coga-draft/guide/focused/stories"
         - name: Limit interruptions
           url: "/coga-draft/guide/focused/avoid-interruptions"
         - name: Avoid too much content
@@ -107,8 +107,8 @@
     - name: Ensure processes do not rely on memory
       url: "/coga-draft/guide/forgettable/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/forgettable/overview"
+        - name: User stories
+          url: "/coga-draft/guide/forgettable/stories"
         - name: Ensure login does not require good memory or cognitive skills *
           url: "/coga-draft/guide/forgettable/easy-login"
         - name: Let people avoid navigating voice menus
@@ -118,8 +118,8 @@
     - name: Provide help and support
       url: "/coga-draft/guide/helpful/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/helpful/overview"
+        - name: User stories
+          url: "/coga-draft/guide/helpful/stories"
         - name: Provide help for complex information and task
           url: "/coga-draft/guide/helpful/complex-information"
         - name: Explain complex data
@@ -137,8 +137,8 @@
     - name: Support Adaptation and Personalization
       url: "/coga-draft/guide/adaptable/"
       pages:
-        - name: Overview
-          url: "/coga-draft/guide/adaptable/overview"
+        - name: User stories
+          url: "/coga-draft/guide/adaptable/stories"
         - name: Enable APIs and extensions
           url: "/coga-draft/guide/adaptable/support-apis"
         - name: Support Simplification *

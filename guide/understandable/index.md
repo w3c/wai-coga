@@ -1,10 +1,13 @@
 ---
-title: Help users understand purpose and interactions
+title: Help users understand what things are and how to use them
 permalink: /coga-draft/guide/understandable/
 github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
+doc-note-type: draft
+doc-note-message-md: |
+  Changes from doc: Small editorial changes
 ---
 
 {::nomarkdown}
@@ -24,26 +27,23 @@ feedbackmail: wai@w3.org
 
 To be able to use a site or application, people need to know what all controls and elements are on your page and how to use them.
 
-Not everyone finds learning new things easy, and not everyone can remember new designs.
+Not everyone finds learning new things easy, and not everyone can easily remember designs that are unfamiliar to them. The more people need to figure things out, the more likely they are to have problems using a web resource.
 
-The more people need to figure things out, the less people can use your site.
+For example, users cannot always easily learn new design metaphors, or remember things they learned, such as users with mild cognitive impairment or dementia. Without these skills, it can be much harder or impossible for them to find what they need, work out what the items do and how to use them.
 
-Many users cannot easily learn new design metaphors, or remember things they learned, such as users with mild cognitive impairment or dementia. Without these skills, it can be much harder or impossible to find what they need, work out what the items do and how to use them.
+In addition, users can be overwhelmed by too many options, or too much information. If the individual's reading is slow, then too much information mixed together will make it difficult or impossible to use the site.
 
-Many users can be overwhelmed by too many options, or too much information. If reading is slow, then too much information mixed together will make it difficult or impossible to use the site.
+Using familiar designs, familiar terms and familiar symbols are key to using the web for users who will struggle to remember new symbols and design. They need the following to be familiar:
 
-Using familiar design, familiar terms and familiar symbols are key to being able to use the web for users who will struggle to remember new symbols and design. Users need the following to be familiar:
+- Element location: Place elements in expected locations. For example, people may look for the search on the top right hand corner of a page. If it is somewhere else it will be hard to find.
+- Symbols: Use familiar symbols. For example, people may look for a question mark for help. If you use a different symbol fewer people will find help.
+- Text: Use familiar terms. For example, some people have a limited vocabulary. Uncommon terms may cause them difficulty.
+- Getting help: Always make it easy to find the help.
 
-- Where to find elements: For example, people may look for the search on the top right hand corner of a page. If it - is somewhere else it will be hard to find.
-- Symbols: For example, people may look for a question mark for help. If you use a different symbol less people - will know what it is.
-- Text: Use text people know, including people with a limited vocabulary.
-- How to get help: Always make it easy to find the help.
-
-The use of personalization can be extremely useful in offering both familiarity as well as other benefits for users with cognitive and learning disabilities. This is important as what is familiar for one user may not be familiar to another. Familiarity is often based on the needs of the individual user.
+Personalization can be extremely useful for designers who want to offer familiarity and flexibility. Familiarity helpsusers with cognitive and learning disabilities but is often based on the needs of the individual user. Personalization allows users to customize their interface, which is important as what is familiar for one user may not be familiar to another.
 
 ## Pages
 
-- **[User Testing](./testing)**
 - **[User Stories](./stories)**
 
 ## Patterns

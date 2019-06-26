@@ -5,11 +5,31 @@ github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
+doc-note-type: draft
+doc-note-message-md: |
+  Changes from doc: Small editorial changes
 ---
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+- This text will be replaced by the TOC.
+  {:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+## Introduction
+
+Users with cognitive impairments may require different levels and forms of help, depending on their circumstances. They may also want to provide feedback about difficulties they experienced
 
 ## Pages
 
-- **[Overview](./overview)**
+- **[User Stories](./stories)**
 
 ### Patterns
 

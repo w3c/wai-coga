@@ -8,8 +8,8 @@ feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
   [See page details in plan](./plan#new-pages)
-
 ---
+
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
@@ -32,7 +32,7 @@ This page introduces:
 {::options toc_levels="2" /}
 
 - This text will be replaced by the TOC.
-{:toc}
+  {:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -46,7 +46,7 @@ Cognitive and learning disabilities include long-term and and sometimes permanen
 - learning and orientation
 - visual, verbal and numerical thinking
 
-These are usually hidden difficulties and may be age related. The terminology and definitions used for cognitive disabilities varies between countries and users are less likely to have a formal diagnosis of a disability than individuals with physical and sensory difficulties.  Cognitive disabilities may include intellectual impairments affecting comprehension alongside written and spoken expression. People may also experience a  co-occurrence of difficulties such as dyspraxia / developmental coordination difficulties and ADHD should also be taken into account. 
+These are usually hidden difficulties and may be age related. The terminology and definitions used for cognitive disabilities varies between countries and users are less likely to have a formal diagnosis of a disability than individuals with physical and sensory difficulties. Cognitive disabilities may include intellectual impairments affecting comprehension alongside written and spoken expression. People may also experience a co-occurrence of difficulties such as dyspraxia / developmental coordination difficulties and ADHD should also be taken into account.
 
 It should be noted that by addressing barriers to accessibility for users with cognitive and learning disabilities, improvements to digital technologies can be achieved and there is the potential to improve user experience for everyone.
 
@@ -99,7 +99,7 @@ There are some differences when testing for cognitive accessibility, and that in
 - Allow the participant to bring a carer, family member or friend to attend with them. If your tester has a guardian you should get informed consent from both the tester and their guardian;
 
 - It helps to provide easy methods of assessing mood, rather than asking for the participant to verbalise, try asking them to select a smiley face, such as:
-    a set of 5 smiley faces from happy, through neutral, to sad.
+  a set of 5 smiley faces from happy, through neutral, to sad.
 
 - Ensure the person does not feel like they are at fault for making mistakes; this is a likely scenario for people with cognitive impairments
 
@@ -162,7 +162,7 @@ The [UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)) explains how to m
 
 ### Authoring Tool Accessibility Guidelines (ATAG)
 
-The [ATAG](](https://www.w3.org/WAI/standards-guidelines/atag/)) covers tools used to create web content. Examples include HTML editors and Web content management systems (CMS). These need to be both accessible to people with cognitive disabilities, and also must create content that is also fully accessible. In addition, the ability to allow authors to provide content alternatives supporting personalisation. (!!!)
+The [ATAG](<](https://www.w3.org/WAI/standards-guidelines/atag/)>) covers tools used to create web content. Examples include HTML editors and Web content management systems (CMS). These need to be both accessible to people with cognitive disabilities, and also must create content that is also fully accessible. In addition, the ability to allow authors to provide content alternatives supporting personalisation. (!!!)
 
 ### General Standards that provide benefits
 
