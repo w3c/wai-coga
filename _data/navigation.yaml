@@ -1,12 +1,17 @@
 - name:
     en: Design Guide
   pages:
-    - name: [Web Version  Notes]
+    - name: "*Web Version Notes*"
       url: "/coga-draft/guide/design-notes"
     - name: Overview
-      url: "/coga-draft/guide/"
-    - name: User Testing
-      url: "/coga-draft/guide/testing"
+      url: "/coga-draft/guide/overview"
+      pages:
+        - name: Background to User Preferences and the Web
+          url: "/coga-draft/guide/overview/background"
+        - name: Personalization for Cognitive Accessibility
+          url: "/coga-draft/guide/overview/personalization"
+        - name: User Testing
+          url: "/coga-draft/guide/overview/testing"
     - name: Help users understand what things are and how to use them
       url: "/coga-draft/guide/understandable/"
       pages:

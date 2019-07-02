@@ -1,6 +1,6 @@
 ---
-title: User testing
-permalink: /coga-draft/guide/testing
+title: User Testing
+permalink: /coga-draft/guide/overview/testing
 github:
   repository: w3c/wai-coga
 layout: guide

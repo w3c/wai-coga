@@ -1,6 +1,6 @@
 ---
 title: Design Guide Overview
-permalink: /coga-draft/guide/
+permalink: /coga-draft/guide/overview
 github:
   repository: w3c/wai-coga
 layout: guide
@@ -50,7 +50,9 @@ In addition to the Patterns, each Objective includes **User Stories** which desc
 
 ## Pages
 
+- **[Background to Users Preferences and the Web](./background)**
 - **[User testing](./testing)**
+- **[Personalization for Cognitive Accessibility](./testing)**
 
 ## Objectives
 
