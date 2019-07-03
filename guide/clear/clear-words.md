@@ -10,8 +10,8 @@ doc-note-message-md: |
   Testing alternative template.
 
   [See page details in plan](../../plan#design-guide)
-
 ---
+
 ## Description
 
 Use words that are common and clear to as many people as possible.
@@ -22,15 +22,16 @@ Use words that are common and clear to as many people as possible.
 
 ## What To Do
 
-WCAG section 3.1 addresses several related aspects of content readability (see below). This includes:
+Apply the WCAG Guideline [3.1 Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable) which addresses several related aspects of content readability. This includes addressing: unusual words, abbreviations and reading level. In addition:
 
 - Use the most common words and phrases. These are the terms that people with lower language skills are most likely to know
 - Do not invent new words or give words new meanings that must be learned for the content
-- If you must use new terms, jargon, abbreviations, mnemonics or acronyms then make sure they are accompanied by an explanation. Consider the following approaches:
-  - *? Use a twisty for the following (plus for all above bullets) or do we skip this level of detail ?*
+- If you must use new terms, jargon, abbreviations, mnemonics or acronyms then make sure they are accompanied by an explanation. Consider the following techniques for explaining unusual words and abbreviations:
   - Add explanation in brackets next to it
   - Provide a pop up definition
   - Provide a glossary
+
+_TODO: Consider making the above nested list a &lt;details&gt; or other expando._
 
 ## How It Helps
 
@@ -38,7 +39,7 @@ Using unclear or unknown words presents a significant barrier to many people. Th
 
 ## More details
 
-For example, people with language impairments, learning disabilities, and poor memory will better understand the content when clear words are used. Also, your audience might not share domain expertise and benefit from explanations of specialist or technical words. Clear words are also important for people with lower language skills. For example, the average reading age in the UK is below 11. In addition, clear words also help readers who do not share the same primary language as that used for content.
+For example, people with language impairments, learning disabilities, and poor memory will better understand the content when clear words are used. Also, your audience might not share domain expertise and benefit from explanations of specialist or technical words. Clear words are also important for people with lower language skills. For example, the average reading age in the UK is below 11. Clear words also help readers who do not share the same primary native language as that used for content.
 
 ## Examples
 
@@ -55,7 +56,7 @@ Unclear and technical words (as well as other Pattern failures):
 
 - A Landlord's Right to **Deduct**. When a **tenant** moves into a rental property, he or she will pay the landlord a **security deposit**. Depending on the **jurisdiction**, this deposit will be returned to the tenant within a **specific time** period at the **cessation** of the **lease term**, as long as the tenant follows all the terms and **tenants** of the **lease agreement** or contract. Select links below to read the laws that **pertain to your situation**.
 
-## Relationship to Accessibility Requirements
+## Related Accessibility Guidelines and Techniques
 
 - [WCAG Success Criteria 3.1.3 Unusual words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
 - [WCAG Success Criteria 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
@@ -70,4 +71,4 @@ Unclear and technical words (as well as other Pattern failures):
 
 ## Key Terms
 
-*? Coga is developing a list of terms so should we repeat here or simple link to it ?*
+_? Coga is developing a list of terms so should we repeat here or simple link to it ?_

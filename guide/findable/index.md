@@ -25,7 +25,7 @@ doc-note-message-md: |
 
 ## Introduction
 
-<p class="ednote"> TODO - missing fom doc </p>
+<p class="ednote"> TODO - missing from doc </p>
 
 ## Pages
 

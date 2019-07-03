@@ -20,4 +20,4 @@ doc-note-message-md: |
 - I can readily find the content or activity that I want as the architecture is understandable;
 - I always recognize where I am in the architecture of the website, application or multi-step process;
 - I can clearly identify which elements I can interact with and am confident about what will happen when I do;
-- The language used is at my reading level and any symbols used are familiar to me.
+- The language used is at my reading level and any symbols used are familiar to me. _TODO:move this to Clear Content_

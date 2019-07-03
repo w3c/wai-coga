@@ -59,9 +59,9 @@
           url: "/coga-draft/guide/clear/stories"
         - name: Use clear words *
           url: "/coga-draft/guide/clear/clear-words"
-        - name: Use a simple tense and written language *
+        - name: Use a simple tense and voice *
           url: "/coga-draft/guide/clear/simple-language"
-        - name: Do not use double negatives or clauses inside clauses *
+        - name: Do not use double negatives or nested clauses *
           url: "/coga-draft/guide/clear/not-complex"
         - name: Use literal language *
           url: "/coga-draft/guide/clear/literal-language"
@@ -71,7 +71,7 @@
           url: "/coga-draft/guide/clear/succinct-text"
         - name: Use white spacing *
           url: "/coga-draft/guide/clear/clear-spacing"
-        - name: Use clear and accurate text formatting and punctuation *
+        - name: Use clear, accurate text formatting and punctuation *
           url: "/coga-draft/guide/clear/clean-typography"
         - name: Provide a summary of long documents
           url: "/coga-draft/guide/clear/summary-text"

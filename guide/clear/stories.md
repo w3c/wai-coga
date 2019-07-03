@@ -14,6 +14,7 @@ doc-note-message-md: |
 
 - I want the language used to be clear and easy for me to quickly understand;
 - I want no unexplained, implied or ambiguous information;
+- I easily understand the activities being described, who is involved and when;
 - I want no complex math concepts and I find words easier to understand than digits;
 - I want content written and structured for slower readers;
 - I want the text to be supported by symbols that are familiar to me;
