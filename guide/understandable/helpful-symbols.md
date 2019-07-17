@@ -13,7 +13,7 @@ Add familiar images, symbols and pictographs to you page to aid understanding.
 
 ## User Story
 
-<blockquote class="pull">As someone who finds reading and language difficult I see symbols that help me understand paragraphs or words.</blockquote>
+<blockquote class="pull">As someone who finds reading and language difficult I see symbols that help me find sections and understand paragraphs or words.</blockquote>
 
 ## What To Do
 
