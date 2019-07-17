@@ -32,7 +32,7 @@
         - name: Use obvious structure and relationships
           url: "/coga-draft/guide/understandable/recognizable-regions"
         - name: Sub-menu items are easy to identify
-          url: "/coga-draft/guide/understandable/findable-controls"
+          url: "/coga-draft/guide/understandable/menu-items"
         - name: Sub-menu items are logical
           url: "/coga-draft/guide/understandable/menu-structure"
         - name: Use a design that is likely to be familiar
