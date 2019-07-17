@@ -56,12 +56,12 @@ Unclear and technical words (as well as other Pattern failures):
 
 - A Landlord's Right to **Deduct**. When a **tenant** moves into a rental property, he or she will pay the landlord a **security deposit**. Depending on the **jurisdiction**, this deposit will be returned to the tenant within a **specific time** period at the **cessation** of the **lease term**, as long as the tenant follows all the terms and **tenants** of the **lease agreement** or contract. Select links below to read the laws that **pertain to your situation**.
 
-## Related Accessibility Guidelines and Techniques
+## Related Guidelines and Techniques
 
-- [WCAG Success Criteria 3.1.3 Unusual words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
-- [WCAG Success Criteria 3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
-- [WCAG Success Criteria 3.1.5 Reading level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
-- [WCAG Success Criteria 3.1.6 Pronunciation](https://www.w3.org/WAI/WCAG21/quickref/#pronunciation)
+- WCAG Guideline [3.1.3 Unusual words](https://www.w3.org/WAI/WCAG21/quickref/#unusual-words)
+- WCAG Guideline [3.1.4 Abbreviations](https://www.w3.org/WAI/WCAG21/quickref/#abbreviations)
+- WCAG Guideline [3.1.5 Reading level](https://www.w3.org/WAI/WCAG21/quickref/#reading-level)
+- WCAG Guideline [3.1.6 Pronunciation](https://www.w3.org/WAI/WCAG21/quickref/#pronunciation)
 
 ## Related Patterns
 

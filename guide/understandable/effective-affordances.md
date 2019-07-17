@@ -5,6 +5,9 @@ github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
+doc-note-type: draft
+doc-note-message-md: |
+  Some content here could be removed as it repeats advice in referenced guidelines.
 ---
 
 ## Description
@@ -36,7 +39,7 @@ Controls that behave slightly differently to others that look similar or look di
 
 ## More details
 
-Ensure all controls have clear Affordances (the properties that indicate how users might interact them). For example, a button looks like it may be "pressed" or an Assistive Technology gets a list of possible actions. Use clear and consistent visual design and interaction patterns, along with well tested accessibility design.
+Ensure all controls have clear Affordances (the properties that indicate how users might interact with them). For example, a button looks like it may be "pressed" or an Assistive Technology gets a list of possible actions. Use clear and consistent visual design and interaction patterns, along with well tested accessibility design.
 
 Use standard HTML controls which have carefully designed visuals and behavior to ensure easy identification and use. Users are likely to be familiar with these and know how to use them. Avoid large changes to styling or behavior in ways that may be confusing to users.
 
@@ -54,11 +57,22 @@ Links with an underline and/or blue text color (or purple for already visited li
 
 Links without an underline or usual blue text color (or purple for already visited links), even those that become clear when they receive focus are more difficult to use. Some users may not know they are there.
 
-## Related Accessibility Guidelines and Techniques
+## Related Guidelines and Techniques
 
-- TODO
+- WCAG Guideline [1.4.1 Use of Color](https://www.w3.org/WAI/WCAG21/quickref/#use-of-color)
+- WCAG Guideline [2.1.1 Keyboard](https://www.w3.org/WAI/WCAG21/quickref/#keyboard)
+- WCAG Guideline [2.4.7 Focus Visible](https://www.w3.org/WAI/WCAG21/quickref/#focus-visible)
+- WCAG Guideline [2.5.6 Concurrent Input Mechanisms](https://www.w3.org/WAI/WCAG21/quickref/#concurrent-input-mechanisms)
+- WCAG Guideline [3.2.1 On Focus](https://www.w3.org/WAI/WCAG21/quickref/#on-focus)
+- WCAG Guideline [3.2.1 On Input](https://www.w3.org/WAI/WCAG21/quickref/#on-input)
+- WCAG Guideline [3.2.1 Consistent Identification](https://www.w3.org/WAI/WCAG21/quickref/#consistent-identification)
 
 ## Related Patterns
+
+- [Sub-menu items are easy to identify](./findable-controls)
+- [Sub-menu items are logical](./menu-structure)
+- [Use a design that is likely to be familiar](./familiar-design)
+- [Use a consistent visual design](./internally-consistent)
 
 ## Key Terms
 
