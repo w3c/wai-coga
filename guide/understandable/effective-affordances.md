@@ -16,7 +16,7 @@ Ensure controls can be readily identified and their use is easily understood.
 
 ## User Story
 
-<blockquote class="pull">I can quickly and easily identify which elements I can interact with and am confident about what will happen when I do.</blockquote>
+<blockquote class="pull">As someone who easily forgets things I can quickly and easily identify which elements I can interact with and am confident about what will happen when I do.</blockquote>
 
 ## What To Do
 

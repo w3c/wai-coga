@@ -1,5 +1,5 @@
 ---
-title: Make the purpose of your content clear
+title: Make the purpose of sections clear
 permalink: /coga-draft/guide/understandable/clear-purpose
 github:
   repository: w3c/wai-coga

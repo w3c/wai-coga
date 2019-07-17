@@ -17,7 +17,7 @@
       pages:
         - name: User stories
           url: "/coga-draft/guide/understandable/stories"
-        - name: Make the purpose of your content clear
+        - name: Make the purpose of sections clear
           url: "/coga-draft/guide/understandable/clear-purpose"
         - name: Make Each Step Clear
           url: "/coga-draft/guide/understandable/clear-steps"
