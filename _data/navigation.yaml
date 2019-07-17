@@ -22,7 +22,7 @@
         - name: Make Each Step Clear
           url: "/coga-draft/guide/understandable/clear-steps"
         - name: Group and highlight information with graphical indicators
-          url: "/coga-draft/guide/understandable/visual-heirarchy"
+          url: "/coga-draft/guide/understandable/visual-hierarchy"
         - name: Break media into chunks
           url: "/coga-draft/guide/understandable/chunked-media"
         - name: Make the purpose of each section clear
