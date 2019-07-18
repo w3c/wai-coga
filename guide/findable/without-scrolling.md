@@ -1,6 +1,6 @@
 ---
 title: Ensure most important things are easy to find
-permalink: /coga-draft/guide/findable/conspicuous-primary
+permalink: /coga-draft/guide/findable/without-scrolling
 github:
   repository: w3c/wai-coga
 layout: guide

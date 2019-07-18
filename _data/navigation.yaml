@@ -47,7 +47,7 @@
         - name: User stories
           url: "/coga-draft/guide/findable/stories"
         - name: Ensure most important things are easy to find *
-          url: "/coga-draft/guide/findable/conspicuous-primary"
+          url: "/coga-draft/guide/findable/without-scrolling"
         - name: Provide Search
           url: "/coga-draft/guide/findable/search-facility"
         - name: Let users go back
