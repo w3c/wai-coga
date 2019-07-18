@@ -5,21 +5,25 @@ github:
   repository: w3c/wai-coga
 layout: guide
 feedbackmail: wai@w3.org
+doc-note-type: draft
+doc-note-message-md: |
+  Changes from doc: removed 'stand out' as other patterns cover that.
+  Q: Should we rename to include 'scrolling' specifically?
 ---
 
 ## Description
 
-Ensure key content visually stands out and is visible without scrolling.
+Ensure key content is visible without scrolling.
 
 ## User Story
 
-<blockquote class="pull">As someone with learning difficulties I can easily see the import things that I want on a site and they are not hidden off screen so I do not know they are there.</blockquote>
+<blockquote class="pull">As someone with learning difficulties I can easily see the import things that I want on a site as they are not hidden off screen.</blockquote>
 
 ## What To Do
 
-Make it easy to find the most important things on the page. Identify key content and its placement early in the design process. Often placing key content, or links to it, at the top of the page will make it easiest for users to find important content as no scrolling is required.
+Make it easy to find the most important things on the page. Identify key content and its placement early in the design process. Often placing key content, or links to it, at the top of the page will make it easiest for users to find important content as no scrolling is required. Use clear headings, links or symbols to ensure they visually stand out.
 
-Design for content to viewed on a wide range of viewport sizes and with magnification. Use techniques such as "Responsive Design" and CSS breakpoints to keep things easy to find at all scales.
+Design for content to be viewed on a wide range of viewport sizes and with magnification or zoom. Use techniques such as "Responsive Design" and CSS breakpoints to keep things easy to find at all scales.
 
 ## How It Helps
 
