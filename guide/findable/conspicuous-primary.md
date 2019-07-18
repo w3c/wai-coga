@@ -53,7 +53,7 @@ A form has a large text entry box but the submit button is hidden off screen.
 ## Related Patterns
 
 - [Make the purpose of sections clear](../understandable/clear-purpose)
-- [Provide Search](./search/facility)
+- [Provide Search](./search-facility)
 - [Use Symbols that help the user](../understandable/helpful-symbols)
 - [Make it easy to find help](../helpful/help-feedback)
 
