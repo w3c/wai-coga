@@ -7,7 +7,7 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-.
+  .
 ---
 
 ## Description
