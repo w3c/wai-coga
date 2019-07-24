@@ -89,7 +89,7 @@
         - name: Use clear labels and instructions *
           url: "/coga-draft/guide/certain/clear-labels"
         - name: Provide flexibility in form inputs
-          url: "/coga-draft/guide/certain/rollback-actions"
+          url: "/coga-draft/guide/certain/flexible-inputs"
         - name: Avoid data loss and timeouts
           url: "/coga-draft/guide/certain/avoid-loss"
         - name: Provide feedback
