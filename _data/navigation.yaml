@@ -46,7 +46,7 @@
       pages:
         - name: User stories
           url: "/coga-draft/guide/findable/stories"
-        - name: Ensure most important things are easy to find *
+        - name: Ensure the most important things are easy to find *
           url: "/coga-draft/guide/findable/without-scrolling"
         - name: Provide Search
           url: "/coga-draft/guide/findable/search-facility"

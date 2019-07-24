@@ -1,5 +1,5 @@
 ---
-title: Ensure most important things are easy to find
+title: Ensure the most important things are easy to find
 permalink: /coga-draft/guide/findable/without-scrolling
 github:
   repository: w3c/wai-coga
@@ -7,7 +7,7 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  Changes from doc: removed 'stand out' as other patterns cover that.
+  Changes from doc: removed 'stand out' as other patterns like menus cover that.
   Q: Should we rename to include 'scrolling' specifically?
 ---
 

@@ -9,11 +9,11 @@ feedbackmail: wai@w3.org
 
 ## Description
 
-Add familiar images, symbols and pictographs to you page to aid understanding.
+Add familiar images, symbols and pictographs to aid understanding.
 
 ## User Story
 
-<blockquote class="pull">As someone who finds reading and language difficult I see symbols that help me find sections and understand paragraphs or words.</blockquote>
+<blockquote class="pull">As someone who finds reading and language difficult I see symbols that help me find sections and understand content.</blockquote>
 
 ## What To Do
 

@@ -7,7 +7,7 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  .
+  Q: numerical vs mathematical - is maths out of scope?
 ---
 
 ## Description
@@ -16,7 +16,7 @@ Provide alternatives for numbers and numerical concepts
 
 ## User Story
 
-<blockquote class="pull">As someone with dyscalculia I can easily understand content that avoids the use of numbers and maths by providing alternatives.</blockquote>
+<blockquote class="pull">As someone with dyscalculia I can easily understand content as it avoids my need to process numbers and maths by providing alternatives.</blockquote>
 
 ## What To Do
 
