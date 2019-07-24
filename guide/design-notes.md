@@ -21,14 +21,31 @@ doc-note-message-md: |
 
   Some aspects of the structure and layout have been altered to work best as an interactive web resource. For example:
 
+  - Add Overview section containing: Background, Personalisation & User Testing sections 
+  - Move Objective User Testing sections and ensure Patterns and stories are clearly testable
   - Section numbers are not required
   - Objective and Pattern names are kept short to avoid wrapping
+  - Trimmed and rearranged Pattern content to better support designers' requirements (see below) 
+  - Add User Story to each Pattern.
+  - Add links to related Patterns and WCAG 3.2.2 SCs in Quick Ref (which includes Supplemental Guidance)
 
-  Other editorial changes support the user story when visiting the web resource:
+  A Designer's requirements when using this resource are summarized in this User Story:
 
-    <blockquote>"As a designer or developer I want to know what to implement with just enough background to set the context and explain why. If I need more info, for example to better understand the users or to check edge cases, I want links to the details."</blockquote>
-
-  These changes are mostly trimming and relocating content plus a little reorganization of content.
+  <blockquote>"As a designer or developer I want to know what to implement with just enough background to set the context and explain why. If I need more info, for example to better understand the users or to check edge cases, I want links to the details."</blockquote>
 
   See the [tracking page on the wiki](https://www.w3.org/WAI/GL/task-forces/coga/wiki/Design_Guide#List_of_candidate_Patterns_for_Web_Version").
+
+  ## Initial Patterns
+
+  The Patterns marked with a postfix asterisk in the navigation and listed here have been addressed first. They have been selected as being relevant to the Easy Reading EU Project.
+
+  - [Clearly identify controls and their use](understandable/effective-affordances)
+  - [Use symbols that help the user](understandable/helpful-symbols)
+  - [Ensure the most important things are easy to find](findable/without-scrolling)
+  - [Provide alternatives for numbers](clear/numeric-alternatives)
+  - [Use clear labels and instructions](certain/clear-labels)
+  - [Ensure login does not require good memory or cognitive skills](forgettable/easy-login)
+  - [Make it easy to find help and give feedback](helpful/help-feedback)
+  - [Support Simplification](adaptable/support-simplification)
+  - [Support Personalization](adaptable/support-personalisation)
 ---
