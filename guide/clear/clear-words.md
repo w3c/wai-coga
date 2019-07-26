@@ -18,7 +18,7 @@ Use words that are common and clear to as many people as possible.
 
 ## User Story
 
-<blockquote class="pull">I understand all the words used and am not confused by any that I do not know.</blockquote>
+<blockquote class="pull">I understand all the words used and am not confused or distracted by any that I do not know.</blockquote>
 
 ## What To Do
 
@@ -37,9 +37,9 @@ _TODO: Consider making the above nested list a &lt;details&gt; or other expando.
 
 Using unclear or unknown words presents a significant barrier to many people. This can be avoided by careful choice of words and the provision of explanations.
 
-## More details
-
 For example, people with language impairments, learning disabilities, and poor memory will better understand the content when clear words are used. Also, your audience might not share domain expertise and benefit from explanations of specialist or technical words. Clear words are also important for people with lower language skills. For example, the average reading age in the UK is below 11. Clear words also help readers who do not share the same primary native language as that used for content.
+
+## More details
 
 ## Examples
 

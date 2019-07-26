@@ -36,7 +36,7 @@ Even relatively common calculations such decimal unit conversions can be very ha
 
 ## More details
 
-??? It should be noted that different users may find math easier to understand than long text.
+_TODO: It should be noted that different users may find math easier to understand than long text._
 
 Types of content that may need extra support include:
 
@@ -68,7 +68,7 @@ A weather chart uses non-numerical values such as "Cold", "Mild" and "Hot" as we
 
 ### Insufficient
 
-A train schedule has a long list of times relative to the hour rather than actual timess.
+A train schedule has a long list of times relative to the hour rather than actual times.
 
 ## Related Guidelines and Techniques
 

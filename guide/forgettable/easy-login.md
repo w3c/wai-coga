@@ -9,11 +9,11 @@ feedbackmail: wai@w3.org
 
 ## Description
 
-Ensure users easily login and register without using advanced cognitive skills.
+Ensure users easily log in and register without using advanced cognitive skills.
 
 ## User Story
 
-<blockquote class="pull">I can easily login without using skills like memorizing characters or performing calculations</blockquote>
+<blockquote class="pull">I can easily log in without using skills like memorizing characters or performing calculations</blockquote>
 
 ## What To Do
 
@@ -55,30 +55,29 @@ There are many ways to meet this design guidance item.
   - Clicking a link sent to an email address or a phone number; (Note that this is easy to implement and may be useful for minimal security, such as allowing comments on a blog)
   - Logging in by using information present in users' personal documentation, such as the total number of a current account balance, with explanation on how to find this information
 
-## Examples, Techniques and Requirements
+## Examples
 
-Success Examples:
+### Sufficient
 
-- Using a password manager
-- Using [Web Authentication](https://www.w3.org/TR/webauthn/): An API for accessing Public Key Credentials
-- Logging in via an OpenID provider
+- A login form is compatible with password managers that fill in passwords
+- A web site supports [Web Authentication](https://www.w3.org/TR/webauthn/): An API for accessing Public Key Credentials
+- A login form has buttons to log in with an existing OpenID provider account.
 - Two step authentication and bluetooth link
 - Using a QR Code
 
-Failure Examples:
+### Insufficient
 
 - Two step authentication that requires "coping"
 - Using a password
 
-WCAG Techniques and Success Criteria:
-
-- [???](https://www.w3.org/WAI/WCAG21/quickref/)
+## Related Guidelines and Techniques
 
 _! TODO Add related Personalisation and UAAG topics here !_
 
 ## Related Patterns
 
-- [???]()
+- [Do not rely on users memorizing information](avoid-recall)
+- [Build forms so people make less mistakes](../certain/prevent-mistakes)
 
 ## Key Terms
 
