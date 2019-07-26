@@ -81,7 +81,7 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 3.0)
       typhoeus (~> 1.3)
-    html-pipeline (2.11.0)
+    html-pipeline (2.11.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.6.0)
@@ -239,13 +239,14 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unicode-display_width (1.6.0)
+    wai-website-plugin (0.1.2)
     wdm (0.1.1)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (= 198)
+  github-pages (>= 198.0)
   jekyll-github-metadata
   jekyll-include-cache
   jekyll-redirect-from
@@ -253,6 +254,7 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
+  wai-website-plugin
   wdm (>= 0.1.0)
 
 BUNDLED WITH
