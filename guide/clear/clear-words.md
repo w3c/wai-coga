@@ -18,15 +18,15 @@ Use words that are common and clear to as many people as possible.
 
 ## User Story
 
-<blockquote class="pull">I understand all the words used and am not confused or distracted by any that I do not know.</blockquote>
+<blockquote class="pull">I understand all the words used and am not confused or distracted by any words or abbreviations that I do not know.</blockquote>
 
 ## What To Do
 
-Apply the WCAG Guideline [3.1 Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable) which addresses several related aspects of content readability. This includes addressing: unusual words, abbreviations and reading level. In addition:
+Use the most common words and phrases that people with lower reading level or language skills are most likely to know. In particular:
 
-- Use the most common words and phrases. These are the terms that people with lower language skills are most likely to know
-- Do not invent new words or give words new meanings that must be learned for the content
-- If you must use new terms, jargon, abbreviations, mnemonics or acronyms then make sure they are accompanied by an explanation. Consider the following techniques for explaining unusual words and abbreviations:
+- Pay particular attention to: headings, labels, navigational elements, instructions, and error messages;
+- Take care with unusual words, abbreviations and reading level;
+- Provide an explanation for any unusual words, jargon, abbreviations, mnemonics or acronyms. Consider the following techniques:
   - Add explanation in brackets next to it
   - Provide a pop up definition
   - Provide a glossary
@@ -40,6 +40,8 @@ Using unclear or unknown words presents a significant barrier to many people. Th
 For example, people with language impairments, learning disabilities, and poor memory will better understand the content when clear words are used. Also, your audience might not share domain expertise and benefit from explanations of specialist or technical words. Clear words are also important for people with lower language skills. For example, the average reading age in the UK is below 11. Clear words also help readers who do not share the same primary native language as that used for content.
 
 ## More details
+
+The WCAG Guidelines under [3.1 Readable](https://www.w3.org/WAI/WCAG21/quickref/#readable) addresses several related aspects of content readability and provide useful guidance.
 
 ## Examples
 
