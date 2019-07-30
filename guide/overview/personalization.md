@@ -7,7 +7,7 @@ layout: guide
 feedbackmail: wai@w3.org
 doc-note-type: draft
 doc-note-message-md: |
-  A new section introducing personalization and content lifted form various points in the Desing Guide.
+  A new section introducing personalization and content lifted from various points in the Design Guide.
 ---
 
 {::nomarkdown}

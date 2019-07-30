@@ -37,7 +37,7 @@ As with all Accessibility work it's important to include users in the [testing a
 
 ### User Testing Suggestions
 
-Look at the User Stories in the Objectives and Patterns and they should suggest suitable tests to ensure the stories are mae possible.
+Look at the User Stories in the Objectives and Patterns and they should suggest suitable tests to ensure the stories are made possible.
 
 More general test ideas include:
 
