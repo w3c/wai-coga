@@ -22,12 +22,12 @@ doc-note-message-md: |
   Some aspects of the structure and layout have been altered to work best as an interactive web resource. For example:
 
   - Add Overview section containing: Background, Personalisation & User Testing sections 
-  - Move Objective User Testing sections and ensure Patterns and stories are clearly testable
+  - Move Objective User Testing sections and ensure Patterns and stories are clearly testable themselves
   - Section numbers are not required
   - Some Objective and Pattern names [altered to be short](https://docs.google.com/spreadsheets/d/18gkODnzy_8BzZAieJ_IOQX1dmjcf9MZsC7vC9glKQvI/edit?usp=sharing) and so avoid wrapping
   - Trimmed and rearranged Pattern content to better support designers' requirements (see User Story below) 
   - Add mentions of WCAG SCs and Supplemental information
-  - Add User Story to each Pattern.
+  - Add User Story to each Pattern. Note sure if ween also want them at Objective level?
   - Add links to related Patterns and WCAG 3.2.2 SCs in Quick Ref (which includes Supplemental Guidance)
 
   **A Designer's requirements when using this resource are summarized in this User Story**
@@ -50,4 +50,8 @@ doc-note-message-md: |
   - [Make it easy to find help and give feedback](helpful/help-feedback)
   - [Support Simplification](adaptable/support-simplification)
   - [Support Personalization](adaptable/support-personalisation)
+footer: >   # Translate words below, including "Date:" and "Editor:". (Do not update the date.)
+   <p><strong>Date:</strong> Draft, Updated 04 May 2020. CHANGELOG.</p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/#stevelee">Steve Lee</a>.</p>
+   <p>Drafted by the Cognitive and Learning Disabilities Task Force (<a href="https://www.w3.org/WAI/GL/task-forces/coga/">CoGa TF</a>) for the Accessible Platform Architecture Working Group (<a href="https://www.w3.org/WAI/GL/">APA</a>) and Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/APA/">AGWG</a>) with support from the <abbr title="European Commission">EC</abbr> <a href="https://www.w3.org/WAI/about/projects/easy-reading/">Easy Reading project</a>.</p>
 ---
